@@ -5313,7 +5313,7 @@
 - id: 1769110839915
   fields:
     VideoFilename: pets_0156.webm
-    Front: You ain&#x27;t never did nothing to nobody!
+    Front: You ain't never did nothing to nobody!
     Back: Ти ніколи нічого нікому не зробив!
   tags: []
 - id: 1769110839916
@@ -8208,13 +8208,13 @@
 - id: 1783351233175
   fields:
     VideoFilename: silicon_valley_0417.webm
-    Front: Totally get it. That’s baller.
+    Front: Totally get it. That's baller
     Back: Повністю розумію. Це круто.
   tags: []
 - id: 1783351233176
   fields:
     VideoFilename: silicon_valley_0418.webm
-    Front: All right, I’m gonna go have a shower.
+    Front: All right, I'm gonna go have a shower
     Back: Гаразд, я піду прийму душ.
   tags: []
 - id: 1783351233177
@@ -8226,7 +8226,7 @@
 - id: 1783351233178
   fields:
     VideoFilename: silicon_valley_0420.webm
-    Front: It’s the opposite of jealousy.
+    Front: It's the opposite of jealousy
     Back: Це протилежність ревнощів.
   tags: []
 - id: 1783351233179

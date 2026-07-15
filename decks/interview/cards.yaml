@@ -57,15 +57,15 @@
 - id: 1783115114786
   fields:
     Front: Поза роботою я веду YouTube-канал, сфокусований на інженерії та розробці.
-    Back: Outside of work, I run a YouTube channel focused on engineering and development.
+    Back: Outside of work, I run a YouTube channel focused on engineering and development
     Audio: interview_07dc7ae14e38.mp3
     State: ''
   tags:
   - interview
 - id: 1783115114811
   fields:
-    Front: Наразі я записав понад триста годин на різні теми.
-    Back: I've recorded over three hundred hours of different topics so far.
+    Front: Я записав понад триста годин на різні теми на цей момент
+    Back: I've recorded over three hundred hours of different topics so far
     Audio: interview_2b162e93ef0f.mp3
     State: ''
   tags:
@@ -73,15 +73,15 @@
 - id: 1783115114835
   fields:
     Front: Я також створюю інструменти з відкритим кодом і використовую їх як навчальний матеріал.
-    Back: I also build open-source tools and use them as teaching material.
+    Back: I also build open-source tools and use them as teaching material
     Audio: interview_079dbaad7e76.mp3
     State: ''
   tags:
   - interview
 - id: 1783115114861
   fields:
-    Front: Я також заснував ITFriday — живу технічну спільноту для ІТ.
-    Back: I also founded ITFriday — a live tech community for IT.
+    Front: Я також заснував IT Friday — живу технічну спільноту для ІТ.
+    Back: I also founded IT Friday - a live tech community for IT
     Audio: interview_eb3d7b7b4768.mp3
     State: ''
   tags:

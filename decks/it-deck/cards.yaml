@@ -5361,7 +5361,7 @@
 - id: 1783031365874
   fields:
     Front: Якби таке обмеження не існувало, архітектура була б набагато простішою
-    Back: If such a limitation did not exist, the architecture would be much simpler.
+    Back: If such a limitation did not exist, the architecture would be much simpler
     Audio: IT_0900-If_such.mp3
   tags: []
 - id: 1783031365875
@@ -5457,26 +5457,26 @@
   tags: []
 - id: 1783031365890
   fields:
-    Front: Чому цей пакет ще не був оброблений?
-    Back: Why hasn’t this batch been processed yet?
+    Front: Чому цей пакет не був оброблений ще?
+    Back: Why hasn't this batch been processed yet?
     Audio: IT_0916-Why_hasn_t.mp3
   tags: []
 - id: 1783031365891
   fields:
     Front: Якби пакет був меншим, час відповіді був би коротшим
-    Back: If the batch were smaller, the response time would be shorter.
+    Back: If the batch were smaller, the response time would be shorter
     Audio: IT_0917-If_the.mp3
   tags: []
 - id: 1783031365892
   fields:
-    Front: Усі записи були оброблені одним пакетним процесом
-    Back: All records were processed by a single batch job.
+    Front: Усі записи були оброблені одним пакетним (процесом|"джобою")
+    Back: All records were processed by a single batch job
     Audio: IT_0918-All_records.mp3
   tags: []
 - id: 1783031365893
   fields:
     Front: Вживати заходів означає почати робити щось для вирішення проблеми
-    Back: To take action means to begin doing something to solve a problem.
+    Back: To take action means to begin doing something to solve a problem
     Audio: IT_0919-To_take.mp3
   tags: []
 - id: 1783031365894
