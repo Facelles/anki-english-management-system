@@ -6,4 +6,5 @@ fields:
 templates:
 - Card 1
 sortField: VideoFilename
-mediaFields: [VideoFilename]
+mediaFields:
+- VideoFilename

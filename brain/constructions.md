@@ -11,6 +11,12 @@
 | Hardly | Hardly **had** X happened when Y... |
 
 | Have you ever had...? | |
+| commit | зобов'язуватися, брати на себе |
+| back and forth | туди-сюди, взад і вперед |
+| participate | брати участь, долучатися |
+| engage | залучати, брати участь |
+| pros and cons | плюси і мінуси, за і проти |
+| capacity | здатність, можливість |
 | introduce | впроваджувати, представляти |
 | miss | пропускати, не помічати |
 | inconvenience/convenience | незручність, турбота |
