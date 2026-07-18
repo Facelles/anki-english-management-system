@@ -1847,34 +1847,37 @@
   tags: []
 - id: 1784071343915
   fields:
-    Front: Небагато проблем привернули стільки уваги громадськості, як швидке зростання соціальних мереж.
-    Back: Few issues have attracted as much public attention as the rapid growth of social media.
+    Front: Мало яке питання привернуло стільки суспільної уваги, як стрімке зростання соціальних мереж
+    Back: Few issues have attracted as much public attention as the rapid growth of social media
     Audio: l2-vocab_f0c271e63987.mp3
   tags: []
 - id: 1784071343940
   fields:
-    Front: Сьогодні все більше людей обирають віддалену роботу, а не в традиційних офісах.
-    Back: Nowadays, more and more people are choosing to work remotely rather than in traditional offices.
+    Front: (Сьогодні|у наш час)&nbsp;все більше людей обирають працювати віддалено, а не в традиційних
+      офісах.
+    Back: Nowadays, more and more people are choosing to work remotely rather than in traditional offices
     Audio: l2-vocab_705d9321e053.mp3
   tags: []
 - id: 1784071343964
   fields:
-    Front: Не можна заперечувати, що технології змінили майже всі аспекти сучасного життя.
-    Back: There is no denying that technology has transformed almost every aspect of modern life.
+    Front: (Немає заперечення|Не можна заперечувати), що технології змінили майже кожен аспект сучасного
+      життя.
+    Back: There is no denying that technology has transformed almost every aspect of modern life
     Audio: l2-vocab_b65f664e39b4.mp3
   tags: []
 - id: 1784071343989
   fields:
-    Front: Ви коли-небудь замислювалися над тим, скільки часу щодня витрачаєте на екран?
+    Front: Ви коли-небудь (розглядали|замислювалися) над тим, скільки часу щодня витрачаєте дивлячись
+      у екран щодня?
     Back: Have you ever considered how much time you spend looking at a screen every day?
     Audio: l2-vocab_349958bf2ab9.mp3
   tags: []
 - id: 1784071344014
   fields:
-    Front: В останні роки захист навколишнього середовища став однією з найбільш обговорюваних тем у всьому
-      світі.
+    Front: В останні роки захист навколишнього середовища став однією з найбільш широко обговорюваних
+      тем у всьому світі.
     Back: In recent years, environmental protection has become one of the most widely discussed topics
-      around the world.
+      around the world
     Audio: l2-vocab_624da89190d8.mp3
   tags: []
 - id: 1784071344039

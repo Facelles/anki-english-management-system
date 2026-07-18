@@ -3462,7 +3462,7 @@
 - id: 1774620257023
   fields:
     Front: Якщо кількість логів зросте, система (може ~50% ймовірність) сповільнитись
-    Back: If the amount of logs increases, the system may slow down.
+    Back: If the amount of logs increases, the system may slow down
     Audio: IT_0585-If_the.mp3
   tags: []
 - id: 1774620257024
@@ -4949,7 +4949,7 @@
   tags: []
 - id: 1781476357224
   fields:
-    Front: Було нелегко розрізнити справжню проблему серед усіх симптомів
+    Front: Це було не легко розрізнити справжню проблему серед усіх симптомів
     Back: It was not easy to distinguish the real issue among all the symptoms
     Audio: IT_0833-It_was.mp3
   tags: []
@@ -5354,7 +5354,7 @@
   tags: []
 - id: 1783031365873
   fields:
-    Front: Чи існує кращий вирішення існує?
+    Front: Чи кращe вирішення існує?
     Back: Does a better solution exist?
     Audio: IT_0899-Does_a.mp3
   tags: []
@@ -5481,50 +5481,51 @@
   tags: []
 - id: 1783031365894
   fields:
-    Front: Ми повинні негайно вжити заходів
-    Back: We must take action immediately.
+    Front: Ми повинні вжити заходів негайно
+    Back: We must take action immediately
     Audio: IT_0920-We_must.mp3
   tags: []
 - id: 1783031365895
   fields:
-    Front: Чому досі не було вжито жодних заходів?
+    Front: Чому досі не було вжито жодних заходів? [PrPref]
     Back: Why has no action been taken yet?
     Audio: IT_0921-Why_has.mp3
   tags: []
 - id: 1783031365896
   fields:
-    Front: Якби ми діяли швидше, інцидент був би менш серйозним
-    Back: Had we taken action sooner, the incident would have been less severe.
+    Front: Якби ми діяли швидше, інцидент був би менш (<code></code>тяжкий|серйозний) [Invers Third Conditional]
+    Back: Had we taken action sooner, the incident would have been less severe
     Audio: IT_0922-Had_we.mp3
   tags: []
 - id: 1783031365897
   fields:
-    Front: Лише після скарг користувачів компанія почала діяти
-    Back: Only after users had complained did the company take action.
+    Front: Лише після того, як користувачі поскаржились, компанія вжила заходів
+    Back: Only after users had complained did the company take action
     Audio: IT_0923-Only_after.mp3
   tags: []
 - id: 1783031365898
   fields:
-    Front: Глибоко розбиратися означає ретельно досліджувати проблему, щоб знайти справжню причину
-    Back: To dig deep means to investigate a problem carefully in order to find its real cause.
+    Front: (Копати глибоко|Глибоко розбиратися) означає досліджувати проблему ретельно, з метою знайти
+      її справжню причину
+    Back: To dig deep means to investigate a problem carefully in order to find its real cause
     Audio: IT_0924-To_dig.mp3
   tags: []
 - id: 1783031365899
   fields:
     Front: Нам довелося глибоко розібратися, щоб знайти причину витоку пам’яті
-    Back: We had to dig deep to find the cause of the memory leak.
+    Back: We had to dig deep to find the cause of the memory leak
     Audio: IT_0925-We_had.mp3
   tags: []
 - id: 1783031365900
   fields:
-    Front: Чи достатньо глибоко ми дослідили цей інцидент?
+    Front: Чи достатньо глибоко мизанурилися в цей інцидент? [PrPerf]
     Back: Have we dug deep enough into this incident?
     Audio: IT_0926-Have_we.mp3
   tags: []
 - id: 1783031365901
   fields:
-    Front: Якби ми не розібралися глибше, ми б ніколи не знайшли справжню причину
-    Back: Had we not dug deeper, we would never have found the real cause.
+    Front: Якби ми не копнули глибше, ми б ніколи не знайшли справжню причину [Invers Third cond]
+    Back: Had we not dug deeper, we would never have found the real cause
     Audio: IT_0927-Had_we.mp3
   tags: []
 - id: 1783031365902

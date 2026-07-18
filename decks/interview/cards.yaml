@@ -89,8 +89,548 @@
 - id: 1783115114885
   fields:
     Front: Ми проводимо трансляції щоп’ятниці та охоплюємо все зі світу IT.
-    Back: We stream every Friday and cover everything from the IT world.
+    Back: We stream every Friday and cover everything from the IT world
     Audio: interview_d1531f5596cf.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804719
+  fields:
+    Front: Я Зараз&nbsp;шукаю новий виклик, де я зможу об’єднати все з цього разом.
+    Back: I'm now looking for a new challenge where I can bring all of this together
+    Audio: interview_85fa394096a0.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804744
+  fields:
+    Front: В The AA я працюю в IT-відділі, відповідальному за цифрові продукти.
+    Back: At The AA I work in an IT department responsible for digital products
+    Audio: interview_a72f750ef540.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804778
+  fields:
+    Front: Наша команда складається з 6 розробників, 1 інженера з контролю якості та власника продукту.
+    Back: Our team consists of 6 developers, 1 QA engineer, and a product owner
+    Audio: interview_5d2f4ac2a032.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804796
+  fields:
+    Front: Ми працюємо над різними програмами — від внутрішніх інструментів до продуктів для клієнтів.
+    Back: We work on a variety of apps - from internal tools to customer products
+    Audio: interview_045980fc0c8b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804822
+  fields:
+    Front: Сервер розроблено на основі NestJS із GraphQL і шаблоном шлюзу API.
+    Back: The backend is built on NestJS with GraphQL and an API gateway pattern
+    Audio: interview_ded6493c9786.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804846
+  fields:
+    Front: На серверній частині ми впроваджуємо нові функції та виправляємо помилки, а не створюємо з
+      нуля.
+    Back: On the backend we implement new features and fix bugs, not build from scratch.
+    Audio: interview_ea20fa0d9e5a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804867
+  fields:
+    Front: Але на інтерфейсі я розробляю та створюю програми з нуля.
+    Back: But on frontend, I design and build applications from scratch.
+    Audio: interview_27666c5576dd.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804892
+  fields:
+    Front: Я також працюю з деякою безсерверною інфраструктурою для підтримки старих програм і розробки
+      нових.
+    Back: I also work with some serverless infrastructure to support old applications and design new ones.
+    Audio: interview_5a1136268392.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804917
+  fields:
+    Front: Коли нам потрібна якась функція серверної частини, ми здебільшого створюємо безсерверні функції
+      на AWS Lambda.
+    Back: When we need some backend functionality, we mostly build serverless functions on AWS Lambda.
+    Audio: interview_f0d8f3a5dda2.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804942
+  fields:
+    Front: Я також переніс старі модулі NestJS і Apollo на їх сучасні версії.
+    Back: I also migrated old NestJS and Apollo modules to their modern versions.
+    Audio: interview_4c4c5fcf72e4.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804971
+  fields:
+    Front: Наразі я веду значне оновлення інтерфейсу зі старої кодової бази React.
+    Back: Currently I'm leading a major frontend upgrade from an old React codebase.
+    Audio: interview_24c743bdf173.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219804996
+  fields:
+    Front: Додаток мав застарілий MUI, застарілі бібліотеки та працював на Node 16.
+    Back: The app had legacy MUI, outdated libraries, and was running on Node 16.
+    Audio: interview_c93c3b93209b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805017
+  fields:
+    Front: Я представив Storybook, щоб запобігти повторюваним компонентам і мовчазним регресіям.
+    Back: I introduced Storybook to prevent duplicate components and silent regressions.
+    Audio: interview_14fe5a20bba0.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805042
+  fields:
+    Front: До цього несправні зміни інтерфейсу користувача виявлялися лише під час тестування якості.
+    Back: Before that, broken UI changes were only caught during QA testing.
+    Audio: interview_c8e36dd40f8c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805068
+  fields:
+    Front: Я не вибирав GraphQL — він уже був на місці, коли я приєднався.
+    Back: I didn't choose GraphQL — it was already in place when I joined.
+    Audio: interview_31bd086f5c04.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805092
+  fields:
+    Front: Але я розумію, чому це було обрано — REST означатиме забагато кінцевих точок.
+    Back: But I understand why it was chosen — REST would mean too many endpoints.
+    Audio: interview_81e56d50a4b3.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805116
+  fields:
+    Front: Чесно кажучи, у GraphQL є своя складність — багато резолверів, які важко відстежити.
+    Back: Honestly, GraphQL has its own complexity — many resolvers, hard to trace.
+    Audio: interview_1aa86b6ef7c0.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805142
+  fields:
+    Front: Замінити його зараз було б занадто дорого, тому ми працюємо з тим, що є.
+    Back: Replacing it now would be too costly, so we work with what we have.
+    Audio: interview_cbdb98286b2c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805171
+  fields:
+    Front: Ми використовуємо Lambda для атомарних асинхронних операцій, які не потребують миттєвої відповіді.
+    Back: We use Lambda for atomic, async operations that don't need instant response.
+    Audio: interview_f309d5bcd5e6.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805198
+  fields:
+    Front: Результат доставляється пізніше — електронною поштою або іншим асинхронним механізмом.
+    Back: The result is delivered later — via email or another async mechanism.
+    Audio: interview_ff9f7213db8e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805221
+  fields:
+    Front: NestJS уже був стеком, коли я приєднався, і я б все одно вибрав його.
+    Back: NestJS was already the stack when I joined, and I would have chosen it anyway.
+    Audio: interview_6020fdbc0c89.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805247
+  fields:
+    Front: Це дає нам багато готових рішень — шаблони архітектури та екосистему плагінів.
+    Back: It gives us a lot out of the box — architecture patterns and plugin ecosystem.
+    Audio: interview_edc7b6c21074.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805274
+  fields:
+    Front: Одним із моїх досягнень, яким я найбільше пишаюся, було створення спеціального календаря з
+      нуля.
+    Back: One of my proudest achievements was building a custom calendar from scratch.
+    Audio: interview_b3296ae4a0e3.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805293
+  fields:
+    Front: Ми не використовували жодних сторонніх бібліотек — все створено власними силами.
+    Back: We didn't use any third-party libraries — everything was built in-house.
+    Audio: interview_97a094fdbaee.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805317
+  fields:
+    Front: Це дало нам повний контроль над поведінкою, дизайном і крайовими випадками.
+    Back: It gave us full control over behaviour, design, and edge cases.
+    Audio: interview_80f3bfbce96a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805342
+  fields:
+    Front: Я представив Storybook у всіх програмах інтерфейсу користувача в команді.
+    Back: I introduced Storybook across all UI applications in the team.
+    Audio: interview_8518f09b8888.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805367
+  fields:
+    Front: Це зробило розробку швидшою, а тестування набагато надійнішим.
+    Back: It made development faster and testing much more reliable.
+    Audio: interview_2fb161ab0193.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805392
+  fields:
+    Front: Складні багатоетапні сценарії стало легко виокремлювати та тестувати незалежно.
+    Back: Complex multi-step scenarios became easy to isolate and test independently.
+    Audio: interview_71a300c911a1.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805417
+  fields:
+    Front: До Storybook проблеми в цих потоках часто пропускалися до регресії.
+    Back: Before Storybook, issues in those flows were often missed until regression.
+    Audio: interview_97dc16d8ec5e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805443
+  fields:
+    Front: Під час огляду коду я зосереджуюсь на якості коду, впливі на систему та нових залежностях.
+    Back: In code reviews I focus on code quality, system impact, and new dependencies.
+    Audio: interview_ac1018ac3838.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805467
+  fields:
+    Front: Я завжди думаю про те, як зміна може вплинути на інші частини програми.
+    Back: I always think about how a change might affect other parts of the application.
+    Audio: interview_5d03ec0731c8.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805492
+  fields:
+    Front: Я також питаю кожну нову бібліотеку — чи справді вона нам потрібна, чи можна її уникнути?
+    Back: I also question every new library — do we really need it, or can we avoid it?
+    Audio: interview_41f4d8d63136.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805517
+  fields:
+    Front: Формальне наставництво в моїй теперішній команді не є поширеним явищем — кожен працює незалежно.
+    Back: Formal mentoring isn't common in my current team — everyone works independently.
+    Audio: interview_f7fa754c5bcd.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805543
+  fields:
+    Front: Натомість я розвиваю свою пристрасть до викладання у своєму каналі YouTube та ITFriday.
+    Back: Instead, I develop my teaching passion into my YouTube channel and ITFriday.
+    Audio: interview_662ffa4b050a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805567
+  fields:
+    Front: Я створив повну серію відео, щоб допомогти розробникам, які тільки починають.
+    Back: I've created full series of videos to guide developers who are just starting out.
+    Audio: interview_f612fd673fc1.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805592
+  fields:
+    Front: Я почав додавати Vue до моїх проектів Laravel — це було схоже на природне розширення.
+    Back: I started adding Vue to my Laravel projects — it felt like a natural extension.
+    Audio: interview_11d3e4134d81.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805618
+  fields:
+    Front: Тоді я спробував React і одразу віддав перевагу йому над Vue.
+    Back: Then I tried React and immediately preferred it over Vue.
+    Audio: interview_42f132901fbf.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805642
+  fields:
+    Front: Робота в аутсорсингу означала багато проектів, і JS просто домінував у всіх.
+    Back: Working in outsourcing meant many projects, and JS simply dominated them all.
+    Audio: interview_d108824afc59.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805667
+  fields:
+    Front: Згодом я стандартизував весь свій стек навколо JavaScript.
+    Back: Over time I standardised my entire stack around JavaScript.
+    Audio: interview_c5e02e8896a7.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805691
+  fields:
+    Front: Я працюю в АА чотири роки, і я відчуваю, що виріс настільки, наскільки міг тут.
+    Back: I've been at The AA for four years and I feel I've grown as much as I can here.
+    Audio: interview_1693c326cbc5.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805717
+  fields:
+    Front: Я шукаю роль з більшою технічною складністю та більшими проблемами.
+    Back: I'm looking for a role with more technical complexity and bigger challenges.
+    Audio: interview_e7a3482041ca.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805742
+  fields:
+    Front: Я хочу працювати в середовищі, де інженерія є основним пріоритетом.
+    Back: I want to work in an environment where engineering is a core priority.
+    Audio: interview_bf975ef42d2c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805767
+  fields:
+    Front: Мені щиро подобається ділитися знаннями — це тримає мене кмітливим і залученим.
+    Back: I genuinely enjoy sharing knowledge — it keeps me sharp and engaged.
+    Audio: interview_0fb3b33f8cc0.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805792
+  fields:
+    Front: Викладання змушує вас глибоко розуміти речі, а не просто використовувати їх.
+    Back: Teaching forces you to understand things deeply, not just use them.
+    Audio: interview_a72e76c3e628.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805818
+  fields:
+    Front: Мій канал висвітлює реальні інженерні проблеми, а не лише навчальний матеріал.
+    Back: My channel covers real engineering problems, not just tutorial content.
+    Audio: interview_aee0262fa2a9.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805843
+  fields:
+    Front: ITFriday розпочався як спосіб відновити зв’язок української ІТ-спільноти за кордоном.
+    Back: ITFriday started as a way to reconnect the Ukrainian IT community abroad.
+    Audio: interview_43e54f1579d1.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805867
+  fields:
+    Front: Ми проводимо трансляції щоп’ятниці та обговорюємо як технічні, так і людські теми.
+    Back: We stream every Friday and discuss both technical and human topics.
+    Audio: interview_fa217e90dcb6.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805893
+  fields:
+    Front: Це стало чимось, чим я щиро пишаюся поза моєю повсякденною роботою.
+    Back: It's grown into something I'm genuinely proud of outside of my day job.
+    Audio: interview_21b83545c20f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805917
+  fields:
+    Front: Я уникаю передчасної оптимізації — код все одно часто потрібно змінювати пізніше.
+    Back: I avoid premature optimization — the code often needs to change later anyway.
+    Audio: interview_c604edfba054.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805942
+  fields:
+    Front: По-перше, я запитую, чи потрібен гачок, чи структура може вирішити це.
+    Back: First, I ask if a hook is even necessary, or if structure can solve it instead.
+    Audio: interview_3c656d59c55c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805967
+  fields:
+    Front: Часто useCallback не потрібен, якщо ви перемістите функцію за межі компонента.
+    Back: Often useCallback isn't needed if you move the function outside the component.
+    Audio: interview_6bb0532ef066.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219805993
+  fields:
+    Front: Передача даних як атрибутів замість внутрішнього стану позбавляє їх потреби.
+    Back: Passing data as props instead of internal state removes the need for it.
+    Audio: interview_d7650acb3655.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806017
+  fields:
+    Front: useMemo чудово підходить для запам’ятовування справді дорогих обчислень.
+    Back: useMemo is great for memoising genuinely expensive calculations.
+    Audio: interview_458a0f823ce5.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806043
+  fields:
+    Front: Але це не безкоштовно — це додає складності та може ускладнити тестування.
+    Back: But it's not free — it adds complexity and can complicate testing.
+    Audio: interview_ee6ab219d09f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806067
+  fields:
+    Front: Проблеми з повторним відтворенням зазвичай є ознакою поганої декомпозиції компонентів.
+    Back: Re-render issues are usually a sign of poor component decomposition.
+    Audio: interview_206b549d712b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806092
+  fields:
+    Front: Правильна розбивка компонентів часто вирішує проблеми повторного відтворення природним шляхом.
+    Back: Breaking components down properly often solves re-render problems naturally.
+    Audio: interview_4ab75bedb5ca.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806117
+  fields:
+    Front: Узгодження порівнює старе віртуальне дерево DOM з новим.
+    Back: Reconciliation compares the old virtual DOM tree with the new one.
+    Audio: interview_e36ca2d7de42.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806143
+  fields:
+    Front: Якщо є різниця, React запускає каскадне повторне рендеринг з цієї точки.
+    Back: If there's a difference, React triggers a cascading re-render from that point.
+    Audio: interview_ca5d503d3604.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806168
+  fields:
+    Front: Вибачте, ви там якось розриваєтеся
+    Back: I'm sorry, you're kind of breaking up there
+    Audio: interview_53a46ff7b599.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806191
+  fields:
+    Front: Якби ви очолили команду, що б ви змінили?
+    Back: If you led the team, what would you change?
+    Audio: interview_f318ba9a228b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806217
+  fields:
+    Front: Інтерфейс найкраще працює для класів і успадкування — спільна форма плюс захист типів.
+    Back: Interface works best for classes and inheritance — shared shape plus type guards.
+    Audio: interview_9c3935b4ebbc.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806243
+  fields:
+    Front: Тип є більш гнучким — включаючи об’єднання, перетини та примітиви.
+    Back: Type is more flexible — unions, intersections, and primitives included.
+    Audio: interview_2e94c153cd27.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806267
+  fields:
+    Front: Я використовую універсали для функцій, які приймають і повертають невідомі типи даних.
+    Back: I use generics for functions that accept and return unknown data types.
+    Audio: interview_629ff2a66e5b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806293
+  fields:
+    Front: Він потужний, але потребує ретельної перевірки під час виконання, щоб залишатися в безпеці.
+    Back: It's powerful, but needs careful runtime checks to stay safe.
+    Audio: interview_dd49e815cd8e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806317
+  fields:
+    Front: Строгий режим об’єднує кілька перевірок компілятора в один прапор.
+    Back: Strict mode bundles several compiler checks into one flag.
+    Audio: interview_a0fb3d35eb19.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806343
+  fields:
+    Front: Найважливішим є strictNullChecks — він виловлює помилки нульового посилання.
+    Back: The most important one is strictNullChecks — it catches null reference errors.
+    Audio: interview_63eb809e125a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1784219806368
+  fields:
+    Front: Без нього null і undefined можуть мовчки проскочити та збитися під час виконання.
+    Back: Without it, null and undefined can silently slip through and crash at runtime.
+    Audio: interview_0f40a9f9dc11.mp3
     State: ''
   tags:
   - interview

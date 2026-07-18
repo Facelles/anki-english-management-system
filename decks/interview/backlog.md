@@ -1,17 +1,3 @@
-I'm a senior full stack JavaScript developer with over seven years of experience.
-I build scalable web applications — using React, NestJS and AWS infrastructure.
-I started my career as a PHP developer, working with WordPress and Laravel.
-Over time I moved into JavaScript — it felt like a natural next step.
-At TopDevs and DataArt I worked with React, TypeScript, and Node.js.
-For the past four years I've been at The AA, one of the UK's largest brands.
-In The AA, I've been leading re-platforming from legacy systems to modern architecture.
-I design and build end-to-end features — from frontend to backend.
-I also lead code reviews and mentor developers across the team.
-Outside of work, I run a YouTube channel focused on engineering and development.
-I've recorded over three hundred hours of different topics so far.
-I also build open-source tools and use them as teaching material.
-I also founded ITFriday — a live tech community for IT.
-We stream every Friday and cover everything from the IT world.
 I'm now looking for a new challenge where I can bring all of this together.
 At The AA I work in an IT department responsible for digital products.
 Our team consists of 6 developers, 1 QA engineer, and a product owner.
@@ -72,3 +58,10 @@ Reconciliation compares the old virtual DOM tree with the new one.
 If there's a difference, React triggers a cascading re-render from that point.
 I'm sorry, you're kind of breaking up there
 If you led the team, what would you change?
+Interface works best for classes and inheritance — shared shape plus type guards.
+Type is more flexible — unions, intersections, and primitives included.
+I use generics for functions that accept and return unknown data types.
+It's powerful, but needs careful runtime checks to stay safe.
+Strict mode bundles several compiler checks into one flag.
+The most important one is strictNullChecks — it catches null reference errors.
+Without it, null and undefined can silently slip through and crash at runtime.

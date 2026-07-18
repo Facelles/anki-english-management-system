@@ -1,279 +1,240 @@
 - id: 1784218212123
   fields:
     Front: Я б краще пішов пішки, ніж чекав би на ще один автобус.
-    Back: I'd rather walk than wait for another bus.
+    Back: I'd rather walk than wait for another bus
     Audio: test-english_a0a0a8e32aef.mp3
   tags: []
 - id: 1784218212147
   fields:
-    Front: Я краще залишуся сьогодні вдома, ніж піду в клуб.
-    Back: I'd sooner stay in tonight than go clubbing.
+    Front: Я краще залишуся вдома сьогодні ввечері, ніж піду в клуб. [Sooner]
+    Back: I'd sooner stay in tonight than go clubbing
     Audio: test-english_49b9aa6d0a10.mp3
-    State: ''
   tags: []
 - id: 1784218212170
   fields:
     Front: Я б краще не відповідав на це питання.
-    Back: I'd rather not answer that question.
+    Back: I'd rather not answer that question
     Audio: test-english_e6912ef3f03c.mp3
-    State: ''
   tags: []
 - id: 1784218212196
   fields:
     Front: Я краще буду готувати вдома, ніж замовляти на винос.
-    Back: I'd rather cook at home than order takeaway.
+    Back: I'd rather cook at home than order takeaway
     Audio: test-english_7ab31665f8a8.mp3
-    State: ''
   tags: []
 - id: 1784218212222
   fields:
     Front: Я б швидше вийшов раніше, щоб уникнути заторів.
-    Back: I'd sooner leave early to avoid traffic.
+    Back: I'd sooner leave early to avoid traffic
     Audio: test-english_7eee3a1e96b0.mp3
-    State: ''
   tags: []
 - id: 1784218212246
   fields:
     Front: Я краще проведу вихідні біля моря.
-    Back: I'd rather spend the weekend by the sea.
+    Back: I'd rather spend the weekend by the sea
     Audio: test-english_d9ac31dfe2b0.mp3
-    State: ''
   tags: []
 - id: 1784218212271
   fields:
     Front: Я б краще не сперечався знову про політику.
     Back: I'd rather not argue about politics again.
     Audio: test-english_37a0401767e0.mp3
-    State: ''
   tags: []
 - id: 1784218212295
   fields:
     Front: Я краще заплачу готівкою, ніж позичу гроші.
     Back: I'd sooner pay cash than borrow money.
     Audio: test-english_eff43580d3fc.mp3
-    State: ''
   tags: []
 - id: 1784218212321
   fields:
     Front: Я краще їду потягом, ніж літаю.
     Back: I'd rather take the train than fly.
     Audio: test-english_2520b7903ed2.mp3
-    State: ''
   tags: []
 - id: 1784218212346
   fields:
     Front: Завтра я краще буду працювати з дому.
     Back: I'd sooner work from home tomorrow.
     Audio: test-english_eba5bdcb9287.mp3
-    State: ''
   tags: []
 - id: 1784218212370
   fields:
     Front: Ви б краще сиділи всередині чи надворі?
     Back: Would you rather sit inside or outside?
     Audio: test-english_1c4f3b70cfaa.mp3
-    State: ''
   tags: []
 - id: 1784218212397
   fields:
     Front: Ви б швидше подорожували самі чи з друзями?
     Back: Would you sooner travel alone or with friends?
     Audio: test-english_ca84a7dbea48.mp3
-    State: ''
   tags: []
 - id: 1784218212420
   fields:
     Front: Краще піти зараз чи почекати?
     Back: Would you rather leave now or wait?
     Audio: test-english_9793975cdcb9.mp3
-    State: ''
   tags: []
 - id: 1784218212447
   fields:
     Front: Ви б віддали перевагу чаю чи каві?
     Back: Would you rather have tea or coffee?
     Audio: test-english_5d0bbee1be91.mp3
-    State: ''
   tags: []
 - id: 1784218212471
   fields:
     Front: Ти б швидше подивилася фільм чи прочитала книгу?
     Back: Would you sooner watch a film or read a book?
     Audio: test-english_92a4db1b4075.mp3
-    State: ''
   tags: []
 - id: 1784218212496
   fields:
     Front: Я б краще, щоб ти подзвонив, перш ніж прийти.
     Back: I'd rather you called before coming over.
     Audio: test-english_558e49124003.mp3
-    State: ''
   tags: []
 - id: 1784218212521
   fields:
     Front: Я б краще, щоб він їхав акуратніше.
     Back: I'd rather he drove more carefully.
     Audio: test-english_5b4d4ae20064.mp3
-    State: ''
   tags: []
 - id: 1784218212545
   fields:
     Front: Вона воліла б, щоб ми прибули до заходу сонця.
     Back: She'd rather we arrived before sunset.
     Audio: test-english_681aa7415964.mp3
-    State: ''
   tags: []
 - id: 1784218212571
   fields:
     Front: Краще б син знайшов іншу роботу.
     Back: They'd rather their son found another job.
     Audio: test-english_d98cb6ce56e8.mp3
-    State: ''
   tags: []
 - id: 1784218212596
   fields:
     Front: Краще б ти залишився на вечерю.
     Back: I'd sooner you stayed for dinner.
     Audio: test-english_adc3415b8403.mp3
-    State: ''
   tags: []
 - id: 1784218212621
   fields:
     Front: Я б краще, щоб ти мене не перебивав.
     Back: I'd rather you didn't interrupt me.
     Audio: test-english_d1422c9fe7e3.mp3
-    State: ''
   tags: []
 - id: 1784218212647
   fields:
     Front: Ми б краще, щоб вона більше про це не згадувала.
     Back: We'd rather she didn't mention it again.
     Audio: test-english_b4b284c287ef.mp3
-    State: ''
   tags: []
 - id: 1784218212672
   fields:
     Front: Краще б вони тут не паркувалися.
     Back: I'd sooner they didn't park here.
     Audio: test-english_8170eed978ee.mp3
-    State: ''
   tags: []
 - id: 1784218212696
   fields:
     Front: Він би волів, щоб ти не курив усередині.
     Back: He'd rather you didn't smoke inside.
     Audio: test-english_4c7c052410f0.mp3
-    State: ''
   tags: []
 - id: 1784218212721
   fields:
     Front: Я б волів, щоб Том нікому не казав.
     Back: I'd rather Tom didn't tell anyone.
     Audio: test-english_9d1ff7d93976.mp3
-    State: ''
   tags: []
 - id: 1784218212746
   fields:
     Front: Чи краще б я відчинив вікно?
     Back: Would you rather I opened the window?
     Audio: test-english_43ab69389bf1.mp3
-    State: ''
   tags: []
 - id: 1784218212772
   fields:
     Front: Ви б хотіли, щоб вона пішла з нами?
     Back: Would you rather she came with us?
     Audio: test-english_32cf84b477b2.mp3
-    State: ''
   tags: []
 - id: 1784218212796
   fields:
     Front: Чи хотіли б ви, щоб вони залишилися ще на один день?
     Back: Would you sooner they stayed another day?
     Audio: test-english_ad650c7ac190.mp3
-    State: ''
   tags: []
 - id: 1784218212821
   fields:
     Front: Ви б віддали перевагу, щоб я їхав замість цього?
     Back: Would you rather I drove instead?
     Audio: test-english_626b986e730c.mp3
-    State: ''
   tags: []
 - id: 1784218212846
   fields:
     Front: Ви б хотіли, щоб він не приєднувався до нас?
     Back: Would you rather he didn't join us?
     Audio: test-english_8a415624ef00.mp3
-    State: ''
   tags: []
 - id: 1784218212871
   fields:
     Front: Дякую, але краще б не було.
     Back: Thanks, but I'd rather not.
     Audio: test-english_86af42fc3bf9.mp3
-    State: ''
   tags: []
 - id: 1784218212896
   fields:
     Front: Я б краще, щоб ти не робив цього, якщо ти не проти.
     Back: I'd rather you didn't, if you don't mind.
     Audio: test-english_2547f037514a.mp3
-    State: ''
   tags: []
 - id: 1784218212920
   fields:
     Front: Вона краще не обговорюватиме свою зарплату.
     Back: She'd rather not discuss her salary.
     Audio: test-english_830000a2838e.mp3
-    State: ''
   tags: []
 - id: 1784218212947
   fields:
     Front: Він би швидше не втручався.
     Back: He'd sooner not get involved.
     Audio: test-english_b87fd5eb1ae5.mp3
-    State: ''
   tags: []
 - id: 1784218212971
   fields:
     Front: Я краще буду чесним, ніж ввічливим.
     Back: I'd rather be honest than polite.
     Audio: test-english_fe8cd120b768.mp3
-    State: ''
   tags: []
 - id: 1784218212995
   fields:
     Front: Вона швидше піде, ніж прийме цю пропозицію.
     Back: She'd sooner quit than accept that offer.
     Audio: test-english_2dc4aa0d3a90.mp3
-    State: ''
   tags: []
 - id: 1784218213020
   fields:
     Front: Краще відкладемо гроші на відпочинок.
     Back: We'd rather save the money for a holiday.
     Audio: test-english_e07bf9e6807e.mp3
-    State: ''
   tags: []
 - id: 1784218213047
   fields:
     Front: Краще, щоб мої сусіди не шуміли.
     Back: I'd rather my neighbours kept the noise down.
     Audio: test-english_3d5282fd82ec.mp3
-    State: ''
   tags: []
 - id: 1784218213071
   fields:
     Front: Вони б швидше, щоб ми сьогодні забронювали квитки.
     Back: They'd sooner we booked the tickets today.
     Audio: test-english_b6bd28fcf542.mp3
-    State: ''
   tags: []
 - id: 1784218213096
   fields:
     Front: Я б хотів, щоб зустріч почалася вчасно.
     Back: I'd rather the meeting started on time.
     Audio: test-english_8c970b21628f.mp3
-    State: ''
   tags: []
