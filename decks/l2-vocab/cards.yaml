@@ -327,8 +327,8 @@
   tags: []
 - id: 1774435692600
   fields:
-    Front: П&#x27;ять помножити на десять дорівнює п&#x27;ятдесят, що є базовим математичним виразом
-    Back: Five multiplied by ten is fifty, which is a basic mathematical expression.
+    Front: П'ять помножити на десять дорівнює п'ятдесят, що є базовим математичним виразом
+    Back: Five multiplied by ten is fifty, which is a basic mathematical expression
     Audio: L2_0053-Five_multiplied.mp3
   tags: []
 - id: 1774435692601
@@ -497,7 +497,7 @@
   tags: []
 - id: 1774435692624
   fields:
-    Front: Щось у сучасній освітній системі потребує фундаментальних змін
+    Front: Щось у сучасній освітній системі потребує фундаментальної зміни
     Back: Something in the modern education system requires fundamental change
     Audio: L2_0077-Something_in.mp3
   tags: []
@@ -1554,13 +1554,13 @@
 - id: 1782077182730
   fields:
     Front: Мені було обіцяно, що проблему буде вирішено протягом 48 годин.
-    Back: I was assured that the issue would be resolved within 48 hours.
+    Back: I was assured that the issue would be resolved within 48 hours
     Audio: L2_0243-I_was.mp3
   tags: []
 - id: 1782077182731
   fields:
     Front: На жаль, фактичний рівень обслуговування не відповідав моїм очікуванням.
-    Back: Unfortunately, the actual standard of service did not meet my expectations.
+    Back: Unfortunately, the actual standard of service did not meet my expectations
     Audio: L2_0244-Unfortunately__the.mp3
   tags: []
 - id: 1782077182732
@@ -1595,8 +1595,8 @@
   tags: []
 - id: 1782077182737
   fields:
-    Front: Крім фінансових втрат, ця ситуація спричинила значний стрес та незручності.
-    Back: In addition to the financial loss, this situation caused considerable stress and inconvenience.
+    Front: На додаток до фінансових втрат, ця ситуація спричинила значний стрес та незручності.
+    Back: In addition to the financial loss, this situation caused considerable stress and inconvenience
     Audio: L2_0250-In_addition.mp3
   tags: []
 - id: 1782077182738
@@ -1637,7 +1637,7 @@
   tags: []
 - id: 1782077182744
   fields:
-    Front: Ця проблема могла бути легко вирішена на ранньому етапі.
+    Front: Ця проблема могла бути вирішена легко на ранньому етапі. [PrPerf]
     Back: This issue could have been resolved easily at an earlier stage
     Audio: L2_0257-This_issue.mp3
   tags: []
@@ -1890,45 +1890,47 @@
   tags: []
 - id: 1784071344064
   fields:
-    Front: Спосіб нашого спілкування кардинально змінився за останні два десятиліття.
-    Back: The way we communicate has changed dramatically over the past two decades.
+    Front: Спосіб нашого спілкування змінився кардинально за останні два десятиліття.
+    Back: The way we communicate has changed dramatically over the past two decades
     Audio: l2-vocab_7f188b0024e5.mp3
   tags: []
 - id: 1784071344090
   fields:
-    Front: Однією з найбільших проблем сучасного суспільства є пошук надійної інформації в Інтернеті.
-    Back: One of the greatest challenges facing modern society is finding reliable information online.
+    Front: Одним із найбільших викликів, що стоять перед сучасним суспільством, є пошук достовірної інформації
+      в інтернеті
+    Back: One of the greatest challenges facing modern society is finding reliable information online
     Audio: l2-vocab_fbc6b06e34a0.mp3
   tags: []
 - id: 1784071344115
   fields:
-    Front: Ви коли-небудь замислювалися про те, скільки відходів ви виробляєте за один тиждень?
+    Front: Чи зупинялись ви коли-небудь, щоб подумати про те, скільки відходів ви виробляєте за один тиждень?
     Back: Have you ever stopped to think about how much waste you produce in a single week?
     Audio: l2-vocab_ed268f128fb8.mp3
   tags: []
 - id: 1784071344141
   fields:
-    Front: Штучний інтелект розвивається безпрецедентними темпами, що викликає хвилювання та занепокоєння.
+    Front: Штучний інтелект розвивається безпрецедентними темпами, викликаючи хвилювання та занепокоєння.
     Back: Artificial intelligence is developing at an unprecedented pace, raising both excitement and
-      concern.
+      concern
     Audio: l2-vocab_e1efe69f7144.mp3
   tags: []
 - id: 1784071344163
   fields:
-    Front: У сучасному стрімкому світі вести здоровий спосіб життя стає все складніше.
-    Back: Maintaining a healthy lifestyle has become increasingly difficult in today’s fast-paced world.
+    Front: Підтримання здорового способу життя стало дедалі складнішим у сучасному світі зі стрімким ритмом
+      життя
+    Back: Maintaining a healthy lifestyle has become increasingly difficult in today's fast-paced world
     Audio: l2-vocab_7d8ca7bfbd98.mp3
   tags: []
 - id: 1784071344189
   fields:
     Front: Зміна клімату більше не є віддаленою загрозою; це реальність, яка впливає на мільйони людей.
-    Back: Climate change is no longer a distant threat; it is a reality affecting millions of people.
+    Back: Climate change is no longer a distant threat; it is a reality affecting millions of people
     Audio: l2-vocab_d0560a41141a.mp3
   tags: []
 - id: 1784071344214
   fields:
-    Front: Читання для задоволення стає все менш поширеним, особливо серед молодих поколінь.
-    Back: Reading for pleasure appears to be becoming less common, particularly among younger generations.
+    Front: Читання для задоволення, схоже, стає все менш поширеним, особливо серед молодших поколінь
+    Back: Reading for pleasure appears to be becoming less common, particularly among younger generations
     Audio: l2-vocab_ccb9817f4312.mp3
   tags: []
 - id: 1784071344240
@@ -1940,8 +1942,8 @@
   tags: []
 - id: 1784071344264
   fields:
-    Front: Багато спільнот шукають ефективні способи заохотити людей частіше переробляти відходи.
-    Back: Many communities are searching for effective ways to encourage people to recycle more regularly.
+    Front: Багато спільнот шукають ефективні способи заохотити людей переробляти відходи&nbsp;регулярніше
+    Back: Many communities are searching for effective ways to encourage people to recycle more regularly
     Audio: l2-vocab_37f048fb5a46.mp3
   tags: []
 - id: 1784071344290

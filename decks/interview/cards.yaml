@@ -136,9 +136,8 @@
   - interview
 - id: 1784219804846
   fields:
-    Front: На серверній частині ми впроваджуємо нові функції та виправляємо помилки, а не створюємо з
-      нуля.
-    Back: On the backend we implement new features and fix bugs, not build from scratch.
+    Front: На бекенді ми реалізуємо нові функції та виправляємо баги, а не будуємо з нуля
+    Back: On the backend we implement new features and fix bugs, not build from scratch
     Audio: interview_ea20fa0d9e5a.mp3
     State: ''
   tags:

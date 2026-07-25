@@ -2816,7 +2816,7 @@
 - id: 1761528152678
   fields:
     VideoFilename: sherlok_0402.webm
-    Front: If you&#x27;re so keen, why don&#x27;t you investigate it?
+    Front: If you're so keen, why don't you investigate it?
     Back: Якщо ти такий зацікавлений, чому не розслідуєш це сам?
   tags: []
 - id: 1761528152679
@@ -8280,7 +8280,7 @@
 - id: 1783351233187
   fields:
     VideoFilename: silicon_valley_0429.webm
-    Front: Driverless car.
+    Front: Driverless car
     Back: Безпілотний автомобіль.
   tags: []
 - id: 1783351233188
@@ -8292,12 +8292,108 @@
 - id: 1783351233189
   fields:
     VideoFilename: silicon_valley_0431.webm
-    Front: I’m going to 5230 Newell Road, Palo Alto.
+    Front: I'm going to 5230 Newell Road, Palo Alto
     Back: Я їду за адресою 5230 Newell Road, Пало-Альто.
   tags: []
 - id: 1783351233190
   fields:
     VideoFilename: silicon_valley_0432.webm
-    Front: Buckle up, please.
+    Front: Buckle up, please
     Back: Будь ласка, пристебніться.
+  tags: []
+- id: 1784752255279
+  fields:
+    VideoFilename: silicon_valley_0433.webm
+    Front: Enjoy your ride
+    Back: Приємної поїздки.
+  tags: []
+- id: 1784752255280
+  fields:
+    VideoFilename: silicon_valley_0434.webm
+    Front: Yeah, Gilfoyle just told me, just to my face
+    Back: Так, Гілфойл щойно сказав мені це прямо в обличчя.
+  tags: []
+- id: 1784752255281
+  fields:
+    VideoFilename: silicon_valley_0435.webm
+    Front: You know, you seem confused by this but for a different reason than I am
+    Back: Знаєш, ти, здається, спантеличений цим, але з іншої причини, ніж я.
+  tags: []
+- id: 1784752255282
+  fields:
+    VideoFilename: silicon_valley_0436.webm
+    Front: Don't you think it's weird that Tara wants some strange
+    Back: Тобі не здається дивним, що Тара хоче якогось дивного…
+  tags: []
+- id: 1784752255283
+  fields:
+    VideoFilename: silicon_valley_0437.webm
+    Front: OK, I see where we are ending up on this. Thank you for your time
+    Back: Гаразд, я розумію, до чого ми тут приходимо. Дякую за ваш час.
+  tags: []
+- id: 1784752255284
+  fields:
+    VideoFilename: silicon_valley_0438.webm
+    Front: Wait, you just built all the indexes on the fly?
+    Back: Зачекай, ти щойно побудував усі індекси на льоту?
+  tags: []
+- id: 1784752255285
+  fields:
+    VideoFilename: silicon_valley_0439.webm
+    Front: Stop looking at my lips
+    Back: Перестань дивитися на мої губи.
+  tags: []
+- id: 1784752255286
+  fields:
+    VideoFilename: silicon_valley_0440.webm
+    Front: The database administrator for Yahoo is becoming a Satanist?
+    Back: Адміністратор баз даних Yahoo стає сатаністом?
+  tags: []
+- id: 1784752255287
+  fields:
+    VideoFilename: silicon_valley_0441.webm
+    Front: Please honk. Please honk
+    Back: Будь ласка, посигналь. Посигналь, будь ласка.
+  tags: []
+- id: 1784752255288
+  fields:
+    VideoFilename: silicon_valley_0442.webm
+    Front: No bars. No bars. No bars. No bars
+    Back: Немає сигналу. Немає сигналу. Немає сигналу. Немає сигналу.
+  tags: []
+- id: 1784752255289
+  fields:
+    VideoFilename: silicon_valley_0443.webm
+    Front: That's ridiculous. I'm way more attractive than you are
+    Back: Це смішно. Я набагато привабливіший за тебе.
+  tags: []
+- id: 1784752255290
+  fields:
+    VideoFilename: silicon_valley_0444.webm
+    Front: You look ridiculous
+    Back: Ти виглядаєш безглуздо.
+  tags: []
+- id: 1784752255291
+  fields:
+    VideoFilename: silicon_valley_0445.webm
+    Front: What is this?
+    Back: Що це таке?
+  tags: []
+- id: 1784752255292
+  fields:
+    VideoFilename: silicon_valley_0446.webm
+    Front: Did you overwrite the data schema?
+    Back: Ти перезаписав схему даних?
+  tags: []
+- id: 1784752255293
+  fields:
+    VideoFilename: silicon_valley_0447.webm
+    Front: Now I could get in trouble
+    Back: Тепер у мене можуть бути проблеми.
+  tags: []
+- id: 1784752255294
+  fields:
+    VideoFilename: silicon_valley_0448.webm
+    Front: Because I thought that fetus was better than me
+    Back: Бо я думав, що той плід кращий за мене.
   tags: []

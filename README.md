@@ -3,7 +3,6 @@ status: active
 category: learning
 stack: Python, YAML, AnkiConnect
 ---
-
 # anki-english
 
 Version-controlled source of truth for all Anki flashcard decks. Cards and note types are stored as YAML; AnkiConnect bridges local files and Anki over HTTP.
@@ -65,12 +64,12 @@ git commit
 
 The `interview` deck has a special field layout:
 
-| field | what goes here |
-|-------|----------------|
-| `State` | Interview question in Ukrainian (already filled) |
-| `Back` | English answer to practice |
+| field     | what goes here                                                   |
+| --------- | ---------------------------------------------------------------- |
+| `State` | Interview question in Ukrainian (already filled)                 |
+| `Back`  | English answer to practice                                       |
 | `Front` | **Your** Ukrainian translation of Back — fill in manually |
-| `Audio` | MP3 of Back — generated via `generate_audio.py` |
+| `Audio` | MP3 of Back — generated via`generate_audio.py`                |
 
 Open `decks/interview/cards.yaml`, find cards where `Front: ''`, and fill in the Ukrainian translation of `Back`. Then sync:
 
@@ -142,14 +141,14 @@ backups/              — .colpkg snapshots (gitignored)
 
 ## decks
 
-| dir | Anki deck name | cards | purpose |
-|-----|----------------|-------|---------|
-| [it-deck](./decks/it-deck/) | IT_deck | 853 | IT professional vocabulary — sentence production for work communication |
-| [video-by-movies](./decks/video-by-movies/) | Video_by_movies | 1331 | Listening + spoken fluency — clips from Sherlock, Silicon Valley, Secret Life of Pets |
-| [interview](./decks/interview/) | Interview | 58 | Interview prep: State = interview question (ukr), Front = ukr translation of answer (manual), Back = English answer |
-| [l2-vocab](./decks/l2-vocab/) | L2_vocab | 267 | Vocabulary from ESOL L2 Writing/Reading course |
-| [medicine](./decks/medicine/) | Medicine | 100 | Medical vocabulary for GP visits and health conversations |
-| [book](./decks/book/) | Book | 53 | Phrases and expressions collected while reading English books |
+| dir                                        | Anki deck name  | cards | purpose                                                                                                             |
+| ------------------------------------------ | --------------- | ----- | ------------------------------------------------------------------------------------------------------------------- |
+| [it-deck](./decks/it-deck/)                 | IT_deck         | 853   | IT professional vocabulary — sentence production for work communication                                            |
+| [video-by-movies](./decks/video-by-movies/) | Video_by_movies | 1331  | Listening + spoken fluency — clips from Sherlock, Silicon Valley, Secret Life of Pets                              |
+| [interview](./decks/interview/)             | Interview       | 58    | Interview prep: State = interview question (ukr), Front = ukr translation of answer (manual), Back = English answer |
+| [l2-vocab](./decks/l2-vocab/)               | L2_vocab        | 267   | Vocabulary from ESOL L2 Writing/Reading course                                                                      |
+| [medicine](./decks/medicine/)               | Medicine        | 100   | Medical vocabulary for GP visits and health conversations                                                           |
+| [book](./decks/book/)                       | Book            | 53    | Phrases and expressions collected while reading English books                                                       |
 
 See [docs/decks-overview.md](./docs/decks-overview.md) for full context on each deck.
 

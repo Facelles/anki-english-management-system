@@ -5487,7 +5487,7 @@
   tags: []
 - id: 1783031365895
   fields:
-    Front: Чому досі не було вжито жодних заходів? [PrPref]
+    Front: Чому досі не було вжито жодних заходів? [PrPrefPass]
     Back: Why has no action been taken yet?
     Audio: IT_0921-Why_has.mp3
   tags: []
@@ -5530,7 +5530,340 @@
   tags: []
 - id: 1783031365902
   fields:
-    Front: Лише після кількох годин аналізу нам вдалося докопатися до проблеми
+    Front: Лише після кількох годин розслідування нам вдалось достатньо глибоко розібратись, щоб визначити
+      проблему
     Back: Only after several hours of investigation did we manage to dig deep enough to identify the issue.
     Audio: IT_0928-Only_after.mp3
   tags: []
+- id: 1784377679391
+  fields:
+    Front: Цей вислів використовується, щоб запитати про життєвий чи професійний досвід.
+    Back: This expression is used to ask about a person's life or professional experience
+    Audio: it-deck_e85c8d9606fc.mp3
+  tags:
+  - interview
+- id: 1784377679412
+  fields:
+    Front: Вам коли-небудь доводилося&nbsp;<em>відкат</em>&nbsp;продакшн релізу?
+    Back: Have you ever had to roll back a production release?
+    Audio: it-deck_9d2d32b335bf.mp3
+  tags:
+  - interview
+- id: 1784377679442
+  fields:
+    Front: Чи доводилося вам коли-небудь пояснювати складне технічне рішення людям, які не знаються на
+      техніці?
+    Back: Have you ever had to explain a complex technical solution to non-technical people?
+    Audio: it-deck_3a0a4bcb4500.mp3
+  tags:
+  - interview
+- id: 1784377679467
+  fields:
+    Front: Якби вам довелося переписати цей сервіс з нуля, що б ви змінили?
+    Back: If you had to rewrite this service from scratch, what would you change?
+    Audio: it-deck_676c73a5e285.mp3
+  tags:
+  - interview
+- id: 1784377679493
+  fields:
+    Front: Лише після того, як мені довелося підтримувати застарілий код, я зрозумів, наскільки складний
+      він насправді був.
+    Back: Only after I had had to maintain legacy code did I realize how complex it really was
+    Audio: it-deck_dfbaff09cd72.mp3
+  tags:
+  - interview
+- id: 1784377679512
+  fields:
+    Front: Зобов'язатися означає погодитися зробити щось або присвятити себе певному завданню.
+    Back: To commit means to agree to do something or to dedicate yourself to a particular task
+    Audio: it-deck_bcd1d8463fd0.mp3
+  tags:
+  - interview
+- id: 1784377679537
+  fields:
+    Front: Ми не готові(є не готовими) брати на себе зобов'язання щодо цієї дати релізу ще
+    Back: We are not ready to commit to this release date yet
+    Audio: it-deck_90796cc6e44d.mp3
+  tags:
+  - interview
+- id: 1784377679569
+  fields:
+    Front: Чи готові(свідомо налаштований) ви взяти на себе зобов’язання підтримувати цей сервіс?
+    Back: Are you prepared to commit to maintaining this service?
+    Audio: it-deck_7fbe5830ffbd.mp3
+  tags:
+  - interview
+- id: 1784377679593
+  fields:
+    Front: Якби ми взяли на себе зобов'язання щодо того дедлайну, ми б не забезпечили необхідної якості
+    Back: If we had committed to that deadline, we would not have delivered the required quality
+    Audio: it-deck_e3ea934c770f.mp3
+  tags:
+  - interview
+- id: 1784377679612
+  fields:
+    Front: Рідко яка команда бере на себе зобов'язання щодо такого жорсткого графіку
+    Back: Rarely does a team commit to such an aggressive schedule
+    Audio: it-deck_6f749835bec3.mp3
+  tags:
+  - interview
+- id: 1784377679637
+  fields:
+    Front: До кінця спринту ми візьмемо на себе зобов'язання щодо остаточного рішення
+    Back: By the end of the sprint, we will have committed to the final solution
+    Audio: it-deck_5051438f824f.mp3
+  tags:
+  - interview
+- id: 1784377679667
+  fields:
+    Front: Цей підхід вимагає від кожного інженера повного дотримання стандартів.
+    Back: This approach requires every engineer to commit fully to the standards
+    Audio: it-deck_cbd4f05e0e19.mp3
+  tags:
+  - interview
+- id: 1784377679692
+  fields:
+    Front: Вперед і назад означає рухатися або обговорювати щось неодноразово в обох напрямках.
+    Back: Back and forth means to move or discuss something repeatedly in both directions
+    Audio: it-deck_866f8f92c36d.mp3
+  tags:
+  - interview
+- id: 1784377679712
+  fields:
+    Front: Ми ходили туди-сюди над цим кілька днів.
+    Back: We went back and forth on this for several days
+    Audio: it-deck_86235297eb63.mp3
+  tags:
+  - interview
+- id: 1784377679736
+  fields:
+    Front: Скільки ще ми будемо ходити туди-сюди щодо цього рішення?
+    Back: How much longer are we going to go back and forth on this decision?
+    Audio: it-deck_868573b8426c.mp3
+  tags:
+  - interview
+- id: 1784377679767
+  fields:
+    Front: Якби ми перестали ходити туди-сюди, ми б уже виконали завдання&nbsp;на цей момент [Mixed Conditional]
+    Back: If we stopped going back and forth, we would have finished the task by now
+    Audio: it-deck_3f5262650dad.mp3
+  tags:
+  - interview
+- id: 1784377679791
+  fields:
+    Front: Лише після кількох раундів обговорень ми перестали ходити туди-сюди.
+    Back: Only after several rounds of discussion did we stop going back and forth
+    Audio: it-deck_cb47fb59a526.mp3
+  tags:
+  - interview
+- id: 1784377679812
+  fields:
+    Front: Було забагато повідомлень туди-сюди у ревʼю
+    Back: There were too many back-and-forth messages in the review
+    Audio: it-deck_9ce006a5287a.mp3
+  tags:
+  - interview
+- id: 1784377679837
+  fields:
+    Front: Брати участь означає брати активну участь у діяльності чи події.
+    Back: To participate means to take an active part in an activity or event
+    Audio: it-deck_42c4157b96ae.mp3
+  tags:
+  - interview
+- id: 1784377679867
+  fields:
+    Front: Усі інженери брали участь у сесії планування.
+    Back: All engineers participated in the planning session
+    Audio: it-deck_47047ecc33e7.mp3
+  tags:
+  - interview
+- id: 1784377679892
+  fields:
+    Front: Чи будете ви брати участь у технічній дискусії?
+    Back: Will you participate in the technical discussion?
+    Audio: it-deck_53f8876ea1a6.mp3
+  tags:
+  - interview
+- id: 1784377679911
+  fields:
+    Front: Якби більше людей брали участь у перевірці, ми б знайшли більше проблем.
+    Back: If more people had participated in the review, we would have found more issues
+    Audio: it-deck_57ef7d10e63b.mp3
+  tags:
+  - interview
+- id: 1784377679937
+  fields:
+    Front: Рідко всі члени команди беруть участь у (розтині|аналіз після інциденту)
+    Back: Rarely do all team members participate in the postmortem
+    Audio: it-deck_cd79f13870b3.mp3
+  tags:
+  - interview
+- id: 1784377679962
+  fields:
+    Front: Від кожного очікується брати участь активно
+    Back: Everyone is expected to participate actively
+    Audio: it-deck_03397790c79b.mp3
+  tags:
+  - interview
+- id: 1784377679987
+  fields:
+    Front: Залучати означає залучати когось активно&nbsp;або ставати активно залученим
+    Back: To engage means to involve someone actively or to become actively involved
+    Audio: it-deck_a5f547fd8ff3.mp3
+  tags:
+  - interview
+- id: 1784377680012
+  fields:
+    Front: Ми повинні якомога раніше залучити службу безпеки.
+    Back: We should engage the security team as early as possible.
+    Audio: it-deck_083d39ab86ca.mp3
+  tags:
+  - interview
+- id: 1784377680037
+  fields:
+    Front: Чи зайнялися вже архітектори цим рішенням?
+    Back: Have the architects been engaged in this decision yet?
+    Audio: it-deck_3ceebb755b81.mp3
+  tags:
+  - interview
+- id: 1784377680062
+  fields:
+    Front: Якби ми задіяли QA раніше, ми б уникли кількох недоліків.
+    Back: If we had engaged QA earlier, we would have avoided several defects.
+    Audio: it-deck_4ea467985ea8.mp3
+  tags:
+  - interview
+- id: 1784377680087
+  fields:
+    Front: До цього процесу мають бути залучені не лише розробники, а й інші зацікавлені сторони.
+    Back: Not only should developers be engaged in this process, but other stakeholders should be involved
+      as well.
+    Audio: it-deck_14ffbfe72720.mp3
+  tags:
+  - interview
+- id: 1784377680112
+  fields:
+    Front: Що вас найбільше захоплює під час роботи над складними завданнями?
+    Back: What engages you most when working on complex tasks?
+    Audio: it-deck_a317fd5e22eb.mp3
+  tags:
+  - interview
+- id: 1784377680137
+  fields:
+    Front: Плюси і мінуси - це переваги і недоліки різних варіантів.
+    Back: Pros and cons are the advantages and disadvantages of different options.
+    Audio: it-deck_50434213e403.mp3
+  tags:
+  - interview
+- id: 1784377680162
+  fields:
+    Front: Давайте спочатку розглянемо плюси та мінуси.
+    Back: Let’s consider the pros and cons first.
+    Audio: it-deck_50886b67e149.mp3
+  tags:
+  - interview
+- id: 1784377680187
+  fields:
+    Front: Які плюси і мінуси такого підходу?
+    Back: What are the pros and cons of this approach?
+    Audio: it-deck_8e2c37e5a602.mp3
+  tags:
+  - interview
+- id: 1784377680212
+  fields:
+    Front: Якби ми ретельніше зважили всі «за» і «проти», то прийняли б інше рішення.
+    Back: If we had weighed all the pros and cons more carefully, we would have made a different decision.
+    Audio: it-deck_bc38bf7c5f01.mp3
+  tags:
+  - interview
+- id: 1784377680237
+  fields:
+    Front: Тільки після обговорення всіх «за» і «проти» команда дійшла згоди.
+    Back: Only after all the pros and cons had been discussed did the team reach an agreement.
+    Audio: it-deck_b9086d7e9f6b.mp3
+  tags:
+  - interview
+- id: 1784377680262
+  fields:
+    Front: Місткість — це максимальний обсяг роботи або навантаження, з якими можна впоратися.
+    Back: Capacity is the maximum amount of work or load that can be handled.
+    Audio: it-deck_41217496ebe5.mp3
+  tags:
+  - interview
+- id: 1784377680287
+  fields:
+    Front: Команді не вистачає можливостей для іншого проекту.
+    Back: The team does not have enough capacity for another project.
+    Audio: it-deck_5e9a05b94623.mp3
+  tags:
+  - interview
+- id: 1784377680312
+  fields:
+    Front: Чи буде достатньо ємності після запуску нової функції?
+    Back: Will there be enough capacity after the new feature is launched?
+    Audio: it-deck_21bbcf2ac3ab.mp3
+  tags:
+  - interview
+- id: 1784377680337
+  fields:
+    Front: Якби сервер мав більшу потужність, затримка була б нижчою.
+    Back: If the server had greater capacity, the latency would be lower.
+    Audio: it-deck_fb074be8cba0.mp3
+  tags:
+  - interview
+- id: 1784377680362
+  fields:
+    Front: Лише після оптимізації ми зрозуміли, скільки у нас вільних потужностей.
+    Back: Only after the optimization did we realize how much spare capacity we had had.
+    Audio: it-deck_f8621dfc092a.mp3
+  tags:
+  - interview
+- id: 1784377680387
+  fields:
+    Front: До кінця кварталу ми збільшимо потужність системи.
+    Back: By the end of the quarter, we will have increased the system’s capacity.
+    Audio: it-deck_5682387e6300.mp3
+  tags:
+  - interview
+- id: 1784377680412
+  fields:
+    Front: Представити – це означає почати використовувати щось нове або офіційно це представити.
+    Back: To introduce means to start using something new or to present it formally.
+    Audio: it-deck_644a60476c85.mp3
+  tags:
+  - interview
+- id: 1784377680437
+  fields:
+    Front: Ми плануємо запровадити нову систему лісозаготівлі.
+    Back: We are planning to introduce a new logging system.
+    Audio: it-deck_c7e7cb086942.mp3
+  tags:
+  - interview
+- id: 1784377680462
+  fields:
+    Front: Коли було запроваджено цю політику?
+    Back: When was this policy introduced?
+    Audio: it-deck_39445da23363.mp3
+  tags:
+  - interview
+- id: 1784377680487
+  fields:
+    Front: Якби ми раніше запровадили автоматизоване тестування, ми б уникли багатьох інцидентів.
+    Back: If we had introduced automated testing earlier, we would have avoided many incidents.
+    Audio: it-deck_17e208e18f05.mp3
+  tags:
+  - interview
+- id: 1784377680512
+  fields:
+    Front: Ніколи раніше команда не вносила настільки масштабні зміни одразу.
+    Back: Never before had the team introduced such extensive changes at once.
+    Audio: it-deck_884bfc60256f.mp3
+  tags:
+  - interview
+- id: 1784377680537
+  fields:
+    Front: Новий процес буде запроваджуватися поступово, щоб мінімізувати ризики.
+    Back: The new process will be introduced gradually to minimize the risks.
+    Audio: it-deck_427f3a73eac1.mp3
+  tags:
+  - interview
