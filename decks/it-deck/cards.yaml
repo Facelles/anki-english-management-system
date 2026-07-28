@@ -5279,7 +5279,7 @@
   tags: []
 - id: 1783031365861
   fields:
-    Front: Не лише код сприяє якості продукту, але й хороша документація також
+    Front: Не лише код сприяє якості продукту, але й хороша документація ~робить~ також
     Back: Not only does the code contribute to the quality of the product, but good documentation does
       as well.
     Audio: IT_0887-Not_only.mp3
@@ -5360,7 +5360,7 @@
   tags: []
 - id: 1783031365874
   fields:
-    Front: Якби таке обмеження не існувало, архітектура була б набагато простішою
+    Front: Якби таке обмеження не існувало, архітектура була б набагато простішою [Second]
     Back: If such a limitation did not exist, the architecture would be much simpler
     Audio: IT_0900-If_such.mp3
   tags: []
@@ -5544,7 +5544,7 @@
   - interview
 - id: 1784377679412
   fields:
-    Front: Вам коли-небудь доводилося&nbsp;<em>відкат</em>&nbsp;продакшн релізу?
+    Front: Вам коли-небудь доводилося&nbsp;<em>відкочувати</em>&nbsp;продакшн релізу?
     Back: Have you ever had to roll back a production release?
     Audio: it-deck_9d2d32b335bf.mp3
   tags:
@@ -5714,14 +5714,14 @@
   - interview
 - id: 1784377680012
   fields:
-    Front: Ми повинні якомога раніше залучити службу безпеки.
-    Back: We should engage the security team as early as possible.
+    Front: Нам слід залучити команду безпеки так рано як то можливо
+    Back: We should engage the security team as early as possible
     Audio: it-deck_083d39ab86ca.mp3
   tags:
   - interview
 - id: 1784377680037
   fields:
-    Front: Чи зайнялися вже архітектори цим рішенням?
+    Front: Чи були архітектори залучені до цього рішення вже?
     Back: Have the architects been engaged in this decision yet?
     Audio: it-deck_3ceebb755b81.mp3
   tags:
@@ -5729,13 +5729,14 @@
 - id: 1784377680062
   fields:
     Front: Якби ми задіяли QA раніше, ми б уникли кількох недоліків.
-    Back: If we had engaged QA earlier, we would have avoided several defects.
+    Back: If we had engaged QA earlier, we would have avoided several defects
     Audio: it-deck_4ea467985ea8.mp3
   tags:
   - interview
 - id: 1784377680087
   fields:
-    Front: До цього процесу мають бути залучені не лише розробники, а й інші зацікавлені сторони.
+    Front: Не лише розробники мають бути залучені до цього процесу, але й інші зацікавлені сторони <em>(stakeholders)&nbsp;</em>мають
+      бути залучені&nbsp;також
     Back: Not only should developers be engaged in this process, but other stakeholders should be involved
       as well.
     Audio: it-deck_14ffbfe72720.mp3
@@ -5743,7 +5744,7 @@
   - interview
 - id: 1784377680112
   fields:
-    Front: Що вас найбільше захоплює під час роботи над складними завданнями?
+    Front: Що вас захоплює найбільше&nbsp;коли працюеш над складними завданнями?
     Back: What engages you most when working on complex tasks?
     Audio: it-deck_a317fd5e22eb.mp3
   tags:
@@ -5751,14 +5752,14 @@
 - id: 1784377680137
   fields:
     Front: Плюси і мінуси - це переваги і недоліки різних варіантів.
-    Back: Pros and cons are the advantages and disadvantages of different options.
+    Back: Pros and cons are the advantages and disadvantages of different options
     Audio: it-deck_50434213e403.mp3
   tags:
   - interview
 - id: 1784377680162
   fields:
-    Front: Давайте спочатку розглянемо плюси та мінуси.
-    Back: Let’s consider the pros and cons first.
+    Front: Давайте розглянемо плюси та мінуси спочатку.
+    Back: Let's consider the pros and cons first
     Audio: it-deck_50886b67e149.mp3
   tags:
   - interview
