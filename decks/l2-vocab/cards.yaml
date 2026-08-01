@@ -1737,14 +1737,14 @@
   tags: []
 - id: 1783463191049
   fields:
-    Front: Крім того, існуючі об’єкти вже не відповідають потребам місцевої громади.
+    Front: Крім того, існуюча&nbsp;інфраструктура вже не відповідають потребам місцевої громади.
     Back: Furthermore, the existing facilities no longer meet the needs of the local community
     Audio: l2-vocab_7649aac89f55.mp3
   tags: []
 - id: 1783463191074
   fields:
     Front: У результаті багато людей перестали регулярно користуватися парком.
-    Back: As a result, many people have stopped using the park on a regular basis.
+    Back: As a result, many people have stopped using the park on a regular basis
     Audio: l2-vocab_18d5c6f19e73.mp3
   tags: []
 - id: 1783463191098
@@ -1961,32 +1961,32 @@
   tags: []
 - id: 1784071344338
   fields:
-    Front: Важливість критичного мислення ніколи не була такою, як сьогодні.
-    Back: The importance of critical thinking has never been greater than it is today.
+    Front: Важливість критичного мислення ніколи не була такою великою, ніж є сьогодні.
+    Back: The importance of critical thinking has never been greater than it is today
     Audio: l2-vocab_865b73c072c5.mp3
   tags: []
 - id: 1784071344365
   fields:
-    Front: Стихійні лиха часто нагадують нам, наскільки вразливими можуть бути сучасні суспільства.
-    Back: Natural disasters often remind us how vulnerable modern societies can be.
+    Front: Стихійні лиха часто нагадують нам, наскільки вразливими сучасні суспільства можуть бути
+    Back: Natural disasters often remind us how vulnerable modern societies can be
     Audio: l2-vocab_e7398a3589fe.mp3
   tags: []
 - id: 1784071344392
   fields:
-    Front: Не всі згодні з тим, що технічний прогрес завжди покращує якість нашого життя.
-    Back: Not everyone agrees that technological progress always improves our quality of life.
+    Front: Не всі згодні з тим, що технологічний прогрес завжди покращує якість нашого життя.
+    Back: Not everyone agrees that technological progress always improves our quality of life
     Audio: l2-vocab_216d9dc2b224.mp3
   tags: []
 - id: 1784071344414
   fields:
-    Front: Уряди в усьому світі стикаються з дедалі складнішими екологічними та соціальними викликами.
-    Back: Across the world, governments are facing increasingly complex environmental and social challenges.
+    Front: По всьому світу уряди стикаються з зростаючи складними екологічними та соціальними викликами
+    Back: Across the world, governments are facing increasingly complex environmental and social challenges
     Audio: l2-vocab_9d43c710bccf.mp3
   tags: []
 - id: 1784071344439
   fields:
     Front: Часто стверджують, що невеликі індивідуальні дії можуть призвести до значних позитивних змін.
-    Back: It is often argued that small individual actions can lead to significant positive change.
+    Back: It is often argued that small individual actions can lead to significant positive change
     Audio: l2-vocab_413c2af00f28.mp3
   tags: []
 - id: 1784071344465
@@ -1994,20 +1994,20 @@
     Front: Оскільки суспільство продовжує розвиватися, люди постійно змушені пристосовуватися до нових
       викликів і можливостей.
     Back: As society continues to evolve, people are constantly being forced to adapt to new challenges
-      and opportunities.
+      and opportunities
     Audio: l2-vocab_db7cc68d1174.mp3
   tags: []
 - id: 1784071344489
   fields:
-    Front: Люди часто вважають, що сучасні технології завжди полегшують життя, але реальність набагато
+    Front: Люди часто вважають, що сучасні технології завжди роблять життя легшим, але реальність набагато
       складніша.
     Back: People often assume that modern technology always makes life easier, but the reality is far
-      more complex.
+      more complex
     Audio: l2-vocab_f1887f4335d1.mp3
   tags: []
 - id: 1784071344514
   fields:
-    Front: Чи хотіли б ви змінити свої щоденні звички, якби це означало захист навколишнього середовища
+    Front: Чи були б ви готові змінити свої щоденні звички, якби це означало захист навколишнього середовища
       для майбутніх поколінь?
     Back: Would you be willing to change your daily habits if it meant protecting the environment for
       future generations?
@@ -2017,7 +2017,7 @@
   fields:
     Front: На перший погляд, дистанційна робота здається ідеальним рішенням як для роботодавців, так і
       для працівників.
-    Back: At first glance, remote working appears to be the perfect solution for both employers and employees.
+    Back: At first glance, remote working appears to be the perfect solution for both employers and employees
     Audio: l2-vocab_a04a4268cf9e.mp3
   tags: []
 - id: 1784071344564

@@ -2,6 +2,7 @@
 __pycache__/
 backups/
 node_modules/
+handwriting_practice/
 .env
 
 .DS_Store

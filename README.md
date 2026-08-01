@@ -107,6 +107,32 @@ python scripts/validate.py --prune   # same + offers to delete them (asks confir
 git commit
 ```
 
+---
+
+### 7. Print a handwriting-practice sheet (today's due cards → PDF)
+
+Generates a printable PDF of the cards a deck's reviewer would show today (`is:due`),
+repeating each English `Back` sentence a few times in a dotted tracing font — print it
+and trace by hand while the deck is reviewed in Anki as usual. **Anki must be open.**
+Read-only — doesn't touch Anki or YAML. Not applicable to `video-by-movies` (video clips,
+no `Back` text).
+
+```
+python scripts/generate_handwriting_pdf.py --deck interview
+```
+
+Useful flags — see [CLAUDE.md](./CLAUDE.md) for the full table:
+
+```
+--repeat 3            # times to repeat each sentence (default: 2)
+--font lined-alt       # dotted / lined / lined-alt / lined-nospace
+--font-size 30          # pt
+--intensity 0.35        # 0.0 (white) .. 1.0 (full black, default) — lower = fainter guide to trace over
+--limit 5               # cap cards, handy for quick layout tests
+```
+
+Output goes to `handwriting_practice/<deck>_<date>.pdf` (gitignored).
+
 ## structure
 
 ```
@@ -130,6 +156,9 @@ scripts/
   sync.py             — push YAML changes to Anki
   sync_back.py        — pull changes from Anki back into YAML
   generate_audio.py   — interactive ElevenLabs TTS session; fills empty Audio fields
+  generate_handwriting_pdf.py — PDF of today's due cards in a dotted tracing font
+kg_primary_dots/      — dotted handwriting-practice fonts (.ttf)
+handwriting_practice/ — generated PDFs from generate_handwriting_pdf.py (gitignored)
 .env                  — API keys (gitignored, never commit)
 docs/
   note-types.md       — human-readable summary of models

@@ -25,6 +25,7 @@ All scripts live in `scripts/`, require `.venv` activated, use `requests` + `yam
 | `sync_back.py` | pulls changes from Anki back into YAML (reverse sync) |
 | `generate_audio.py` | generates MP3 audio for cards via ElevenLabs TTS (interactive session) |
 | `import_backlog.py` | imports new lines from a deck's `backlog.md` into `cards.yaml` with an auto-translated `Front` (interactive session) |
+| `generate_handwriting_pdf.py` | generates a printable PDF of today's due cards (`Back` field) in a dotted handwriting-practice font (`kg_primary_dots/`) for tracing |
 
 Bootstrap scripts are **idempotent** — safe to re-run.  
 `bootstrap_media.py` reads `mediaFields` from `models/*/_meta.yaml` to know which fields contain filenames.
@@ -118,6 +119,32 @@ python scripts/validate.py                          # sanity check
 python scripts/sync.py                              # push to Anki
 ```
 
+### generate_handwriting_pdf.py
+
+Queries AnkiConnect for the cards a deck's reviewer would show today (`is:due`), and
+renders the English `Back` field repeated a few times per card in a dotted tracing font
+from `kg_primary_dots/`, as a printable PDF. Read-only — never writes back to Anki or
+`cards.yaml`. Requires Anki running. Not applicable to `video-by-movies` (no `Back` text
+field to trace).
+
+```
+python scripts/generate_handwriting_pdf.py --deck interview
+python scripts/generate_handwriting_pdf.py --deck l2-vocab --repeat 3 --font lined-alt
+python scripts/generate_handwriting_pdf.py --deck interview --limit 5   # quick layout test
+```
+
+| flag | default | description |
+|------|---------|-------------|
+| `--deck` | required | deck directory name under `decks/` |
+| `--repeat` | `2` | times to repeat each sentence (= lines per card) |
+| `--font` | `lined` | `dotted` / `lined` / `lined-alt` / `lined-nospace` — maps to a file in `kg_primary_dots/` |
+| `--font-size` | `26` | font size in pt |
+| `--intensity` | `1.0` | text darkness: `0.0` (white) .. `1.0` (full black) — lower prints a fainter guide to trace over |
+| `--limit` | none | cap number of cards, for quick layout tests |
+| `--output` | `handwriting_practice/<deck>_<date>.pdf` | output PDF path |
+
+Output goes to `handwriting_practice/` (gitignored — printouts, not tracked content).
+
 ---
 
 ## Note types (models)
@@ -197,7 +224,7 @@ Filenames in cards reference media directly (e.g. `00001.webm`, not a full path)
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install requests pyyaml deep-translator
+pip install requests pyyaml deep-translator reportlab
 ```
 
 `.venv/` is gitignored.
@@ -233,4 +260,5 @@ pip install requests pyyaml deep-translator
 - `.venv/` — Python venv
 - `__pycache__/` — bytecode
 - `backups/` — `.colpkg` snapshots (kept locally, not in git)
+- `handwriting_practice/` — generated PDFs from `generate_handwriting_pdf.py` (printouts, not tracked content)
 - `.env` — API keys and secrets (never commit)

@@ -178,7 +178,7 @@
   - interview
 - id: 1784219804971
   fields:
-    Front: Наразі я веду значне оновлення інтерфейсу зі старої кодової бази React.
+    Front: Наразі я веду значне фронтенд оновлення зі старої кодової бази React.
     Back: Currently I'm leading a major frontend upgrade from an old React codebase.
     Audio: interview_24c743bdf173.mp3
     State: ''
@@ -187,23 +187,23 @@
 - id: 1784219804996
   fields:
     Front: Додаток мав застарілий MUI, застарілі бібліотеки та працював на Node 16.
-    Back: The app had legacy MUI, outdated libraries, and was running on Node 16.
+    Back: The app had legacy MUI, outdated libraries, and was running on Node 16
     Audio: interview_c93c3b93209b.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805017
   fields:
-    Front: Я представив Storybook, щоб запобігти повторюваним компонентам і мовчазним регресіям.
-    Back: I introduced Storybook to prevent duplicate components and silent regressions.
+    Front: Я впровадив Storybook, щоб запобігти дублюванню компонентів і мовчазним регресіям.
+    Back: I introduced Storybook to prevent duplicate components and silent regressions
     Audio: interview_14fe5a20bba0.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805042
   fields:
-    Front: До цього несправні зміни інтерфейсу користувача виявлялися лише під час тестування якості.
-    Back: Before that, broken UI changes were only caught during QA testing.
+    Front: До цього несправні зміни інтерфейсу користувача були відловленими лише під час QA тестування
+    Back: Before that, broken UI changes were only caught during QA testing
     Audio: interview_c8e36dd40f8c.mp3
     State: ''
   tags:
@@ -211,7 +211,7 @@
 - id: 1784219805068
   fields:
     Front: Я не вибирав GraphQL — він уже був на місці, коли я приєднався.
-    Back: I didn't choose GraphQL — it was already in place when I joined.
+    Back: I didn't choose GraphQL - it was already in place when I joined
     Audio: interview_31bd086f5c04.mp3
     State: ''
   tags:
