@@ -636,7 +636,7 @@
   tags: []
 - id: 1766234619433
   fields:
-    Front: Ми переглядали цей підхід кілька разів
+    Front: Ми переглядали цей підхід кілька разів [PrPerf]
     Back: We have revised this approach several times
     Audio: IT_0108-We_have.mp3
   tags: []
@@ -5219,7 +5219,7 @@
   tags: []
 - id: 1783031365851
   fields:
-    Front: Компанія найняла ще двох backend-розробників
+    Front: Компанія найняла ще двох backend-розробників [PrPerf]
     Back: The company has hired two more backend developers
     Audio: IT_0877-The_company.mp3
   tags: []
@@ -5773,7 +5773,8 @@
   - interview
 - id: 1784377680212
   fields:
-    Front: Якби ми зважили всі «за» і «проти» більш ретельніше, то прийняли б інше рішення. [Third]
+    Front: Якби ми зважили всі «за» і «проти» більш ретельніше, то (зробили|прийняли) б інше рішення.
+      [Third]
     Back: If we had weighed all the pros and cons more carefully, we would have made a different decision
     Audio: it-deck_bc38bf7c5f01.mp3
   tags:
@@ -5900,7 +5901,7 @@
   - interview
 - id: 1785584726877
   fields:
-    Front: Лише після прочитання логів знову, ми зрозуміли, що пропустили.
+    Front: Лише після прочитання логів знову, ми зрозуміли, що ми пропустили.
     Back: Only after reading the logs again did we realize what we had missed
     Audio: it-deck_a6a736ab2985.mp3
   tags:
@@ -5921,7 +5922,7 @@
   - interview
 - id: 1785584726945
   fields:
-    Front: Незручність - це ситуація, яка викликає труднощі або додаткові зусилля.
+    Front: Незручність - це ситуація, яка спричиняє труднощі або додаткові зусилля.
     Back: Inconvenience is a situation that causes difficulty or extra effort
     Audio: it-deck_cdfbdc18ec50.mp3
   tags:
@@ -5956,29 +5957,29 @@
   - interview
 - id: 1785584727070
   fields:
-    Front: Якби зручність була нашою єдиною турботою, ми б проігнорували ризики безпеки.
-    Back: Had convenience been our only concern, we would have ignored the security risks.
+    Front: Якби зручність була нашою єдиною турботою, ми б проігнорували ризики безпеки. [Inv iii]
+    Back: Had convenience been our only concern, we would have ignored the security risks
     Audio: it-deck_5e93b0e1dae9.mp3
   tags:
   - interview
 - id: 1785584727095
   fields:
     Front: Те, що здається зручним сьогодні, може стати важким для підтримки в майбутньому.
-    Back: What seems convenient today may become difficult to maintain in the future.
+    Back: What seems convenient today may become difficult to maintain in the future
     Audio: it-deck_045a14cd0977.mp3
   tags:
   - interview
 - id: 1785584727120
   fields:
-    Front: Зручність ніколи не має стояти перед безпекою.
-    Back: Never should convenience come before security.
+    Front: Ніколи зручність не має стояти вище за безпеку [Inv]
+    Back: Never should convenience come before security
     Audio: it-deck_be06ee9fc0b1.mp3
   tags:
   - interview
 - id: 1785584727144
   fields:
-    Front: Нестача - це ситуація, коли не вистачає чогось необхідного.
-    Back: A lack is a situation in which there is not enough of something that is needed.
+    Front: Нестача - це ситуація в якій є недостатньо чтогось що є необхідним
+    Back: A lack is a situation in which there is not enough of something that is needed
     Audio: it-deck_3cdbf26ffcd2.mp3
   tags:
   - interview
