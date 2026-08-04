@@ -219,7 +219,7 @@
 - id: 1784219805092
   fields:
     Front: Але я розумію, чому це було обрано — REST означатиме забагато кінцевих точок.
-    Back: But I understand why it was chosen — REST would mean too many endpoints.
+    Back: But I understand why it was chosen - REST would mean too many endpoints
     Audio: interview_81e56d50a4b3.mp3
     State: ''
   tags:
@@ -227,7 +227,7 @@
 - id: 1784219805116
   fields:
     Front: Чесно кажучи, у GraphQL є своя складність — багато резолверів, які важко відстежити.
-    Back: Honestly, GraphQL has its own complexity — many resolvers, hard to trace.
+    Back: Honestly, GraphQL has its own complexity - many resolvers, hard to trace
     Audio: interview_1aa86b6ef7c0.mp3
     State: ''
   tags:
@@ -235,7 +235,7 @@
 - id: 1784219805142
   fields:
     Front: Замінити його зараз було б занадто дорого, тому ми працюємо з тим, що є.
-    Back: Replacing it now would be too costly, so we work with what we have.
+    Back: Replacing it now would be too costly, so we work with what we have
     Audio: interview_cbdb98286b2c.mp3
     State: ''
   tags:
@@ -243,7 +243,7 @@
 - id: 1784219805171
   fields:
     Front: Ми використовуємо Lambda для атомарних асинхронних операцій, які не потребують миттєвої відповіді.
-    Back: We use Lambda for atomic, async operations that don't need instant response.
+    Back: We use Lambda for atomic, async operations that don't need instant response
     Audio: interview_f309d5bcd5e6.mp3
     State: ''
   tags:
@@ -251,7 +251,7 @@
 - id: 1784219805198
   fields:
     Front: Результат доставляється пізніше — електронною поштою або іншим асинхронним механізмом.
-    Back: The result is delivered later — via email or another async mechanism.
+    Back: The result is delivered later - via email or another async mechanism
     Audio: interview_ff9f7213db8e.mp3
     State: ''
   tags:
@@ -259,7 +259,7 @@
 - id: 1784219805221
   fields:
     Front: NestJS уже був стеком, коли я приєднався, і я б все одно вибрав його.
-    Back: NestJS was already the stack when I joined, and I would have chosen it anyway.
+    Back: NestJS was already the stack when I joined, and I would have chosen it anyway
     Audio: interview_6020fdbc0c89.mp3
     State: ''
   tags:
@@ -267,7 +267,7 @@
 - id: 1784219805247
   fields:
     Front: Це дає нам багато готових рішень — шаблони архітектури та екосистему плагінів.
-    Back: It gives us a lot out of the box — architecture patterns and plugin ecosystem.
+    Back: It gives us a lot out of the box - architecture patterns and plugin ecosystem
     Audio: interview_edc7b6c21074.mp3
     State: ''
   tags:
@@ -276,7 +276,7 @@
   fields:
     Front: Одним із моїх досягнень, яким я найбільше пишаюся, було створення спеціального календаря з
       нуля.
-    Back: One of my proudest achievements was building a custom calendar from scratch.
+    Back: One of my proudest achievements was building a custom calendar from scratch
     Audio: interview_b3296ae4a0e3.mp3
     State: ''
   tags:
@@ -284,7 +284,7 @@
 - id: 1784219805293
   fields:
     Front: Ми не використовували жодних сторонніх бібліотек — все створено власними силами.
-    Back: We didn't use any third-party libraries — everything was built in-house.
+    Back: We didn't use any third-party libraries - everything was built in-house
     Audio: interview_97a094fdbaee.mp3
     State: ''
   tags:
@@ -292,7 +292,7 @@
 - id: 1784219805317
   fields:
     Front: Це дало нам повний контроль над поведінкою, дизайном і крайовими випадками.
-    Back: It gave us full control over behaviour, design, and edge cases.
+    Back: It gave us full control over behaviour, design, and edge cases
     Audio: interview_80f3bfbce96a.mp3
     State: ''
   tags:
@@ -300,7 +300,7 @@
 - id: 1784219805342
   fields:
     Front: Я представив Storybook у всіх програмах інтерфейсу користувача в команді.
-    Back: I introduced Storybook across all UI applications in the team.
+    Back: I introduced Storybook across all UI applications in the team
     Audio: interview_8518f09b8888.mp3
     State: ''
   tags:
@@ -308,7 +308,7 @@
 - id: 1784219805367
   fields:
     Front: Це зробило розробку швидшою, а тестування набагато надійнішим.
-    Back: It made development faster and testing much more reliable.
+    Back: It made development faster and testing much more reliable
     Audio: interview_2fb161ab0193.mp3
     State: ''
   tags:

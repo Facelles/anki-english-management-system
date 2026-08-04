@@ -5919,7 +5919,7 @@
 - id: 1769992700291
   fields:
     VideoFilename: pets_0257.webm
-    Front: Look, fellas, this is not what this looks like.
+    Front: Look, fellas, this is not what this looks like
     Back: Слухайте, хлопці, це не те, чим здається.
   tags: []
 - id: 1769992700292
@@ -6279,7 +6279,7 @@
 - id: 1774829983315
   fields:
     VideoFilename: silicon_valley_0096.webm
-    Front: Well, yeah. But this is for your phone.
+    Front: Well, yeah. But this is for your phone
     Back: Ну так. Але це для телефону.
   tags: []
 - id: 1774829983316
@@ -6598,7 +6598,7 @@
 - id: 1775600441772
   fields:
     VideoFilename: silicon_valley_0149.webm
-    Front: Two thousand. Final offer.
+    Front: Two thousand. Final offer
     Back: Дві тисячі. Остання пропозиція.
   tags: []
 - id: 1775600441773
@@ -8532,42 +8532,42 @@
 - id: 1785105155720
   fields:
     VideoFilename: silicon_valley_0471.webm
-    Front: He’s adorable. You’re adorable.
+    Front: He's adorable. You're adorable
     Back: Він чарівний. І ти чарівний.
   tags: []
 - id: 1785105155721
   fields:
     VideoFilename: silicon_valley_0472.webm
-    Front: It’s very emasculating.
+    Front: It's very emasculating
     Back: Це дуже принизливо для чоловічої гідності.
   tags: []
 - id: 1785105155722
   fields:
     VideoFilename: silicon_valley_0473.webm
-    Front: Here’s what it is.
+    Front: Here's what it is
     Back: Ось у чому справа.
   tags: []
 - id: 1785105155723
   fields:
     VideoFilename: silicon_valley_0474.webm
-    Front: I won’t tell anyone I hired you if you won’t tell anyone you worked here.
+    Front: I won't tell anyone I hired you if you won't tell anyone you worked here
     Back: Я нікому не скажу, що найняв тебе, якщо ти нікому не скажеш, що працював тут.
   tags: []
 - id: 1785105155724
   fields:
     VideoFilename: silicon_valley_0475.webm
-    Front: Oh, by the way, you owe me 20 thousand dollars.
+    Front: Oh, by the way, you owe me 20 thousand dollars
     Back: О, до речі, ти винен мені 20 тисяч доларів.
   tags: []
 - id: 1785105155725
   fields:
     VideoFilename: silicon_valley_0476.webm
-    Front: You have to talk to Jared about that.
+    Front: You have to talk to Jared about that
     Back: Тобі треба поговорити про це з Джаредом.
   tags: []
 - id: 1785105155726
   fields:
     VideoFilename: silicon_valley_0477.webm
-    Front: Obstacle averted. Resuming operations.
+    Front: Obstacle averted. Resuming operations
     Back: Перешкоду усунуто. Продовжуємо роботу.
   tags: []

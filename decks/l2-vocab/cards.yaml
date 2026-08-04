@@ -2024,7 +2024,7 @@
   fields:
     Front: Важко уявити сучасне суспільство без соціальних мереж, незважаючи на виклики, які вони створюють.
     Back: It is difficult to imagine modern society without social media, despite the challenges they
-      create.
+      create
     Audio: l2-vocab_8963bc15439b.mp3
   tags: []
 - id: 1784071344589
@@ -2045,20 +2045,20 @@
   fields:
     Front: Хоча штучний інтелект пропонує чудові можливості, він також піднімає важливі етичні питання.
     Back: Although artificial intelligence offers remarkable opportunities, it also raises important ethical
-      questions.
+      questions
     Audio: l2-vocab_e57f8ed43d81.mp3
   tags: []
 - id: 1784071344665
   fields:
-    Front: Тривають дискусії про те, чи технічний прогрес покращує чи погіршує якість нашого життя.
+    Front: Тривають дискусії про те, чи технологічний прогрес покращує чи погіршує якість нашого життя.
     Back: There is an ongoing debate about whether technological progress is improving or damaging our
       quality of life.
     Audio: l2-vocab_ec263188a7b5.mp3
   tags: []
 - id: 1784071344689
   fields:
-    Front: Більшість людей погодиться, що підтримувати здоровий спосіб життя важливо; однак набагато менше
-      досягають цього.
+    Front: Більшість людей погодиться, що підтримання здорового способу життя важливе; однак набагато
+      менше людей насправді досягають цього
     Back: Most people would agree that maintaining a healthy lifestyle is important; however, far fewer
       actually achieve it.
     Audio: l2-vocab_a1e77b20fb41.mp3
@@ -2071,10 +2071,10 @@
   tags: []
 - id: 1784071344739
   fields:
-    Front: Багато сучасних глобальних проблем неможливо вирішити без співпраці між окремими людьми, підприємствами
-      та урядами.
-    Back: Many of today’s global challenges cannot be solved without cooperation between individuals,
-      businesses and governments.
+    Front: Багато сьогоднішніх глобальних викликів неможуть бути вирішиними без співпраці між окремими
+      людьми, бізнесами і урядами
+    Back: Many of today's global challenges cannot be solved without cooperation between individuals,
+      businesses and governments
     Audio: l2-vocab_472e81dc416b.mp3
   tags: []
 - id: 1784071344764
@@ -2082,27 +2082,27 @@
     Front: Стає все більш очевидним, що освіта відіграє вирішальну роль у підготовці людей до непередбачуваного
       майбутнього.
     Back: It is becoming increasingly clear that education plays a crucial role in preparing people for
-      an unpredictable future.
+      an unpredictable future
     Audio: l2-vocab_489b185d1703.mp3
   tags: []
 - id: 1784071344790
   fields:
-    Front: Деякі люди стверджують, що волонтерство – це просто прояв доброти, тоді як інші бачать у ньому
-      можливість особистісного зростання.
+    Front: Деякі люди стверджують, що волонтерство – це просто прояв доброти, тоді як інші бачать це як
+      можливість для особистісного зростання.
     Back: Some people argue that volunteering is simply an act of kindness, whereas others see it as an
       opportunity for personal growth.
     Audio: l2-vocab_00ef37350de6.mp3
   tags: []
 - id: 1784071344814
   fields:
-    Front: Жодне покоління не зазнавало технологічних змін так швидко, як це ми живемо сьогодні.
+    Front: Жодне покоління не переживало технологічних змін так стрімко, як те, що ми проживаємо сьогодні
     Back: No generation has experienced technological change as rapidly as the one we are living through
-      today.
+      today
     Audio: l2-vocab_e08bd35bf6a8.mp3
   tags: []
 - id: 1784071344839
   fields:
-    Front: 'Незалежно від того, обговорюємо ми зміну клімату, громадське здоров’я чи штучний інтелект,
+    Front: '(Чи|Незалежно від того,) обговорюємо ми зміну клімату, громадське здоров’я чи штучний інтелект,
       один факт залишається незаперечним: обґрунтовані рішення мають значення.'
     Back: 'Whether we are discussing climate change, public health or artificial intelligence, one fact
       remains undeniable: informed decisions matter.'
@@ -2126,7 +2126,7 @@
   tags: []
 - id: 1784071344914
   fields:
-    Front: Чи справді одна людина може змінити ситуацію у вирішенні глобальних екологічних проблем?
+    Front: Чи може&nbsp;одна людина справді&nbsp;змінити ситуацію у вирішенні глобальних екологічних проблем?
     Back: Can a single individual really make a difference in tackling global environmental problems?
     Audio: l2-vocab_53e865f60596.mp3
   tags: []

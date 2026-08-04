@@ -366,14 +366,14 @@
   tags: []
 - id: 1777250810403
   fields:
-    Front: Які продукти викликають проблеми?
+    Front: Яка іжа викликаює проблеми?
     Back: What foods trigger the problems?
     Audio: Medicine_0062-What_foods.mp3
   tags: []
 - id: 1777250810404
   fields:
     Front: Я не переношу жирне м&#x27;ясо і смажене
-    Back: I can&#x27;t tolerate fatty meat and fried food
+    Back: I can't tolerate fatty meat and fried food
     Audio: Medicine_0063-I_can_t.mp3
   tags: []
 - id: 1777250810405
@@ -409,7 +409,7 @@
 - id: 1777250810410
   fields:
     Front: Вона скаржиться на запор
-    Back: She&#x27;s complaining of constipation
+    Back: She's complaining of constipation
     Audio: Medicine_0069-She_s_complaining.mp3
   tags: []
 - id: 1777250810411

@@ -4246,7 +4246,7 @@
   tags: []
 - id: 1777250394482
   fields:
-    Front: Цей сценарій часто пропускається в подібних системах
+    Front: Цей сценарій часто пропускається{недогледіли} в подібних системах
     Back: This scenario is often overlooked in similar systems
     Audio: IT_0714-This_scenario.mp3
   tags: []
@@ -4422,7 +4422,7 @@
 - id: 1777250394512
   fields:
     Front: Повернути означає (скасувати|анулювати) конкретну зміну і повернути попередню версію
-    Back: To revert means to undo a specific change and restore a previous version.
+    Back: To revert means to undo a specific change and restore a previous version
     Audio: IT_0744-To_revert.mp3
   tags: []
 - id: 1777250394513
@@ -5532,7 +5532,7 @@
   fields:
     Front: Лише після кількох годин розслідування нам вдалось достатньо глибоко розібратись, щоб визначити
       проблему
-    Back: Only after several hours of investigation did we manage to dig deep enough to identify the issue.
+    Back: Only after several hours of investigation did we manage to dig deep enough to identify the issue
     Audio: IT_0928-Only_after.mp3
   tags: []
 - id: 1784377679391
@@ -5637,7 +5637,7 @@
   - interview
 - id: 1784377679736
   fields:
-    Front: Скільки ще ми будемо ходити туди-сюди щодо цього рішення?
+    Front: Скільки ще ми збираємося ходити туди-сюди щодо цього рішення?
     Back: How much longer are we going to go back and forth on this decision?
     Audio: it-deck_868573b8426c.mp3
   tags:
@@ -5866,24 +5866,22 @@
 - id: 1784377680537
   fields:
     Front: Новий процес буде запровадженим поступово, щоб мінімізувати ризики.
-    Back: The new process will be introduced gradually to minimize the risks.
+    Back: The new process will be introduced gradually to minimize the risks
     Audio: it-deck_427f3a73eac1.mp3
   tags:
   - interview
 - id: 1785584726772
   fields:
-    Front: Щось упустити - означає не помітити, не зрозуміти, не вловити щось.
-    Back: To miss something means to fail to notice, understand, or catch something.
+    Front: Щось упустити - означає не помітити, не зрозуміти, чи не вловити щось.
+    Back: To miss something means to fail to notice, understand, or catch something
     Audio: it-deck_6b3904e82180.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726795
   fields:
     Front: Ми пропустили важливий крайній випадок під час перевірки коду.
-    Back: We missed an important edge case during the code review.
+    Back: We missed an important edge case during the code review
     Audio: it-deck_24aa7506b466.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726819
@@ -5891,79 +5889,69 @@
     Front: Як ми пропустили таку очевидну помилку?
     Back: How did we miss such an obvious bug?
     Audio: it-deck_4c115d303aa0.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726845
   fields:
-    Front: Якби ми не пропустили цю перевірку, інциденту ніколи б не сталося.
-    Back: Had we not missed that validation, the incident would never have happened.
+    Front: Якби ми не пропустили{не помітити} цю перевірку, інциденту ніколи б не сталося. [Inv Third]
+    Back: Had we not missed that validation, the incident would never have happened
     Audio: it-deck_675d0eb4c69f.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726877
   fields:
-    Front: Лише перечитавши журнали, ми зрозуміли, що пропустили.
-    Back: Only after reading the logs again did we realize what we had missed.
+    Front: Лише після прочитання логів знову, ми зрозуміли, що пропустили.
+    Back: Only after reading the logs again did we realize what we had missed
     Audio: it-deck_a6a736ab2985.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726902
   fields:
     Front: Ця проблема була пропущена, оскільки інтеграційні тести були неповними.
-    Back: This issue was missed because the integration tests were incomplete.
+    Back: This issue was missed because the integration tests were incomplete
     Audio: it-deck_6e12cf067f2d.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726920
   fields:
     Front: Я не хочу, щоб ми пропустили ще одну можливість спростити архітектуру.
-    Back: I don’t want us to miss another opportunity to simplify the architecture.
+    Back: I don't want us to miss another opportunity to simplify the architecture
     Audio: it-deck_49332a8acf0c.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726945
   fields:
     Front: Незручність - це ситуація, яка викликає труднощі або додаткові зусилля.
-    Back: Inconvenience is a situation that causes difficulty or extra effort.
+    Back: Inconvenience is a situation that causes difficulty or extra effort
     Audio: it-deck_cdfbdc18ec50.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584726976
   fields:
-    Front: Зручність - це ситуація, яка полегшує щось.
-    Back: Convenience is a situation that makes something easier.
+    Front: Зручність - це ситуація, яка робить щось легшим
+    Back: Convenience is a situation that makes something easier
     Audio: it-deck_465b92cd962c.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727001
   fields:
-    Front: Розгортання спричинило незначні незручності для кількох клієнтів.
-    Back: The deployment caused a minor inconvenience for several customers.
+    Front: (Деплой|Розгортання) спричинило незначну незручність для кількох клієнтів.
+    Back: The deployment caused a minor inconvenience for several customers
     Audio: it-deck_6558bdbffcd8.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727019
   fields:
-    Front: Відкладати реліз на завтра було б надто незручно?
+    Front: <code></code>Чи було б це&nbsp;занадто великою незручністю — перенести реліз на завтра?
     Back: Would it be too much of an inconvenience to postpone the release until tomorrow?
     Audio: it-deck_f1d1fc591200.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727052
   fields:
     Front: Заради зручності команда вирішила використовувати спільну конфігурацію.
-    Back: For the sake of convenience, the team decided to use a shared configuration.
+    Back: For the sake of convenience, the team decided to use a shared configuration
     Audio: it-deck_2b8199eae8f6.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727070
@@ -5971,7 +5959,6 @@
     Front: Якби зручність була нашою єдиною турботою, ми б проігнорували ризики безпеки.
     Back: Had convenience been our only concern, we would have ignored the security risks.
     Audio: it-deck_5e93b0e1dae9.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727095
@@ -5979,7 +5966,6 @@
     Front: Те, що здається зручним сьогодні, може стати важким для підтримки в майбутньому.
     Back: What seems convenient today may become difficult to maintain in the future.
     Audio: it-deck_045a14cd0977.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727120
@@ -5987,7 +5973,6 @@
     Front: Зручність ніколи не має стояти перед безпекою.
     Back: Never should convenience come before security.
     Audio: it-deck_be06ee9fc0b1.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727144
@@ -5995,7 +5980,6 @@
     Front: Нестача - це ситуація, коли не вистачає чогось необхідного.
     Back: A lack is a situation in which there is not enough of something that is needed.
     Audio: it-deck_3cdbf26ffcd2.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727176
@@ -6003,7 +5987,6 @@
     Front: Відсутність автоматизованих тестів зробило розгортання набагато ризикованішим.
     Back: The lack of automated tests made the deployment much riskier.
     Audio: it-deck_9f08f4a19356.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727201
@@ -6011,7 +5994,6 @@
     Front: Між командами бекенда та фронтенду бракує зв’язку.
     Back: There has been a lack of communication between the backend and frontend teams.
     Audio: it-deck_537fc67b8388.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727219
@@ -6019,7 +6001,6 @@
     Front: Якби не було браку документів, міграція зайняла б набагато менше часу.
     Back: Had there not been a lack of documentation, the migration would have taken far less time.
     Audio: it-deck_0c510ae132da.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727251
@@ -6027,7 +6008,6 @@
     Front: Лише після інциденту ми зрозуміли відсутність моніторингу.
     Back: Only after the incident did we realize the lack of monitoring.
     Audio: it-deck_7f26027b2d57.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727276
@@ -6035,7 +6015,6 @@
     Front: Брак пам'яті є основною причиною поганої роботи?
     Back: Is the lack of memory the main reason for the poor performance?
     Audio: it-deck_487b41b6deac.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727301
@@ -6043,7 +6022,6 @@
     Front: Найбільше мене турбує відсутність чіткої стратегії відкату.
     Back: What concerns me most is the lack of a clear rollback strategy.
     Audio: it-deck_df00e7225b9f.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727320
@@ -6051,7 +6029,6 @@
     Front: Брак означає не мати достатньо чогось необхідного.
     Back: To lack means to not have enough of something that is needed.
     Audio: it-deck_148d524ed2d9.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727345
@@ -6059,7 +6036,6 @@
     Front: У поточній реалізації бракує належної обробки помилок.
     Back: The current implementation lacks proper error handling.
     Audio: it-deck_6079a36fed6e.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727369
@@ -6067,7 +6043,6 @@
     Front: Хоча рішення працює, йому бракує гнучкості.
     Back: Although the solution works, it lacks flexibility.
     Audio: it-deck_8337963ce007.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727395
@@ -6075,7 +6050,6 @@
     Front: Якби програмі не бракувало кешування, вона б набагато краще обробляла трафік.
     Back: Had the application not lacked caching, it would have handled the traffic much better.
     Audio: it-deck_78db5328d1b2.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727420
@@ -6083,7 +6057,6 @@
     Front: Як ви вважаєте, цій пропозиції бракує технічних деталей?
     Back: Do you think this proposal lacks technical detail?
     Audio: it-deck_c3b33982f4ae.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727445
@@ -6091,7 +6064,6 @@
     Front: Прототип був відхилений, оскільки він не мав кількох суттєвих характеристик.
     Back: The prototype was rejected because it lacked several essential features.
     Audio: it-deck_e77c54b4c30d.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727470
@@ -6099,7 +6071,6 @@
     Front: Небагато систем сьогодні не мають будь-якої форми автентифікації.
     Back: Few systems lack any form of authentication nowadays.
     Audio: it-deck_62bdf4fe4d97.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727495
@@ -6107,7 +6078,6 @@
     Front: Розбирання - це процес розбирання чогось на частини, щоб перевірити або проаналізувати це.
     Back: A teardown is the process of taking something apart in order to inspect or analyze it.
     Audio: it-deck_490d20f15260.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727520
@@ -6115,7 +6085,6 @@
     Front: Ми запланували демонтаж невдалого розгортання, щоб зрозуміти, що сталося.
     Back: We scheduled a teardown of the failed deployment to understand what had happened.
     Audio: it-deck_bf4c0fe6d111.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727545
@@ -6123,7 +6092,6 @@
     Front: Демонтаж виявив кілька проблем із конфігурацією.
     Back: The teardown revealed several configuration issues.
     Audio: it-deck_d602ca2eda6c.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727569
@@ -6131,7 +6099,6 @@
     Front: Лише після завершення демонтажу ми визначили першопричину.
     Back: Only after the teardown had been completed did we identify the root cause.
     Audio: it-deck_d8c7d6201144.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727594
@@ -6139,7 +6106,6 @@
     Front: Чи брали ви коли-небудь участь у технічному демонтажі після виробничого інциденту?
     Back: Have you ever participated in a technical teardown after a production incident?
     Audio: it-deck_2980475481c7.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727620
@@ -6147,7 +6113,6 @@
     Front: Демонтаж архітектури дав зрозуміти, що раніше не було очевидним.
     Back: The architecture teardown provided insights that had not been obvious before.
     Audio: it-deck_9985239afa49.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727645
@@ -6155,7 +6120,6 @@
     Front: Без належного демонтажу ті самі помилки, швидше за все, повторяться.
     Back: Without a proper teardown, the same mistakes are likely to happen again.
     Audio: it-deck_45c7e94ebcd1.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727670
@@ -6163,7 +6127,6 @@
     Front: Відхилення - це відмінність від очікуваного, запланованого або необхідного.
     Back: A deviation is a difference from what is expected, planned, or required.
     Audio: it-deck_7db2951840bf.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727695
@@ -6171,7 +6134,6 @@
     Front: Будь-які відхилення від специфікації повинні бути задокументовані.
     Back: Any deviation from the specification must be documented.
     Audio: it-deck_4fda1f4a2fcb.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727719
@@ -6179,7 +6141,6 @@
     Front: Звіт показує значне відхилення від очікуваного часу відповіді.
     Back: The report shows a significant deviation from the expected response time.
     Audio: it-deck_c12bff8ea99f.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727744
@@ -6187,7 +6148,6 @@
     Front: Якби відхилення було виявлено раніше, випуск не затримався б.
     Back: Had the deviation been detected earlier, the release would not have been delayed.
     Audio: it-deck_2d10159c7231.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727769
@@ -6195,7 +6155,6 @@
     Front: Чому це відхилення вважалося прийнятним?
     Back: Why was this deviation considered acceptable?
     Audio: it-deck_fbce0c894f55.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727795
@@ -6203,7 +6162,6 @@
     Front: Рідко таке невелике відхилення викликає серйозний інцидент.
     Back: Rarely does such a small deviation cause a major incident.
     Audio: it-deck_4acfe8819b05.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727820
@@ -6211,7 +6169,6 @@
     Front: Відхилення було надто незначним, щоб виправдати ще одне розгортання.
     Back: The deviation was too minor to justify another deployment.
     Audio: it-deck_bfc8a7a473e3.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727844
@@ -6219,7 +6176,6 @@
     Front: Щось є попереднім, якщо воно відбувається або існує перед чимось іншим.
     Back: Something is prior if it happens or exists before something else.
     Audio: it-deck_4370074cb510.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727870
@@ -6227,7 +6183,6 @@
     Front: Попередній досвід роботи з розподіленими системами дуже бажаний.
     Back: Prior experience with distributed systems is highly desirable.
     Audio: it-deck_fd9bc2878bdb.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727895
@@ -6235,7 +6190,6 @@
     Front: Попередні знання Kubernetes не потрібні.
     Back: No prior knowledge of Kubernetes is required.
     Audio: it-deck_57ebb49b012e.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727920
@@ -6243,7 +6197,6 @@
     Front: Якби ми ретельніше перевірили попередню реалізацію, ми могли б уникнути цієї проблеми.
     Back: Had we reviewed the prior implementation more carefully, we might have avoided this issue.
     Audio: it-deck_82c383d37357.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727944
@@ -6251,7 +6204,6 @@
     Front: Перш ніж коментувати пропозицію, прочитайте попереднє обговорення.
     Back: Please read the prior discussion before commenting on the proposal.
     Audio: it-deck_593c3eb23ad6.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727969
@@ -6259,7 +6211,6 @@
     Front: Рішення базувалося на попередніх дослідженнях, а не на припущеннях.
     Back: The decision was based on prior research rather than assumptions.
     Audio: it-deck_11fa4816e92f.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584727995
@@ -6267,7 +6218,6 @@
     Front: Лише пізніше ми виявили, що попередня версія вже вирішила цю проблему.
     Back: Only later did we discover that a prior version had already solved this problem.
     Audio: it-deck_2b3b942ff5a0.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728020
@@ -6275,7 +6225,6 @@
     Front: Виправити означає виправити проблему або усунути помилку.
     Back: To rectify means to correct a problem or remove a mistake.
     Audio: it-deck_69823179e5f1.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728045
@@ -6283,7 +6232,6 @@
     Front: Проблему необхідно усунути до випуску.
     Back: The issue must be rectified before the release.
     Audio: it-deck_8d52b4aa9e59.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728070
@@ -6291,7 +6239,6 @@
     Front: Ми вже виправили помилку конфігурації.
     Back: We have already rectified the configuration error.
     Audio: it-deck_b5677963e169.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728094
@@ -6299,7 +6246,6 @@
     Front: Якби помилку усунули раніше, відключення можна було б уникнути.
     Back: Had the mistake been rectified earlier, the outage could have been avoided.
     Audio: it-deck_3f4d8b922234.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728120
@@ -6307,7 +6253,6 @@
     Front: Які кроки слід вжити, щоб усунути цю вразливість?
     Back: What steps should be taken to rectify this vulnerability?
     Audio: it-deck_ac59238e48fe.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728145
@@ -6315,7 +6260,6 @@
     Front: Рідко виробничі проблеми вирішуються без ретельного дослідження.
     Back: Rarely is a production issue rectified without careful investigation.
     Audio: it-deck_2d5841591614.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728170
@@ -6323,7 +6267,6 @@
     Front: Виправивши невідповідність бази даних, ми перезапустили службу.
     Back: Having rectified the database inconsistency, we restarted the service.
     Audio: it-deck_83896c92fb4a.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728195
@@ -6331,7 +6274,6 @@
     Front: Щось необхідно, якщо це потрібно для досягнення певного результату.
     Back: Something is necessary if it is required in order to achieve a particular result.
     Audio: it-deck_0ab552292a29.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728219
@@ -6339,7 +6281,6 @@
     Front: Перед початком міграції необхідно створити повну резервну копію.
     Back: A full backup is necessary before the migration begins.
     Audio: it-deck_a7f4c91554d6.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728245
@@ -6347,7 +6288,6 @@
     Front: Чи дійсно потрібно вводити ще одну залежність?
     Back: Is it really necessary to introduce another dependency?
     Audio: it-deck_6347d37c6c0c.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728270
@@ -6355,7 +6295,6 @@
     Front: Якби було потрібно, ми б відклали випуск.
     Back: Had it been necessary, we would have postponed the release.
     Audio: it-deck_e07b0dbe959d.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728295
@@ -6363,7 +6302,6 @@
     Front: У загальнодоступній мережі мають бути представлені лише необхідні служби.
     Back: Only the necessary services should be exposed to the public network.
     Audio: it-deck_1b5a39cd0afd.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728320
@@ -6371,7 +6309,6 @@
     Front: Необхідно перевірити кожну зміну перед розгортанням.
     Back: It is necessary that every change be reviewed before deployment.
     Audio: it-deck_74cd14f50871.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728344
@@ -6379,7 +6316,6 @@
     Front: Не кожна оптимізація потрібна на цьому етапі.
     Back: Not every optimization is necessary at this stage.
     Audio: it-deck_387ee2370bad.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728369
@@ -6387,7 +6323,6 @@
     Front: Бути прийнятим означає бути виконаним, виконаним або прийнятим.
     Back: To be taken means to be performed, carried out, or accepted.
     Audio: it-deck_74431e6bbf23.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728394
@@ -6395,7 +6330,6 @@
     Front: Необхідно вжити негайних заходів, щоб запобігти подальшим збоям.
     Back: Immediate action must be taken to prevent further failures.
     Audio: it-deck_c44c596dc28a.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728419
@@ -6403,7 +6337,6 @@
     Front: Для підвищення надійності вже вжито кілька заходів.
     Back: Several measures have already been taken to improve reliability.
     Audio: it-deck_e8ebc88cf0c4.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728445
@@ -6411,7 +6344,6 @@
     Front: Якби були вжиті відповідні запобіжні заходи, інциденту ніколи б не сталося.
     Back: Had appropriate precautions been taken, the incident would never have occurred.
     Audio: it-deck_bb4454ced6e0.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728470
@@ -6419,7 +6351,6 @@
     Front: Не потрібно вживати жодних подальших дій, якщо проблема не з’явиться знову.
     Back: No further action needs to be taken unless the issue reappears.
     Audio: it-deck_36e6aa9c3604.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728494
@@ -6427,7 +6358,6 @@
     Front: Перш ніж вживати будь-яких заходів, слід оцінити ризики.
     Back: Before any action is taken, the risks should be assessed.
     Audio: it-deck_49423e1c8e5d.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728520
@@ -6435,7 +6365,6 @@
     Front: Тільки після того, як усі альтернативи були оцінені, було прийнято остаточне рішення.
     Back: Only after all alternatives had been evaluated was the final decision taken.
     Audio: it-deck_d03ac60baaa6.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728545
@@ -6445,7 +6374,6 @@
     Back: To entitle someone to something means to give them the legal, official, or moral right to have
       or do it.
     Audio: it-deck_a9533f4e85e1.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728570
@@ -6453,7 +6381,6 @@
     Front: Ця роль дає вам доступ до виробничого середовища.
     Back: This role entitles you to access the production environment.
     Audio: it-deck_886775cf23f0.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728594
@@ -6461,7 +6388,6 @@
     Front: Проходження навчання не дає нікому автоматичного права розгортати код.
     Back: Completing the training does not automatically entitle anyone to deploy code.
     Audio: it-deck_4d0e6d269da7.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728620
@@ -6469,7 +6395,6 @@
     Front: Якби запит було схвалено, це дало б команді право на додаткове фінансування.
     Back: Had the request been approved, it would have entitled the team to additional funding.
     Audio: it-deck_3a73d3dd9c33.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728644
@@ -6477,7 +6402,6 @@
     Front: Ніщо в цьому документі не дає користувачам права обходити політику безпеки.
     Back: Nothing in this document entitles users to bypass the security policy.
     Audio: it-deck_f1edcbe49b66.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728669
@@ -6485,7 +6409,6 @@
     Front: Чи мають підрядники право на ті ж пільги, що й постійні працівники?
     Back: Are contractors entitled to the same benefits as permanent employees?
     Audio: it-deck_0af3a653713c.mp3
-    State: ''
   tags:
   - interview
 - id: 1785584728694
@@ -6493,6 +6416,5 @@
     Front: Лише керівники мають право затверджувати аварійні виробничі зміни.
     Back: Only managers are entitled to approve emergency production changes.
     Audio: it-deck_56f6731f8327.mp3
-    State: ''
   tags:
   - interview

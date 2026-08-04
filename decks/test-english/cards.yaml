@@ -121,36 +121,36 @@
 - id: 1784218212621
   fields:
     Front: Я б краще, щоб ти мене не перебивав.
-    Back: I'd rather you didn't interrupt me.
+    Back: I'd rather you didn't interrupt me
     Audio: test-english_d1422c9fe7e3.mp3
   tags: []
 - id: 1784218212647
   fields:
     Front: Ми б краще, щоб вона більше про це не згадувала.
-    Back: We'd rather she didn't mention it again.
+    Back: We'd rather she didn't mention it again
     Audio: test-english_b4b284c287ef.mp3
   tags: []
 - id: 1784218212672
   fields:
     Front: Краще б вони тут не паркувалися.
-    Back: I'd sooner they didn't park here.
+    Back: I'd sooner they didn't park here
     Audio: test-english_8170eed978ee.mp3
   tags: []
 - id: 1784218212696
   fields:
     Front: Він би волів, щоб ти не курив усередині.
-    Back: He'd rather you didn't smoke inside.
+    Back: He'd rather you didn't smoke inside
     Audio: test-english_4c7c052410f0.mp3
   tags: []
 - id: 1784218212721
   fields:
     Front: Я б волів, щоб Том нікому не казав.
-    Back: I'd rather Tom didn't tell anyone.
+    Back: I'd rather Tom didn't tell anyone
     Audio: test-english_9d1ff7d93976.mp3
   tags: []
 - id: 1784218212746
   fields:
-    Front: Чи краще б я відчинив вікно?
+    Front: Ти б воліла, щоб я відчинив вікно?
     Back: Would you rather I opened the window?
     Audio: test-english_43ab69389bf1.mp3
   tags: []
@@ -181,13 +181,13 @@
 - id: 1784218212871
   fields:
     Front: Дякую, але краще б не було.
-    Back: Thanks, but I'd rather not.
+    Back: Thanks, but I'd rather not
     Audio: test-english_86af42fc3bf9.mp3
   tags: []
 - id: 1784218212896
   fields:
-    Front: Я б краще, щоб ти не робив цього, якщо ти не проти.
-    Back: I'd rather you didn't, if you don't mind.
+    Front: Я б краще, щоб ти не робив, якщо ти не проти.
+    Back: I'd rather you didn't, if you don't mind
     Audio: test-english_2547f037514a.mp3
   tags: []
 - id: 1784218212920
