@@ -248,14 +248,14 @@
 - id: 1785242209333
   fields:
     Front: У неї вражаюча колекція вінтажних фотоапаратів.
-    Back: She has an impressive collection of vintage cameras.
+    Back: She has an impressive collection of vintage cameras
     Audio: test-english_f260a8438152.mp3
   tags:
   - interview
 - id: 1785242209356
   fields:
-    Front: У мене після зустрічі голова болить.
-    Back: I have a splitting headache after the meeting.
+    Front: У мене&nbsp;<strong>нестерпний/страшенний головний біль</strong>&nbsp;після наради
+    Back: I have a splitting headache after the meeting
     Audio: test-english_fbe3aa22ad0f.mp3
   tags:
   - interview
@@ -269,14 +269,14 @@
 - id: 1785242209407
   fields:
     Front: Він не дуже довіряє пропозиції.
-    Back: He doesn't have much confidence in the proposal.
+    Back: He doesn't have much confidence in the proposal
     Audio: test-english_2976a4908c44.mp3
   tags:
   - interview
 - id: 1785242209434
   fields:
     Front: У неї надзвичайна увага до деталей.
-    Back: She has remarkable attention to detail.
+    Back: She has remarkable attention to detail
     Audio: test-english_839c085c8827.mp3
   tags:
   - interview
@@ -289,15 +289,15 @@
   - interview
 - id: 1785242209482
   fields:
-    Front: Компанія має достатнє фінансування для реалізації проекту.
-    Back: The company has sufficient funding for the project.
+    Front: Компанія має достатнє фінансування для проекту.
+    Back: The company has sufficient funding for the project
     Audio: test-english_2ef15b3bb460.mp3
   tags:
   - interview
 - id: 1785242209507
   fields:
     Front: У мене є серйозна підозра, що щось не так.
-    Back: I have a strong suspicion something is wrong.
+    Back: I have a strong suspicion something is wrong
     Audio: test-english_83e9f0a9e59e.mp3
   tags:
   - interview
@@ -311,21 +311,21 @@
 - id: 1785242209557
   fields:
     Front: Я зазвичай швидко снідаю перед роботою.
-    Back: I usually have a quick breakfast before work.
+    Back: I usually have a quick breakfast before work
     Audio: test-english_05ea1d90a81e.mp3
   tags:
   - interview
 - id: 1785242209582
   fields:
     Front: Ми сьогодні вечеряємо з нашими сусідами.
-    Back: We're having dinner with our neighbours tonight.
+    Back: We're having dinner with our neighbours tonight
     Audio: test-english_cc35a2f23b92.mp3
   tags:
   - interview
 - id: 1785242209607
   fields:
     Front: У неї була захоплююча розмова з хірургом.
-    Back: She had a fascinating conversation with the surgeon.
+    Back: She had a fascinating conversation with the surgeon
     Audio: test-english_ad126a3f99ec.mp3
   tags:
   - interview
@@ -339,14 +339,14 @@
 - id: 1785242209657
   fields:
     Front: Ми провели незабутню відпустку в Шотландії.
-    Back: We had an unforgettable holiday in Scotland.
+    Back: We had an unforgettable holiday in Scotland
     Audio: test-english_20e73dc17bb1.mp3
   tags:
   - interview
 - id: 1785242209682
   fields:
     Front: Вони посперечалися через спадщину.
-    Back: They had an argument over inheritance.
+    Back: They had an argument over inheritance
     Audio: test-english_1c5cea6732eb.mp3
   tags:
   - interview

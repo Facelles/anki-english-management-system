@@ -6039,7 +6039,7 @@
 - id: 1774217095819
   fields:
     VideoFilename: silicon_valley_0056.webm
-    Front: He&#x27;s got to be doing it just to fuck with us, right?
+    Front: He's got to be doing it just to fuck with us, right?
     Back: Він робить це просто щоб нас дістати, так?
   tags: []
 - id: 1774217095820
@@ -8646,13 +8646,13 @@
 - id: 1785873871243
   fields:
     VideoFilename: silicon_valley_0490.webm
-    Front: I&#x27;ll let you know either way.
+    Front: I'll let you know either way
     Back: Я повідомлю тобі в будь-якому разі.
   tags: []
 - id: 1785873871244
   fields:
     VideoFilename: silicon_valley_0491.webm
-    Front: I&#x27;m gonna go network. Don&#x27;t approach me.
+    Front: I'm gonna go network. Don't approach me
     Back: Піду знайомитися з людьми. Не підходьте до мене.
   tags: []
 - id: 1785873871245
@@ -8694,24 +8694,198 @@
 - id: 1785873871251
   fields:
     VideoFilename: silicon_valley_0498.webm
-    Front: I mean, I barely remember her.
-    Back: Я її майже не пам&#x27;ятаю.
+    Front: I mean, I barely remember her
+    Back: Я її майже не пам'ятаю.
   tags: []
 - id: 1785873871252
   fields:
     VideoFilename: silicon_valley_0499.webm
-    Front: Neither do I. That&#x27;s the entire point.
+    Front: Neither do I. That's the entire point
     Back: Я теж. У цьому й увесь сенс.
   tags: []
 - id: 1785873871253
   fields:
     VideoFilename: silicon_valley_0500.webm
-    Front: Right in the middle.
+    Front: Right in the middle
     Back: Прямо посередині.
   tags: []
 - id: 1785873871254
   fields:
     VideoFilename: silicon_valley_0501.webm
-    Front: He seems very distracted.
+    Front: He seems very distracted
     Back: Він здається дуже відволіченим.
+  tags: []
+- id: 1786402705534
+  fields:
+    VideoFilename: silicon_valley_0502.webm
+    Front: It's this facial recognition app that Monica put on our phones.
+    Back: Це той додаток для розпізнавання облич, який Моніка встановила на наші телефони.
+  tags: []
+- id: 1786402705535
+  fields:
+    VideoFilename: silicon_valley_0503.webm
+    Front: I don&#x27;t know, Monica. He&#x27;s toying with me.
+    Back: Не знаю, Моніко. Він грається зі мною.
+  tags: []
+- id: 1786402705536
+  fields:
+    VideoFilename: silicon_valley_0504.webm
+    Front: Had all of these disgusting affairs.
+    Back: Мав усі ці огидні інтрижки.
+  tags: []
+- id: 1786402705537
+  fields:
+    VideoFilename: silicon_valley_0505.webm
+    Front: You know, the divorce nearly killed Dan.
+    Back: Знаєш, розлучення мало не вбило Дена.
+  tags: []
+- id: 1786402705538
+  fields:
+    VideoFilename: silicon_valley_0506.webm
+    Front: Disgusting affairs.
+    Back: Огидні інтрижки.
+  tags: []
+- id: 1786402705539
+  fields:
+    VideoFilename: silicon_valley_0507.webm
+    Front: All right, each team will have six minutes for presentation and demo
+    Back: Гаразд, кожна команда матиме шість хвилин на презентацію та демонстрацію.
+  tags: []
+- id: 1786402705540
+  fields:
+    VideoFilename: silicon_valley_0508.webm
+    Front: OK, so two of those, one on each side and then one in the center
+    Back: Гаразд, два таких — по одному з кожного боку, а потім один у центрі.
+  tags: []
+- id: 1786402705541
+  fields:
+    VideoFilename: silicon_valley_0509.webm
+    Front: so that it casts my shadow behind me
+    Back: щоб він відкидав мою тінь позаду мене.
+  tags: []
+- id: 1786402705542
+  fields:
+    VideoFilename: silicon_valley_0510.webm
+    Front: like a giant looking over his own shoulder.
+    Back: наче велетень, який дивиться через власне плече.
+  tags: []
+- id: 1786402705543
+  fields:
+    VideoFilename: silicon_valley_0511.webm
+    Front: Are you humming to yourself?
+    Back: Ти щось собі наспівуєш?
+  tags: []
+- id: 1786402705544
+  fields:
+    VideoFilename: silicon_valley_0512.webm
+    Front: I may have found the perfect woman.
+    Back: Можливо, я знайшов ідеальну жінку.
+  tags: []
+- id: 1786402705545
+  fields:
+    VideoFilename: silicon_valley_0513.webm
+    Front: Oh yeah, that means she wants you to lay her.
+    Back: О так, це означає, що вона хоче, щоб ти з нею переспав.
+  tags: []
+- id: 1786402705546
+  fields:
+    VideoFilename: silicon_valley_0514.webm
+    Front: Is that definitive?
+    Back: Це точно?
+  tags: []
+- id: 1786402705547
+  fields:
+    VideoFilename: silicon_valley_0515.webm
+    Front: You know I wrote that code, right?
+    Back: Ти ж знаєш, що той код написав я, так?
+  tags: []
+- id: 1786402705548
+  fields:
+    VideoFilename: silicon_valley_0516.webm
+    Front: A banged up 15-inch MacBook Pro
+    Back: Пошарпаний 15-дюймовий MacBook Pro.
+  tags: []
+- id: 1786402705549
+  fields:
+    VideoFilename: silicon_valley_0517.webm
+    Front: with shitty stickers on it?
+    Back: з довбаними наліпками на ньому?
+  tags: []
+- id: 1786402705550
+  fields:
+    VideoFilename: silicon_valley_0518.webm
+    Front: Oh, shit, it&#x27;s frozen. It&#x27;s frozen.
+    Back: От лайно, він завис. Він завис.
+  tags: []
+- id: 1786402705551
+  fields:
+    VideoFilename: silicon_valley_0519.webm
+    Front: So you didn&#x27;t write any of that Java code?
+    Back: То ти не написав нічого з того Java-коду?
+  tags: []
+- id: 1786402705552
+  fields:
+    VideoFilename: silicon_valley_0520.webm
+    Front: But it&#x27;s not gonna change who you are.
+    Back: Але це не змінить того, ким ти є.
+  tags: []
+- id: 1786402705553
+  fields:
+    VideoFilename: silicon_valley_0521.webm
+    Front: I owe you an apology. I was way off base.
+    Back: Я винен тобі вибачення. Я дуже помилявся.
+  tags: []
+- id: 1786402705554
+  fields:
+    VideoFilename: silicon_valley_0522.webm
+    Front: He cleared it all up for me.
+    Back: Він мені все прояснив.
+  tags: []
+- id: 1786402705555
+  fields:
+    VideoFilename: silicon_valley_0523.webm
+    Front: I feel like we don&#x27;t appreciate you enough
+    Back: Мені здається, ми недостатньо тебе цінуємо.
+  tags: []
+- id: 1786402705556
+  fields:
+    VideoFilename: silicon_valley_0524.webm
+    Front: Yeah, 3D video&#x27;s still a little hinky.
+    Back: Так, 3D-відео все ще трохи глючить.
+  tags: []
+- id: 1786402705557
+  fields:
+    VideoFilename: silicon_valley_0525.webm
+    Front: I&#x27;ve been working on it for 15 years.
+    Back: Я працюю над цим уже 15 років.
+  tags: []
+- id: 1786402705558
+  fields:
+    VideoFilename: silicon_valley_0526.webm
+    Front: Man, they are brutal.
+    Back: Чувак, вони просто жорстокі.
+  tags: []
+- id: 1786402705559
+  fields:
+    VideoFilename: silicon_valley_0527.webm
+    Front: Let&#x27;s light this candle.
+    Back: Ну що, почнімо.
+  tags: []
+- id: 1786402705560
+  fields:
+    VideoFilename: silicon_valley_0528.webm
+    Front: Where the hell have you been?
+    Back: Де тебе, в біса, носило?
+  tags: []
+- id: 1786402705561
+  fields:
+    VideoFilename: silicon_valley_0529.webm
+    Front: The microwaves only penetrate the top layer of skin cells.
+    Back: Мікрохвилі проникають лише у верхній шар клітин шкіри.
+  tags: []
+- id: 1786402705562
+  fields:
+    VideoFilename: silicon_valley_0530.webm
+    Front: Since the dawn of time
+    Back: Від початку часів.
   tags: []

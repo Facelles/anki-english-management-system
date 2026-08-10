@@ -412,7 +412,7 @@
 - id: 1784219805691
   fields:
     Front: Я працюю в АА чотири роки, і я відчуваю, що виріс настільки, наскільки міг тут.
-    Back: I've been at The AA for four years and I feel I've grown as much as I can here.
+    Back: I've been at The AA for four years and I feel I've grown as much as I can here
     Audio: interview_1693c326cbc5.mp3
     State: ''
   tags:
@@ -420,7 +420,7 @@
 - id: 1784219805717
   fields:
     Front: Я шукаю роль з більшою технічною складністю та більшими проблемами.
-    Back: I'm looking for a role with more technical complexity and bigger challenges.
+    Back: I'm looking for a role with more technical complexity and bigger challenges
     Audio: interview_e7a3482041ca.mp3
     State: ''
   tags:
@@ -428,7 +428,7 @@
 - id: 1784219805742
   fields:
     Front: Я хочу працювати в середовищі, де інженерія є основним пріоритетом.
-    Back: I want to work in an environment where engineering is a core priority.
+    Back: I want to work in an environment where engineering is a core priority
     Audio: interview_bf975ef42d2c.mp3
     State: ''
   tags:
@@ -436,7 +436,7 @@
 - id: 1784219805767
   fields:
     Front: Мені щиро подобається ділитися знаннями — це тримає мене кмітливим і залученим.
-    Back: I genuinely enjoy sharing knowledge — it keeps me sharp and engaged.
+    Back: I genuinely enjoy sharing knowledge - it keeps me sharp and engaged
     Audio: interview_0fb3b33f8cc0.mp3
     State: ''
   tags:
@@ -444,7 +444,7 @@
 - id: 1784219805792
   fields:
     Front: Викладання змушує вас глибоко розуміти речі, а не просто використовувати їх.
-    Back: Teaching forces you to understand things deeply, not just use them.
+    Back: Teaching forces you to understand things deeply, not just use them
     Audio: interview_a72e76c3e628.mp3
     State: ''
   tags:
@@ -452,15 +452,15 @@
 - id: 1784219805818
   fields:
     Front: Мій канал висвітлює реальні інженерні проблеми, а не лише навчальний матеріал.
-    Back: My channel covers real engineering problems, not just tutorial content.
+    Back: My channel covers real engineering problems, not just tutorial content
     Audio: interview_aee0262fa2a9.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805843
   fields:
-    Front: ITFriday розпочався як спосіб відновити зв’язок української ІТ-спільноти за кордоном.
-    Back: ITFriday started as a way to reconnect the Ukrainian IT community abroad.
+    Front: IT Friday розпочався як спосіб відновити зв’язок української ІТ-спільноти за кордоном.
+    Back: IT Friday started as a way to reconnect the Ukrainian IT community abroad
     Audio: interview_43e54f1579d1.mp3
     State: ''
   tags:
@@ -468,7 +468,7 @@
 - id: 1784219805867
   fields:
     Front: Ми проводимо трансляції щоп’ятниці та обговорюємо як технічні, так і людські теми.
-    Back: We stream every Friday and discuss both technical and human topics.
+    Back: We stream every Friday and discuss both technical and human topics
     Audio: interview_fa217e90dcb6.mp3
     State: ''
   tags:
@@ -476,31 +476,31 @@
 - id: 1784219805893
   fields:
     Front: Це стало чимось, чим я щиро пишаюся поза моєю повсякденною роботою.
-    Back: It's grown into something I'm genuinely proud of outside of my day job.
+    Back: It's grown into something I'm genuinely proud of outside of my day job
     Audio: interview_21b83545c20f.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805917
   fields:
-    Front: Я уникаю передчасної оптимізації — код все одно часто потрібно змінювати пізніше.
-    Back: I avoid premature optimization — the code often needs to change later anyway.
+    Front: Я уникаю передчасної оптимізації — код часто потребує змінювати пізніше все одно.
+    Back: I avoid premature optimization - the code often needs to change later anyway
     Audio: interview_c604edfba054.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805942
   fields:
-    Front: По-перше, я запитую, чи потрібен гачок, чи структура може вирішити це.
-    Back: First, I ask if a hook is even necessary, or if structure can solve it instead.
+    Front: По-перше, я запитую, чи хук взагалі потрібен, чи структура може вирішити це натомість.
+    Back: First, I ask if a hook is even necessary, or if structure can solve it instead
     Audio: interview_3c656d59c55c.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805967
   fields:
-    Front: Часто useCallback не потрібен, якщо ви перемістите функцію за межі компонента.
-    Back: Often useCallback isn't needed if you move the function outside the component.
+    Front: Часто useCallback не є потрібен, якщо ви перемістите функцію за межі компонента.
+    Back: Often useCallback isn't needed if you move the function outside the component
     Audio: interview_6bb0532ef066.mp3
     State: ''
   tags:
