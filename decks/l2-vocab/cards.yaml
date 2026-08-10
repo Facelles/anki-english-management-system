@@ -2132,24 +2132,24 @@
   tags: []
 - id: 1784071344939
   fields:
-    Front: Незважаючи на значний технічний прогрес, багато соціальних питань залишаються невирішеними.
-    Back: Despite significant technological advances, many social issues remain unresolved.
+    Front: Незважаючи на значні технологічні досягнення, багато соціальних питань залишаються невирішеними.
+    Back: Despite significant technological advances, many social issues remain unresolved
     Audio: l2-vocab_3eeb5d103f73.mp3
   tags: []
 - id: 1784071344964
   fields:
-    Front: За останні кілька років спостерігається помітне підвищення обізнаності громадськості про психічне
-      здоров’я.
+    Front: (Було|спостерігається) помітне підвищення в суспільній обізнаності щодо психічного здоров'я
+      за останні кілька років
     Back: There has been a noticeable increase in public awareness of mental health over the past few
-      years.
+      years
     Audio: l2-vocab_3b597da6dc80.mp3
   tags: []
 - id: 1784071344989
   fields:
     Front: Від зміни клімату до штучного інтелекту, сучасні виклики вимагають продуманих і обґрунтованих
       рішень.
-    Back: From climate change to artificial intelligence, today’s challenges require thoughtful and well-informed
-      decisions.
+    Back: From climate change to artificial intelligence, today's challenges require thoughtful and well-informed
+      decisions
     Audio: l2-vocab_be50d115f495.mp3
   tags: []
 - id: 1784071345014
@@ -2162,8 +2162,9 @@
   tags: []
 - id: 1784071345039
   fields:
-    Front: Останні події докорінно змінили спосіб роботи, навчання та спілкування людей.
-    Back: Recent developments have fundamentally changed the way people work, learn and communicate.
+    Front: Останні події докорінно змінили спосіб ~як~ людb&nbsp;працюють, навчаються та спілкуються.
+      [PrPerf]
+    Back: Recent developments have fundamentally changed the way people work, learn and communicate
     Audio: l2-vocab_cca3b636a44e.mp3
   tags: []
 - id: 1784071345064
@@ -2171,14 +2172,633 @@
     Front: У той час як одні вважають, що прогрес залежить лише від інновацій, інші стверджують, що освіта
       та критичне мислення однаково важливі.
     Back: While some believe that progress is driven by innovation alone, others argue that education
-      and critical thinking are equally important.
+      and critical thinking are equally important
     Audio: l2-vocab_3ceee466f768.mp3
   tags: []
 - id: 1784071345089
   fields:
-    Front: У все більш взаємопов’язаному світі вибір, який ми робимо сьогодні, може мати наслідки для
-      майбутніх поколінь.
+    Front: У дедалі більш взаємопов'язаному світі рішення, які ми приймаємо сьогодні, можуть мати наслідки
+      для прийдешніх поколінь
     Back: In an increasingly interconnected world, the choices we make today may have consequences for
-      generations to come.
+      generations to come
     Audio: l2-vocab_1da65305b47b.mp3
   tags: []
+- id: 1786113474264
+  fields:
+    Front: У таблиці нижче наведено інформацію про середні витрати домогосподарств на їжу, житло та транспорт
+      у чотирьох країнах у 2020 році.
+    Back: The table below gives information about average household spending on food, housing and transport
+      in four countries in 2020.
+    Audio: l2-vocab_5e55332e101a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474288
+  fields:
+    Front: Як видно з таблиці, Японія зафіксувала найвищі витрати на житло серед усіх чотирьох країн.
+    Back: As can be seen from the table, Japan recorded the highest expenditure on housing among all four
+      countries.
+    Audio: l2-vocab_c1352d2554d9.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474312
+  fields:
+    Front: Згідно з таблицею, витрати на транспорт суттєво відрізнялися між досліджуваними країнами.
+    Back: According to the table, spending on transport varied considerably between the countries surveyed.
+    Audio: l2-vocab_0a9c8ebb1252.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474338
+  fields:
+    Front: У таблиці порівнюється кількість лікарняних ліжок на 1000 осіб у п’яти країнах між 2000 і 2020
+      роками.
+    Back: The table compares the number of hospital beds per 1,000 people across five countries between
+      2000 and 2020.
+    Audio: l2-vocab_fac3a9ebe05d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474362
+  fields:
+    Front: Загалом очевидно, що в Німеччині постійно більше лікарняних ліжок на душу населення, ніж в
+      інших перерахованих країнах.
+    Back: Overall, it is clear that Germany had consistently more hospital beds per capita than the other
+      countries listed.
+    Audio: l2-vocab_269ee044dcdd.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474387
+  fields:
+    Front: За рівнем проходження іспитів країна А перевершила всі інші країни, наведені в таблиці.
+    Back: In terms of exam pass rates, Country A outperformed all the other countries shown in the table.
+    Audio: l2-vocab_0850405eb45d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474411
+  fields:
+    Front: Таблиця ілюструє відсоток домогосподарств з доступом до Інтернету в шести регіонах у 2015 та
+      2022 роках.
+    Back: The table illustrates the percentage of households with internet access in six regions in 2015
+      and 2022.
+    Audio: l2-vocab_a97fd7fd49ea.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474438
+  fields:
+    Front: Доступ до Інтернету зріс у всіх регіонах, за винятком одного, де показник майже не змінився.
+    Back: Internet access increased in every region except one, where the figure remained largely unchanged.
+    Audio: l2-vocab_af142b9bd4c2.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474463
+  fields:
+    Front: У таблиці наведено дані про споживання кави та чаю на душу населення в чотирьох країнах.
+    Back: The table provides data on coffee and tea consumption per capita in four countries.
+    Audio: l2-vocab_d50de5828af5.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474488
+  fields:
+    Front: У трьох з чотирьох країн споживання кави було значно вищим, ніж споживання чаю.
+    Back: Coffee consumption was considerably higher than tea consumption in three of the four countries.
+    Audio: l2-vocab_91ce0e8c3029.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474513
+  fields:
+    Front: Як показано в таблиці, частка використання відновлюваної енергії сильно відрізнялася від однієї
+      країни до іншої.
+    Back: As shown in the table, the proportion of renewable energy use varied greatly from one country
+      to another.
+    Audio: l2-vocab_58f12122d035.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474538
+  fields:
+    Front: Найбільшу частку відновлюваної енергії зафіксовано у Норвегії – 71 відсоток, а найменшу – у
+      Польщі.
+    Back: Norway recorded the largest share of renewable energy, at 71 percent, while the lowest figure
+      was recorded in Poland.
+    Audio: l2-vocab_a3b66e0fd3ae.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474563
+  fields:
+    Front: У таблиці наведено кількість випускників ВНЗ за спеціальностями у 2010 та 2020 роках.
+    Back: The table sets out the number of university graduates by subject area in 2010 and 2020.
+    Audio: l2-vocab_3e90bdb2f562.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474588
+  fields:
+    Front: Кількість випускників інженерів майже подвоїлася за десятирічний період, тоді як кількість
+      випускників мистецтв дещо зменшилася.
+    Back: The number of graduates in engineering nearly doubled over the ten-year period, whereas the
+      number in the arts fell slightly.
+    Audio: l2-vocab_346a5dabf333.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474613
+  fields:
+    Front: У таблиці нижче наведено середні робочі години на тиждень у п’яти професіях.
+    Back: The table below details average working hours per week in five professions.
+    Audio: l2-vocab_3efb3a8c3d4c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474638
+  fields:
+    Front: Лікарі працювали значно довше, ніж будь-яка інша професія, перерахована в таблиці.
+    Back: Doctors worked considerably longer hours than any other profession listed in the table.
+    Audio: l2-vocab_b6b74f582ca7.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474663
+  fields:
+    Front: Згідно з даними, у секторі роздрібної торгівлі зафіксовано найкоротший середній робочий тиждень
+      – 32 години.
+    Back: According to the data, the retail sector recorded the shortest average working week, at 32 hours.
+    Audio: l2-vocab_f940f0d41d3e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474736
+  fields:
+    Front: У таблиці показано відсоток населення, яке займається різними видами спорту за трьома віковими
+      групами.
+    Back: The table shows the percentage of the population participating in different types of sport across
+      three age groups.
+    Audio: l2-vocab_087472356f3d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474748
+  fields:
+    Front: Участь у командних видах спорту неухильно знижувалася з віком, тоді як участь в індивідуальних
+      видах спорту залишалася відносно стабільною.
+    Back: Participation in team sports declined steadily with age, while participation in individual sports
+      remained relatively stable.
+    Audio: l2-vocab_fdfa7aa919ff.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474773
+  fields:
+    Front: У таблиці наведені цифри споживання м’яса на людину в шести країнах у 1990 і 2020 роках.
+    Back: The table gives figures for meat consumption per person in six countries in 1990 and 2020.
+    Audio: l2-vocab_3c8c901b39ac.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474797
+  fields:
+    Front: Споживання м’яса впало в чотирьох з шести країн, але різко зросло в двох інших.
+    Back: Meat consumption fell in four of the six countries but rose sharply in the remaining two.
+    Audio: l2-vocab_0ce673c57512.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474826
+  fields:
+    Front: Як показано в таблиці, володіння смартфоном серед підлітків було значно вищим, ніж серед дорослих
+      старше 60 років.
+    Back: As illustrated in the table, smartphone ownership among teenagers was considerably higher than
+      among adults over 60.
+    Audio: l2-vocab_08a9393e2931.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474853
+  fields:
+    Front: У таблиці порівнюються рівні злочинності в трьох великих містах за п’ятирічний період.
+    Back: The table compares crime rates in three major cities over a five-year period.
+    Audio: l2-vocab_ee962fec4c48.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474869
+  fields:
+    Front: Місто з найвищим рівнем злочинності в 2015 році опустилося на друге місце до 2020 року.
+    Back: The city with the highest crime rate in 2015 had fallen to second place by 2020.
+    Audio: l2-vocab_2181f66d2eb2.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474900
+  fields:
+    Front: У таблиці наведено дані про використання громадського транспорту за видами транспорту у двох
+      столицях.
+    Back: The table presents data on public transport usage by mode of transport in two capital cities.
+    Audio: l2-vocab_b214e7df533f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474923
+  fields:
+    Front: Використання автобусів було майже однаковим в обох містах, тоді як використання метро значно
+      відрізнялося.
+    Back: Bus usage was nearly identical in both cities, whereas underground usage differed considerably.
+    Audio: l2-vocab_dd82adace5da.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474941
+  fields:
+    Front: У таблиці нижче наведено середню кількість книжок, прочитаних дорослими за рік у п’яти країнах.
+    Back: The table below shows the average number of books read per year by adults in five countries.
+    Audio: l2-vocab_b6de1103a8ae.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474973
+  fields:
+    Front: Дорослі в країні Б читають майже вдвічі більше книжок, ніж у країні Е.
+    Back: Adults in Country B read almost twice as many books, on average, as those in Country E.
+    Audio: l2-vocab_127b635d8e28.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113474988
+  fields:
+    Front: У таблиці наведено державні витрати на охорону здоров’я, освіту та оборону у відсотках від
+      ВВП.
+    Back: The table outlines government expenditure on healthcare, education and defence as a percentage
+      of GDP.
+    Audio: l2-vocab_3685d98e4823.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475023
+  fields:
+    Front: Витрати на охорону здоров’я становлять найбільшу частку ВВП у кожній країні, крім однієї.
+    Back: Healthcare spending accounted for the largest proportion of GDP in every country except one.
+    Audio: l2-vocab_11ccabe3f682.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475040
+  fields:
+    Front: У таблиці нижче наведено дані про рівень безробіття за рівнем освіти в трьох країнах у 2021
+      році.
+    Back: The table below presents data on unemployment rates by level of education in three countries
+      in 2021.
+    Audio: l2-vocab_0646afc0d838.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475064
+  fields:
+    Front: Таблиця ілюструє середнє споживання води за секторами — сільськогосподарським, промисловим
+      і побутовим — у чотирьох країнах.
+    Back: The table illustrates average water consumption by sector — agricultural, industrial and domestic
+      — in four countries.
+    Audio: l2-vocab_6397bcafcc8d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475093
+  fields:
+    Front: Діаграма містить інформацію про володіння мобільними телефонами в п’яти країнах у період з
+      2005 по 2020 рік.
+    Back: The chart provides information about mobile phone ownership in five countries between 2005 and
+      2020.
+    Audio: l2-vocab_94d9b95fbe58.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475116
+  fields:
+    Front: У таблиці наведено середні результати іспитів з математики та природничих наук у шести школах.
+    Back: The table depicts average exam scores in mathematics and science across six schools.
+    Audio: l2-vocab_9cfcbb17dd9f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475140
+  fields:
+    Front: У таблиці нижче наведено ціни на енергію для домогосподарств і підприємств у трьох країнах.
+    Back: The table below breaks down energy prices for households and businesses in three countries.
+    Audio: l2-vocab_39549fb4dbf9.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475165
+  fields:
+    Front: Дані показують рівень переробки паперу, пластику та скла в чотирьох містах.
+    Back: The data shows recycling rates for paper, plastic and glass in four cities.
+    Audio: l2-vocab_8c05746c4b42.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475203
+  fields:
+    Front: У таблиці подано інформацію про дорожньо-транспортні пригоди, зафіксовані в трьох регіонах
+      за десятиліття.
+    Back: The table gives information about road traffic accidents recorded in three regions over a decade.
+    Audio: l2-vocab_1ca5808511d3.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475219
+  fields:
+    Front: У таблиці наведено підсумкові відвідування бібліотек за місяць у п’яти містах.
+    Back: The table summarises library visits per month in five towns.
+    Audio: l2-vocab_bc886dc7e632.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475247
+  fields:
+    Front: У таблиці порівнюються середні витрати в ресторані на домогосподарство в чотирьох країнах у
+      2019 і 2023 роках.
+    Back: The table compares average restaurant spending per household in four countries in 2019 and 2023.
+    Audio: l2-vocab_6641c3e9757b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475269
+  fields:
+    Front: У таблиці нижче показано кількість авіапасажирів, які подорожують через три основні аеропорти.
+    Back: The table below shows the number of air passengers travelling through three major airports.
+    Audio: l2-vocab_5f78565c76e7.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475295
+  fields:
+    Front: У таблиці наведено дані про середню тривалість життя за статтю в п’яти країнах.
+    Back: The table provides data on average life expectancy by gender in five countries.
+    Audio: l2-vocab_ed2d4c9d1887.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475318
+  fields:
+    Front: Таблиця ілюструє кількість студентів, які навчаються за кордоном з трьох країн.
+    Back: The table illustrates the number of students studying abroad from three countries.
+    Audio: l2-vocab_86c7bedbfd13.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475343
+  fields:
+    Front: У наведеній нижче діаграмі показано використання соціальних мереж за віковими групами у 2022
+      році.
+    Back: The chart below sets out social media usage by age group in 2022.
+    Audio: l2-vocab_a0371f54e19f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475363
+  fields:
+    Front: У таблиці наведено подробиці середнього часу поїздок у шести містах.
+    Back: The table gives details of average commute times in six cities.
+    Audio: l2-vocab_d1b2b989e374.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475390
+  fields:
+    Front: Рівень безробіття серед випускників вищих навчальних закладів був менш ніж вдвічі зареєстрований
+      серед тих, хто має лише середню освіту.
+    Back: Unemployment among university graduates was less than half the rate recorded among those with
+      only secondary education.
+    Audio: l2-vocab_a60c8b8ec9d2.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475422
+  fields:
+    Front: Сільськогосподарське використання займає найбільшу частку споживання води в кожній країні,
+      крім однієї.
+    Back: Agricultural use accounted for the largest share of water consumption in every country except
+      one.
+    Audio: l2-vocab_f63a48652f19.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475440
+  fields:
+    Front: Володіння мобільними телефонами в країні С зросло більш ніж у п'ять разів за п'ятнадцять років.
+    Back: Mobile phone ownership in Country C rose more than fivefold over the fifteen-year period.
+    Audio: l2-vocab_52e6a8e9cd1c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475467
+  fields:
+    Front: Учні школи 3 отримали значно вищі результати з математики, ніж з природничих наук.
+    Back: Students at School 3 achieved considerably higher scores in mathematics than in science.
+    Audio: l2-vocab_4ca0de355cfe.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475493
+  fields:
+    Front: У двох із трьох країн домогосподарства платили за енергію майже вдвічі більше, ніж підприємства.
+    Back: Households paid nearly twice as much for energy as businesses in two of the three countries.
+    Audio: l2-vocab_8d41af7f6902.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475523
+  fields:
+    Front: У всіх чотирьох містах рівень переробки скла був незмінно вищим, ніж рівень переробки пластику.
+    Back: Glass recycling rates were consistently higher than plastic recycling rates across all four
+      cities.
+    Audio: l2-vocab_c761a2b01a3d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475547
+  fields:
+    Front: Кількість дорожньо-транспортних пригод стабільно знижувалася в Регіоні А, але дещо зросла в
+      Регіоні С.
+    Back: The number of road traffic accidents fell steadily in Region A but rose slightly in Region C.
+    Audio: l2-vocab_4ae5ea486d6c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475568
+  fields:
+    Front: Місто D зафіксувало майже втричі більше відвідувань бібліотек, ніж місто A.
+    Back: Town D recorded almost three times as many library visits as Town A.
+    Audio: l2-vocab_046a60d1748f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475597
+  fields:
+    Front: Середні витрати в ресторанах зросли в кожній країні в період з 2019 по 2023 рік, причому найбільше
+      зростання спостерігалося в країні B.
+    Back: Average restaurant spending increased in every country between 2019 and 2023, with the sharpest
+      rise seen in Country B.
+    Audio: l2-vocab_c862c7a1bf42.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475620
+  fields:
+    Front: Аеропорт X обслужив значно більше пасажирів, ніж два інших аеропорти разом узяті.
+    Back: Airport X handled significantly more passengers than the other two airports combined.
+    Audio: l2-vocab_d1c84116fa23.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475648
+  fields:
+    Front: Очікувана тривалість життя жінок перевищувала тривалість життя чоловіків у всіх п'яти досліджуваних
+      країнах.
+    Back: Life expectancy for women exceeded that for men in all five countries surveyed.
+    Audio: l2-vocab_7c4944f32768.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475667
+  fields:
+    Front: Кількість студентів, які навчаються за кордоном з країни А, була приблизно вдвічі більшою,
+      ніж з країни С.
+    Back: The number of students studying abroad from Country A was roughly double that from Country C.
+    Audio: l2-vocab_e0627b506327.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475695
+  fields:
+    Front: Використання соціальних мереж серед людей віком від 18 до 24 років було набагато вищим, ніж
+      серед осіб старше 55 років.
+    Back: Social media usage among 18 to 24 year olds was far higher than among those aged over 55.
+    Audio: l2-vocab_1e3a365c0b93.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475719
+  fields:
+    Front: Загалом очевидно, що рівень освіти мав значний вплив на перспективи працевлаштування в усіх
+      трьох країнах.
+    Back: Overall, it is clear that education level had a significant impact on employment prospects in
+      all three countries.
+    Audio: l2-vocab_31d75dc307f5.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475749
+  fields:
+    Front: Загалом побутове використання води залишалося відносно незначним порівняно з сільськогосподарським
+      і промисловим використанням.
+    Back: On the whole, domestic water use remained relatively minor compared with agricultural and industrial
+      use.
+    Audio: l2-vocab_933c6dd38067.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475767
+  fields:
+    Front: Загалом кількість власників мобільних телефонів різко зросла в усіх п’яти країнах за вказаний
+      період.
+    Back: In general, mobile phone ownership increased dramatically across all five countries over the
+      period shown.
+    Audio: l2-vocab_cba3f6861739.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475794
+  fields:
+    Front: Загалом школи з вищими балами з природничих наук також мали тенденцію реєструвати вищі бали
+      з математики.
+    Back: Overall, schools with higher science scores also tended to record higher mathematics scores.
+    Audio: l2-vocab_3bd9fd71d958.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475817
+  fields:
+    Front: Підводячи підсумок, підприємства стабільно платять за енергію менше, ніж домогосподарства у
+      трьох країнах.
+    Back: To summarise, businesses consistently paid less for energy than households across the three
+      countries.
+    Audio: l2-vocab_ce2bb1314ee3.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475844
+  fields:
+    Front: Загалом у кожному дослідженому місті переробка пластику відставала від переробки паперу та
+      скла.
+    Back: Overall, plastic recycling lagged behind both paper and glass recycling in every city surveyed.
+    Audio: l2-vocab_8449ec3d123a.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475867
+  fields:
+    Front: Таким чином, безпека дорожнього руху покращилася в більшості регіонів, за одним помітним винятком.
+    Back: In summary, road safety appeared to be improving in most regions, with one notable exception.
+    Audio: l2-vocab_cbb85199bd17.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475895
+  fields:
+    Front: Загалом у великих містах було зафіксовано значно більше відвідувань бібліотек, ніж у менших.
+    Back: On balance, larger towns recorded considerably more library visits than smaller ones.
+    Audio: l2-vocab_f743610d2922.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475916
+  fields:
+    Front: Загалом витрати в ресторанах продемонстрували чітку тенденцію до зростання незалежно від країни.
+    Back: Overall, restaurant spending showed a clear upward trend regardless of country.
+    Audio: l2-vocab_0178fc434c17.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475942
+  fields:
+    Front: У сукупності ці цифри свідчать про те, що трафік аеропорту був значною мірою зосереджений в
+      одному транспортному вузлі.
+    Back: Taken together, the figures suggest that airport traffic was heavily concentrated at a single
+      hub.
+    Audio: l2-vocab_1146970bede6.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475971
+  fields:
+    Front: Загалом можна очікувати, що жінки житимуть довше за чоловіків у кожній наведеній країні.
+    Back: Overall, women could be expected to live longer than men in every country shown.
+    Audio: l2-vocab_409180c8e9a9.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113475992
+  fields:
+    Front: Підсумовуючи, навчання за кордоном було значно більш поширеним серед студентів із заможніших
+      країн.
+    Back: In conclusion, studying abroad was considerably more common among students from wealthier countries.
+    Audio: l2-vocab_64cec3ab4b8c.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786113476023
+  fields:
+    Front: Загалом молоде покоління набагато більше покладається на соціальні мережі, ніж старше.
+    Back: Overall, younger generations relied far more heavily on social media than older ones.
+    Audio: l2-vocab_c2559ea2940e.mp3
+    State: ''
+  tags:
+  - interview

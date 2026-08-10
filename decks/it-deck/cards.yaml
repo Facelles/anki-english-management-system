@@ -5722,7 +5722,7 @@
   - interview
 - id: 1784377680037
   fields:
-    Front: Чи були архітектори залучені до цього рішення вже?
+    Front: Чи були архітектори залучені до цього рішення вже? [PrPerf Pass]
     Back: Have the architects been engaged in this decision yet?
     Audio: it-deck_3ceebb755b81.mp3
   tags:
@@ -5796,7 +5796,7 @@
   - interview
 - id: 1784377680287
   fields:
-    Front: Команді не вистачає можливостей для іншого проекту.
+    Front: Команді не має достатньо можливостей для іншого проекту.
     Back: The team does not have enough capacity for another project
     Audio: it-deck_5e9a05b94623.mp3
   tags:
@@ -5985,57 +5985,57 @@
   - interview
 - id: 1785584727176
   fields:
-    Front: Відсутність автоматизованих тестів зробило розгортання набагато ризикованішим.
-    Back: The lack of automated tests made the deployment much riskier.
+    Front: Відсутність автоматизованих тестів зробило (деплой|розгортання) набагато ризикованішим.
+    Back: The lack of automated tests made the deployment much riskier
     Audio: it-deck_9f08f4a19356.mp3
   tags:
   - interview
 - id: 1785584727201
   fields:
-    Front: Між командами бекенда та фронтенду бракує зв’язку.
-    Back: There has been a lack of communication between the backend and frontend teams.
+    Front: Спостерігається брак зв’язку&nbsp;між бекенда та фронтенду командами
+    Back: There has been a lack of communication between the backend and frontend teams
     Audio: it-deck_537fc67b8388.mp3
   tags:
   - interview
 - id: 1785584727219
   fields:
-    Front: Якби не було браку документів, міграція зайняла б набагато менше часу.
-    Back: Had there not been a lack of documentation, the migration would have taken far less time.
+    Front: Якби не було браку документів, міграція зайняла б набагато менше часу. [Inv iii]
+    Back: Had there not been a lack of documentation, the migration would have taken far less time
     Audio: it-deck_0c510ae132da.mp3
   tags:
   - interview
 - id: 1785584727251
   fields:
-    Front: Лише після інциденту ми зрозуміли відсутність моніторингу.
-    Back: Only after the incident did we realize the lack of monitoring.
+    Front: Лише після інциденту ми зрозуміли (брак|відсутність) моніторингу.
+    Back: Only after the incident did we realize the lack of monitoring
     Audio: it-deck_7f26027b2d57.mp3
   tags:
   - interview
 - id: 1785584727276
   fields:
-    Front: Брак пам'яті є основною причиною поганої роботи?
+    Front: Чи є нестача пам'яті головною причиною низької продуктивності?
     Back: Is the lack of memory the main reason for the poor performance?
     Audio: it-deck_487b41b6deac.mp3
   tags:
   - interview
 - id: 1785584727301
   fields:
-    Front: Найбільше мене турбує відсутність чіткої стратегії відкату.
-    Back: What concerns me most is the lack of a clear rollback strategy.
+    Front: Що турбує мене&nbsp;Найбільше відсутність чіткої стратегії відкату.
+    Back: What concerns me most is the lack of a clear rollback strategy
     Audio: it-deck_df00e7225b9f.mp3
   tags:
   - interview
 - id: 1785584727320
   fields:
-    Front: Брак означає не мати достатньо чогось необхідного.
-    Back: To lack means to not have enough of something that is needed.
+    Front: Бракувати означає не мати достатньо чогось що є необхідним
+    Back: To lack means to not have enough of something that is needed
     Audio: it-deck_148d524ed2d9.mp3
   tags:
   - interview
 - id: 1785584727345
   fields:
-    Front: У поточній реалізації бракує належної обробки помилок.
-    Back: The current implementation lacks proper error handling.
+    Front: Поточній реалізації бракує належної обробки помилок.
+    Back: The current implementation lacks proper error handling
     Audio: it-deck_6079a36fed6e.mp3
   tags:
   - interview

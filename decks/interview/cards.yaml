@@ -316,7 +316,7 @@
 - id: 1784219805392
   fields:
     Front: Складні багатоетапні сценарії стало легко виокремлювати та тестувати незалежно.
-    Back: Complex multi-step scenarios became easy to isolate and test independently.
+    Back: Complex multi-step scenarios became easy to isolate and test independently
     Audio: interview_71a300c911a1.mp3
     State: ''
   tags:
@@ -324,7 +324,7 @@
 - id: 1784219805417
   fields:
     Front: До Storybook проблеми в цих потоках часто пропускалися до регресії.
-    Back: Before Storybook, issues in those flows were often missed until regression.
+    Back: Before Storybook, issues in those flows were often missed until regression
     Audio: interview_97dc16d8ec5e.mp3
     State: ''
   tags:
@@ -332,15 +332,15 @@
 - id: 1784219805443
   fields:
     Front: Під час огляду коду я зосереджуюсь на якості коду, впливі на систему та нових залежностях.
-    Back: In code reviews I focus on code quality, system impact, and new dependencies.
+    Back: In code reviews I focus on code quality, system impact, and new dependencies
     Audio: interview_ac1018ac3838.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805467
   fields:
-    Front: Я завжди думаю про те, як зміна може вплинути на інші частини програми.
-    Back: I always think about how a change might affect other parts of the application.
+    Front: Я завжди думаю про те, як зміна може впливати на інші частини застосунку.
+    Back: I always think about how a change might affect other parts of the application
     Audio: interview_5d03ec0731c8.mp3
     State: ''
   tags:
@@ -348,7 +348,7 @@
 - id: 1784219805492
   fields:
     Front: Я також питаю кожну нову бібліотеку — чи справді вона нам потрібна, чи можна її уникнути?
-    Back: I also question every new library — do we really need it, or can we avoid it?
+    Back: I also question every new library - do we really need it, or can we avoid it?
     Audio: interview_41f4d8d63136.mp3
     State: ''
   tags:
@@ -356,23 +356,23 @@
 - id: 1784219805517
   fields:
     Front: Формальне наставництво в моїй теперішній команді не є поширеним явищем — кожен працює незалежно.
-    Back: Formal mentoring isn't common in my current team — everyone works independently.
+    Back: Formal mentoring isn't common in my current team - everyone works independently
     Audio: interview_f7fa754c5bcd.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805543
   fields:
-    Front: Натомість я розвиваю свою пристрасть до викладання у своєму каналі YouTube та ITFriday.
-    Back: Instead, I develop my teaching passion into my YouTube channel and ITFriday.
+    Front: Натомість я розвиваю свою пристрасть до викладання у своєму каналі YouTube та IT Friday.
+    Back: Instead, I develop my teaching passion into my YouTube channel and IT Friday
     Audio: interview_662ffa4b050a.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805567
   fields:
-    Front: Я створив повну серію відео, щоб допомогти розробникам, які тільки починають.
-    Back: I've created full series of videos to guide developers who are just starting out.
+    Front: Я створив повну серію відео, щоб направляти розробників, які тільки (роблять перші кроки|починають).
+    Back: I've created full series of videos to guide developers who are just starting out
     Audio: interview_f612fd673fc1.mp3
     State: ''
   tags:
@@ -380,7 +380,7 @@
 - id: 1784219805592
   fields:
     Front: Я почав додавати Vue до моїх проектів Laravel — це було схоже на природне розширення.
-    Back: I started adding Vue to my Laravel projects — it felt like a natural extension.
+    Back: I started adding Vue to my Laravel projects - it felt like a natural extension
     Audio: interview_11d3e4134d81.mp3
     State: ''
   tags:
@@ -388,7 +388,7 @@
 - id: 1784219805618
   fields:
     Front: Тоді я спробував React і одразу віддав перевагу йому над Vue.
-    Back: Then I tried React and immediately preferred it over Vue.
+    Back: Then I tried React and immediately preferred it over Vue
     Audio: interview_42f132901fbf.mp3
     State: ''
   tags:
@@ -396,15 +396,15 @@
 - id: 1784219805642
   fields:
     Front: Робота в аутсорсингу означала багато проектів, і JS просто домінував у всіх.
-    Back: Working in outsourcing meant many projects, and JS simply dominated them all.
+    Back: Working in outsourcing meant many projects, and JS simply dominated them all
     Audio: interview_d108824afc59.mp3
     State: ''
   tags:
   - interview
 - id: 1784219805667
   fields:
-    Front: Згодом я стандартизував весь свій стек навколо JavaScript.
-    Back: Over time I standardised my entire stack around JavaScript.
+    Front: Згодом я стандартизував свій весь стек навколо JavaScript.
+    Back: Over time I standardised my entire stack around JavaScript
     Audio: interview_c5e02e8896a7.mp3
     State: ''
   tags:

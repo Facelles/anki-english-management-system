@@ -433,7 +433,7 @@
 - id: 1777250810414
   fields:
     Front: Чи думаєте що це харчове отруєння?
-    Back: Do you think it&#x27;s food poisoning?
+    Back: Do you think it's food poisoning?
     Audio: Medicine_0073-Do_you.mp3
   tags: []
 - id: 1777250810415
@@ -462,8 +462,8 @@
   tags: []
 - id: 1777250810419
   fields:
-    Front: Він не може нічого їсти
-    Back: He can&#x27;t keep anything down
+    Front: Він не може нічого утримати в шлунку(блювота)
+    Back: He can't keep anything down
     Audio: Medicine_0078-He_can_t.mp3
   tags: []
 - id: 1777250810420
