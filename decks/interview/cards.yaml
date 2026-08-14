@@ -128,7 +128,7 @@
   - interview
 - id: 1784219804822
   fields:
-    Front: Сервер розроблено на основі NestJS із GraphQL і шаблоном шлюзу API.
+    Front: Бекенд є побудованим на NestJS із GraphQL і шаблоном шлюзу API.
     Back: The backend is built on NestJS with GraphQL and an API gateway pattern
     Audio: interview_ded6493c9786.mp3
     State: ''
@@ -508,7 +508,7 @@
 - id: 1784219805993
   fields:
     Front: Передача даних як атрибутів замість внутрішнього стану позбавляє їх потреби.
-    Back: Passing data as props instead of internal state removes the need for it.
+    Back: Passing data as props instead of internal state removes the need for it
     Audio: interview_d7650acb3655.mp3
     State: ''
   tags:
@@ -516,7 +516,7 @@
 - id: 1784219806017
   fields:
     Front: useMemo чудово підходить для запам’ятовування справді дорогих обчислень.
-    Back: useMemo is great for memoising genuinely expensive calculations.
+    Back: useMemo is great for memoising genuinely expensive calculations
     Audio: interview_458a0f823ce5.mp3
     State: ''
   tags:
@@ -524,7 +524,7 @@
 - id: 1784219806043
   fields:
     Front: Але це не безкоштовно — це додає складності та може ускладнити тестування.
-    Back: But it's not free — it adds complexity and can complicate testing.
+    Back: But it's not free - it adds complexity and can complicate testing
     Audio: interview_ee6ab219d09f.mp3
     State: ''
   tags:
@@ -532,7 +532,7 @@
 - id: 1784219806067
   fields:
     Front: Проблеми з повторним відтворенням зазвичай є ознакою поганої декомпозиції компонентів.
-    Back: Re-render issues are usually a sign of poor component decomposition.
+    Back: Re-render issues are usually a sign of poor component decomposition
     Audio: interview_206b549d712b.mp3
     State: ''
   tags:

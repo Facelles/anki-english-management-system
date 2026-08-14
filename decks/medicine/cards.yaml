@@ -598,3 +598,710 @@
     Back: Have you had this before?
     Audio: Medicine_0100-Have_you.mp3
   tags: []
+- id: 1786531405384
+  fields:
+    Front: Я хотів би зареєструватися в цій лікарні загальної практики.
+    Back: I'd like to register with this GP practice.
+    Audio: medicine_6c3bf97e1efa.mp3
+    State: ''
+  tags: []
+- id: 1786531405406
+  fields:
+    Front: Вам потрібне підтвердження адреси, наприклад рахунок за комунальні послуги?
+    Back: Do you need proof of address, like a utility bill?
+    Audio: medicine_6dc2d2615847.mp3
+    State: ''
+  tags: []
+- id: 1786531405432
+  fields:
+    Front: Хочу замовити повторний рецепт.
+    Back: I'd like to order a repeat prescription.
+    Audio: medicine_b3e84d1765a6.mp3
+    State: ''
+  tags: []
+- id: 1786531405456
+  fields:
+    Front: Скільки часу зазвичай займає обробка повторного рецепту?
+    Back: How long does a repeat prescription usually take to process?
+    Audio: medicine_90dc365faf60.mp3
+    State: ''
+  tags: []
+- id: 1786531405482
+  fields:
+    Front: Чи можу я отримати рецепт в аптеці на розі?
+    Back: Can I collect my prescription from the pharmacy on the corner?
+    Audio: medicine_2ef751ea3e12.mp3
+    State: ''
+  tags: []
+- id: 1786531405506
+  fields:
+    Front: Я хотів би записатися на прийом по телефону, а не приїжджати.
+    Back: I'd like to book a telephone appointment instead of coming in.
+    Audio: medicine_7323dee1b49f.mp3
+    State: ''
+  tags: []
+- id: 1786531405532
+  fields:
+    Front: Тут поблизу є клініка?
+    Back: Is there a walk-in clinic near here?
+    Audio: medicine_16b14cb76d9a.mp3
+    State: ''
+  tags: []
+- id: 1786531405555
+  fields:
+    Front: Мені сказали передзвонити, щоб отримати результати тесту.
+    Back: I was told to call back for my test results.
+    Audio: medicine_d302fc2aa736.mp3
+    State: ''
+  tags: []
+- id: 1786531405582
+  fields:
+    Front: Результати мого аналізу крові вже повернулися?
+    Back: Have my blood test results come back yet?
+    Audio: medicine_d6f1cba155e9.mp3
+    State: ''
+  tags: []
+- id: 1786531405606
+  fields:
+    Front: Чи могли б ви надіслати направлення до спеціаліста?
+    Back: Could you send a referral letter to a specialist?
+    Audio: medicine_60f166e07b58.mp3
+    State: ''
+  tags: []
+- id: 1786531405632
+  fields:
+    Front: Скільки триває лист очікування на це відділення?
+    Back: How long is the waiting list for that department?
+    Audio: medicine_60de8972a9bc.mp3
+    State: ''
+  tags: []
+- id: 1786531405655
+  fields:
+    Front: Я ще не отримав листа про призначення до лікарні.
+    Back: I haven't received my hospital appointment letter yet.
+    Audio: medicine_c15638c6866b.mp3
+    State: ''
+  tags: []
+- id: 1786531405681
+  fields:
+    Front: Чи можна надіслати цей рецепт електронним способом до моєї аптеки?
+    Back: Can this prescription be sent electronically to my pharmacy?
+    Audio: medicine_aebe7e38434e.mp3
+    State: ''
+  tags: []
+- id: 1786531405705
+  fields:
+    Front: Мені потрібен лікарняний лист на наступні два тижні.
+    Back: I need a sick note that covers the next two weeks.
+    Audio: medicine_466bbe6cd39a.mp3
+    State: ''
+  tags: []
+- id: 1786531405731
+  fields:
+    Front: Чи потрібно знову звертатися до лікаря до закінчення терміну лікарняного?
+    Back: Do I need to see the doctor again before the sick note expires?
+    Audio: medicine_61dbfba4fc46.mp3
+    State: ''
+  tags: []
+- id: 1786531405756
+  fields:
+    Front: Я реєструюся як новий пацієнт у цьому районі.
+    Back: I'm registering as a new patient in this area.
+    Audio: medicine_21d7caaab2a5.mp3
+    State: ''
+  tags: []
+- id: 1786531405781
+  fields:
+    Front: Чи можна перейти до іншого лікаря загальної практики?
+    Back: Is it possible to switch to a different GP practice?
+    Audio: medicine_0de82e3d01ee.mp3
+    State: ''
+  tags: []
+- id: 1786531405806
+  fields:
+    Front: Я пропустив зустріч, чи можу я записатися повторно?
+    Back: I missed my appointment, can I rebook?
+    Audio: medicine_c242d2a3d9b7.mp3
+    State: ''
+  tags: []
+- id: 1786531405831
+  fields:
+    Front: Чи є список скасованих, до якого я можу приєднатися?
+    Back: Is there a cancellation list I could join?
+    Audio: medicine_9e0e86d5cd16.mp3
+    State: ''
+  tags: []
+- id: 1786531405855
+  fields:
+    Front: Я вивихнув щиколотку, граючи у футбол.
+    Back: I sprained my ankle playing football.
+    Audio: medicine_4912c87e13cf.mp3
+    State: ''
+  tags: []
+- id: 1786531405881
+  fields:
+    Front: У мене піддається коліно, коли я спускаюся сходами.
+    Back: My knee gives way when I go down the stairs.
+    Audio: medicine_e552ac698aa7.mp3
+    State: ''
+  tags: []
+- id: 1786531405905
+  fields:
+    Front: Я вивернув зап'ястя, коли впав.
+    Back: I twisted my wrist when I fell.
+    Audio: medicine_9b4c11214269.mp3
+    State: ''
+  tags: []
+- id: 1786531405931
+  fields:
+    Front: Є деякий набряк навколо суглоба.
+    Back: There's some swelling around the joint.
+    Audio: medicine_133cdcfa0831.mp3
+    State: ''
+  tags: []
+- id: 1786531405956
+  fields:
+    Front: Ви можете поворушити пальцями?
+    Back: Can you move your fingers for me?
+    Audio: medicine_c3ee78f612b2.mp3
+    State: ''
+  tags: []
+- id: 1786531405981
+  fields:
+    Front: Я не можу навантажувати цю ногу.
+    Back: I can't put any weight on this foot.
+    Audio: medicine_dae125121516.mp3
+    State: ''
+  tags: []
+- id: 1786531406006
+  fields:
+    Front: Здається, я вивихнув плече.
+    Back: I think I've dislocated my shoulder.
+    Audio: medicine_287b1938e37f.mp3
+    State: ''
+  tags: []
+- id: 1786531406033
+  fields:
+    Front: Я порізав руку об скло.
+    Back: I cut my hand on a piece of glass.
+    Audio: medicine_36170ba82fd1.mp3
+    State: ''
+  tags: []
+- id: 1786531406056
+  fields:
+    Front: Кровотеча не зупиняється.
+    Back: The bleeding won't stop.
+    Audio: medicine_ca8c667b34e3.mp3
+    State: ''
+  tags: []
+- id: 1786531406081
+  fields:
+    Front: Цю рану потрібно очистити та перев’язати.
+    Back: This wound needs to be cleaned and dressed.
+    Audio: medicine_53be2915fe50.mp3
+    State: ''
+  tags: []
+- id: 1786531406106
+  fields:
+    Front: Як ви думаєте, це потребує швів?
+    Back: Do you think this needs stitches?
+    Audio: medicine_9b8fd450aaa7.mp3
+    State: ''
+  tags: []
+- id: 1786531406133
+  fields:
+    Front: Я обпік руку на печі.
+    Back: I burned my arm on the oven.
+    Audio: medicine_8face7e47884.mp3
+    State: ''
+  tags: []
+- id: 1786531406156
+  fields:
+    Front: Чи варто спочатку опустити його під холодну воду?
+    Back: Should I run it under cold water first?
+    Audio: medicine_3acb5bcf1c5d.mp3
+    State: ''
+  tags: []
+- id: 1786531406182
+  fields:
+    Front: Я вдарився головою і відчув запаморочення після цього.
+    Back: I bumped my head and felt dizzy afterwards.
+    Audio: medicine_5541429e4191.mp3
+    State: ''
+  tags: []
+- id: 1786531406206
+  fields:
+    Front: Ви колись втрачали свідомість?
+    Back: Did you lose consciousness at any point?
+    Audio: medicine_861fcf1d9fff.mp3
+    State: ''
+  tags: []
+- id: 1786531406232
+  fields:
+    Front: Моє плече задерев’яніло, оскільки я незручно спав.
+    Back: My shoulder has been stiff since I slept awkwardly.
+    Audio: medicine_86bd6aaf77cd.mp3
+    State: ''
+  tags: []
+- id: 1786531406256
+  fields:
+    Front: Мені боляче, коли я піднімаю руку над головою.
+    Back: It hurts when I raise my arm above my head.
+    Audio: medicine_3e62b9780727.mp3
+    State: ''
+  tags: []
+- id: 1786531406283
+  fields:
+    Front: Здається, я потягнув м’яз литки.
+    Back: I think I've pulled a muscle in my calf.
+    Audio: medicine_07ac75f7d200.mp3
+    State: ''
+  tags: []
+- id: 1786531406306
+  fields:
+    Front: Мені покласти на нього лід чи нагріти?
+    Back: Should I put ice on it or heat?
+    Audio: medicine_e2917298b89b.mp3
+    State: ''
+  tags: []
+- id: 1786531406332
+  fields:
+    Front: Через який час я зможу повернутися до спортзалу?
+    Back: How long before I can go back to the gym?
+    Audio: medicine_c4cdb97f42f3.mp3
+    State: ''
+  tags: []
+- id: 1786531406357
+  fields:
+    Front: У мене вже тиждень болить горло і кашель.
+    Back: I've had a sore throat and a cough for a week now.
+    Audio: medicine_26b2fb86c191.mp3
+    State: ''
+  tags: []
+- id: 1786531406381
+  fields:
+    Front: Здається, що мої залози опухли.
+    Back: My glands feel swollen.
+    Audio: medicine_cf9d689f7d50.mp3
+    State: ''
+  tags: []
+- id: 1786531406405
+  fields:
+    Front: Я постійно втрачаю голос.
+    Back: I keep losing my voice.
+    Audio: medicine_5f20f1a28479.mp3
+    State: ''
+  tags: []
+- id: 1786531406429
+  fields:
+    Front: У мене лоскотливий кашель, який не проходить.
+    Back: I've got a tickly cough that won't go away.
+    Audio: medicine_f7cafc3668f2.mp3
+    State: ''
+  tags: []
+- id: 1786531406456
+  fields:
+    Front: Це просто застуда чи може бути грип?
+    Back: Is this just a cold, or could it be the flu?
+    Audio: medicine_23b7cf18185c.mp3
+    State: ''
+  tags: []
+- id: 1786531406481
+  fields:
+    Front: З вчорашнього вечора у мене озноб і температура.
+    Back: I've had chills and a fever since last night.
+    Audio: medicine_43b7b75ebd71.mp3
+    State: ''
+  tags: []
+- id: 1786531406507
+  fields:
+    Front: Все тіло болить.
+    Back: My whole body aches.
+    Audio: medicine_0758f4d9b922.mp3
+    State: ''
+  tags: []
+- id: 1786531406532
+  fields:
+    Front: Зараз я нічого не відчуваю ні на смак, ні на запах.
+    Back: I can't taste or smell anything at the moment.
+    Audio: medicine_2d7156843419.mp3
+    State: ''
+  tags: []
+- id: 1786531406557
+  fields:
+    Front: Чи варто мені щось перевіряти?
+    Back: Should I get tested for anything?
+    Audio: medicine_e1108c479bbe.mp3
+    State: ''
+  tags: []
+- id: 1786531406582
+  fields:
+    Front: Я відчуваю себе виснаженим навіть після повного сну.
+    Back: I feel exhausted even after a full night's sleep.
+    Audio: medicine_a5031ad54913.mp3
+    State: ''
+  tags: []
+- id: 1786531406607
+  fields:
+    Front: Чи безпечно приймати ібупрофен і парацетамол разом?
+    Back: Is it safe to take ibuprofen and paracetamol together?
+    Audio: medicine_b3858958e326.mp3
+    State: ''
+  tags: []
+- id: 1786531406632
+  fields:
+    Front: Як довго я ймовірно буду заразним?
+    Back: How long am I likely to be contagious for?
+    Audio: medicine_909f954b3a42.mp3
+    State: ''
+  tags: []
+- id: 1786531406657
+  fields:
+    Front: Чи варто мені не працювати, поки я не відчую себе краще?
+    Back: Should I stay off work until I feel better?
+    Audio: medicine_b60e5d3cb8c9.mp3
+    State: ''
+  tags: []
+- id: 1786531406682
+  fields:
+    Front: Цей кашель триває вже більше трьох тижнів.
+    Back: This cough has lasted more than three weeks now.
+    Audio: medicine_58b8dc88932f.mp3
+    State: ''
+  tags: []
+- id: 1786531406706
+  fields:
+    Front: Останні кілька днів я відчуваю роздуття.
+    Back: I've been feeling bloated for the past few days.
+    Audio: medicine_bc5dec67bf39.mp3
+    State: ''
+  tags: []
+- id: 1786531406731
+  fields:
+    Front: Після їжі я відчуваю печіння за грудиною.
+    Back: I get a burning feeling behind my breastbone after meals.
+    Audio: medicine_c3d2bba760c3.mp3
+    State: ''
+  tags: []
+- id: 1786531406757
+  fields:
+    Front: Деякі продукти, здається, викликають це.
+    Back: Certain foods seem to set it off.
+    Audio: medicine_87e3a82ba472.mp3
+    State: ''
+  tags: []
+- id: 1786531406782
+  fields:
+    Front: Останнім часом у мене впав апетит.
+    Back: My appetite has dropped recently.
+    Audio: medicine_de87c1355515.mp3
+    State: ''
+  tags: []
+- id: 1786531406808
+  fields:
+    Front: Я трохи схуд, навіть не намагаючись.
+    Back: I've lost some weight without trying to.
+    Audio: medicine_5afdb7b3e793.mp3
+    State: ''
+  tags: []
+- id: 1786531406833
+  fields:
+    Front: Мій стілець останнім часом змінив колір.
+    Back: My stools have changed colour lately.
+    Audio: medicine_4117cb2465c7.mp3
+    State: ''
+  tags: []
+- id: 1786531406857
+  fields:
+    Front: Це те, про що я повинен хвилюватися?
+    Back: Is this something I should be worried about?
+    Audio: medicine_76f02faf9bbb.mp3
+    State: ''
+  tags: []
+- id: 1786531406881
+  fields:
+    Front: Чи може це бути пов'язано зі стресом?
+    Back: Could this be related to stress?
+    Audio: medicine_2c1adefee22e.mp3
+    State: ''
+  tags: []
+- id: 1786531406907
+  fields:
+    Front: Я хотів би на деякий час відмовитися від молочних продуктів.
+    Back: I'd like to try cutting out dairy for a while.
+    Audio: medicine_83144dccdba8.mp3
+    State: ''
+  tags: []
+- id: 1786531406931
+  fields:
+    Front: Чи варто вести харчовий щоденник?
+    Back: Should I keep a food diary?
+    Audio: medicine_c35467aa09e6.mp3
+    State: ''
+  tags: []
+- id: 1786531406957
+  fields:
+    Front: Останнім часом у мене запори частіше, ніж зазвичай.
+    Back: I've been more constipated than usual lately.
+    Audio: medicine_e16d86cec5af.mp3
+    State: ''
+  tags: []
+- id: 1786531406983
+  fields:
+    Front: У мене виникають гази та судоми після певних прийомів їжі.
+    Back: I get gas and cramping after certain meals.
+    Audio: medicine_9d748ada0a72.mp3
+    State: ''
+  tags: []
+- id: 1786531407006
+  fields:
+    Front: Біль посилюється, якщо я сиджу занадто довго.
+    Back: The pain flares up if I sit for too long.
+    Audio: medicine_d8b28c1f5625.mp3
+    State: ''
+  tags: []
+- id: 1786531407033
+  fields:
+    Front: У мене це вмикається і вимикається вже пару років.
+    Back: I've had this on and off for a couple of years now.
+    Audio: medicine_d61cb3fce4d0.mp3
+    State: ''
+  tags: []
+- id: 1786531407058
+  fields:
+    Front: Чи безпечно продовжувати тренуватися з цим болем?
+    Back: Is it safe to keep exercising with this pain?
+    Audio: medicine_5eb6d66c0b91.mp3
+    State: ''
+  tags: []
+- id: 1786531407082
+  fields:
+    Front: Які розтяжки ви б порадили?
+    Back: What stretches would you recommend?
+    Audio: medicine_afa7df5ceaba.mp3
+    State: ''
+  tags: []
+- id: 1786531407105
+  fields:
+    Front: Мені варто звернутися до остеопата чи фізіотерапевта?
+    Back: Should I see an osteopath or a physiotherapist?
+    Audio: medicine_81c5e72e407f.mp3
+    State: ''
+  tags: []
+- id: 1786531407133
+  fields:
+    Front: Біль посилюється вранці.
+    Back: The pain is worse first thing in the morning.
+    Audio: medicine_f636ddc26e10.mp3
+    State: ''
+  tags: []
+- id: 1786531407157
+  fields:
+    Front: Я почав користуватися теплом, це допомагає?
+    Back: I've started using a heat pad, does that help?
+    Audio: medicine_17bb16b40c5a.mp3
+    State: ''
+  tags: []
+- id: 1786531407182
+  fields:
+    Front: Чи може налаштування мого столу погіршити ситуацію?
+    Back: Could my desk setup be making it worse?
+    Audio: medicine_5761ad7c2131.mp3
+    State: ''
+  tags: []
+- id: 1786531407207
+  fields:
+    Front: Чи є щось сильніше, щоб я міг прийняти біль?
+    Back: Is there anything stronger I could take for the pain?
+    Audio: medicine_eea32b0ab0eb.mp3
+    State: ''
+  tags: []
+- id: 1786531407233
+  fields:
+    Front: Я хвилююся, що це може перетворитися на довгострокову проблему.
+    Back: I'm worried this might turn into a long-term problem.
+    Audio: medicine_1dddc07d183b.mp3
+    State: ''
+  tags: []
+- id: 1786531407258
+  fields:
+    Front: Чи впливає біль на ваш сон?
+    Back: Does the pain affect your sleep?
+    Audio: medicine_4a9e3fb63116.mp3
+    State: ''
+  tags: []
+- id: 1786531407282
+  fields:
+    Front: Через це я прокидаюся кілька разів на ніч.
+    Back: I wake up a few times a night because of it.
+    Audio: medicine_f281f1b94884.mp3
+    State: ''
+  tags: []
+- id: 1786531407307
+  fields:
+    Front: Останнім часом мої очі втомлюються більше, ніж зазвичай.
+    Back: My eyes have been more tired than usual lately.
+    Audio: medicine_4702365ecbb7.mp3
+    State: ''
+  tags: []
+- id: 1786531407331
+  fields:
+    Front: Я почав тримати речі подалі, щоб прочитати їх.
+    Back: I've started holding things further away to read them.
+    Audio: medicine_2aad9c925817.mp3
+    State: ''
+  tags: []
+- id: 1786531407357
+  fields:
+    Front: Мені потрібні окуляри для читання чи для відстані?
+    Back: Do I need glasses for reading or for distance?
+    Audio: medicine_29d79905dcf2.mp3
+    State: ''
+  tags: []
+- id: 1786531407381
+  fields:
+    Front: У мене болить голова після деякого використання комп’ютера.
+    Back: I get headaches after using the computer for a while.
+    Audio: medicine_ab62b14d9535.mp3
+    State: ''
+  tags: []
+- id: 1786531407407
+  fields:
+    Front: Чи може це просто напруга очей від екранів?
+    Back: Could this just be eye strain from screens?
+    Audio: medicine_761edd9a3b91.mp3
+    State: ''
+  tags: []
+- id: 1786531407432
+  fields:
+    Front: Я думаю, що мій рецепт міг змінитися.
+    Back: I think my prescription might have changed.
+    Audio: medicine_0425bec775d5.mp3
+    State: ''
+  tags: []
+- id: 1786531407457
+  fields:
+    Front: Чи варто мені отримувати направлення до окуліста?
+    Back: Should I get a referral to an eye specialist?
+    Audio: medicine_04f4f0a9b830.mp3
+    State: ''
+  tags: []
+- id: 1786531407482
+  fields:
+    Front: Іноді вночі я бачу ореол навколо вогнів.
+    Back: I sometimes see a halo around lights at night.
+    Audio: medicine_bac30c6c2369.mp3
+    State: ''
+  tags: []
+- id: 1786531407507
+  fields:
+    Front: Мої очі сухі та сверблять до кінця дня.
+    Back: My eyes feel dry and itchy by the end of the day.
+    Audio: medicine_d5ee6471d3da.mp3
+    State: ''
+  tags: []
+- id: 1786531407533
+  fields:
+    Front: Чи є такий зір у родині?
+    Back: Does eyesight like this run in the family?
+    Audio: medicine_fbdea864805a.mp3
+    State: ''
+  tags: []
+- id: 1786531407557
+  fields:
+    Front: Останнім часом я відчуваю тривогу більшість днів.
+    Back: I've been feeling anxious most days lately.
+    Audio: medicine_e0a063eff2a8.mp3
+    State: ''
+  tags: []
+- id: 1786531407582
+  fields:
+    Front: Мені важко вимкнутися вночі.
+    Back: I'm struggling to switch off at night.
+    Audio: medicine_36bb9028c5a3.mp3
+    State: ''
+  tags: []
+- id: 1786531407607
+  fields:
+    Front: Я постійно прокидаюся серед ночі.
+    Back: I keep waking up in the middle of the night.
+    Audio: medicine_a148d19adf74.mp3
+    State: ''
+  tags: []
+- id: 1786531407632
+  fields:
+    Front: Мені потрібен вік, щоб заснути.
+    Back: It takes me ages to fall asleep.
+    Audio: medicine_11cb6f12b3ef.mp3
+    State: ''
+  tags: []
+- id: 1786531407657
+  fields:
+    Front: Я почуваюся пригніченим уже кілька тижнів.
+    Back: I've been feeling low for a few weeks now.
+    Audio: medicine_3c6a403bba59.mp3
+    State: ''
+  tags: []
+- id: 1786531407683
+  fields:
+    Front: У мене зараз не так багато енергії чи мотивації.
+    Back: I don't have much energy or motivation these days.
+    Audio: medicine_0d328bda0beb.mp3
+    State: ''
+  tags: []
+- id: 1786531407707
+  fields:
+    Front: Останнім часом робота була дуже напруженою.
+    Back: Work has been really stressful recently.
+    Audio: medicine_bfaf90d07fde.mp3
+    State: ''
+  tags: []
+- id: 1786531407731
+  fields:
+    Front: Є хтось, з ким я міг би поговорити про це?
+    Back: Is there someone I could talk to about this?
+    Audio: medicine_168331d8a4a2.mp3
+    State: ''
+  tags: []
+- id: 1786531407756
+  fields:
+    Front: Чи можна тут отримати консультацію?
+    Back: Would counselling be an option here?
+    Audio: medicine_25b7235398fd.mp3
+    State: ''
+  tags: []
+- id: 1786531407782
+  fields:
+    Front: Останнім часом я більш дратівливий, ніж зазвичай.
+    Back: I've been more irritable than usual lately.
+    Audio: medicine_bf74a9c1b2aa.mp3
+    State: ''
+  tags: []
+- id: 1786531407807
+  fields:
+    Front: Я втратив інтерес до речей, які раніше мені подобалися.
+    Back: I've lost interest in things I used to enjoy.
+    Audio: medicine_0de9d74c82fe.mp3
+    State: ''
+  tags: []
+- id: 1786531407832
+  fields:
+    Front: Чи може це також впливати на мій сон?
+    Back: Could this be affecting my sleep as well?
+    Audio: medicine_bb5dc8f46a76.mp3
+    State: ''
+  tags: []
+- id: 1786531407857
+  fields:
+    Front: Чи це нормально відчувати себе переповненим?
+    Back: Is it normal to feel this overwhelmed?
+    Audio: medicine_11732fb5d1b3.mp3
+    State: ''
+  tags: []
+- id: 1786531407882
+  fields:
+    Front: Час від часу я отримую напади паніки.
+    Back: I've been getting panic attacks occasionally.
+    Audio: medicine_27bf4543ce6b.mp3
+    State: ''
+  tags: []

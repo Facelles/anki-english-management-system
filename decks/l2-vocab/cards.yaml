@@ -443,7 +443,7 @@
   fields:
     Front: Кожен із факторів, що (~поступово~ призвели) до катастрофи на Фукусімі, був пов'язаний із системними
       збоями<br>
-    Back: Each of the factors that led to the Fukushima disaster was associated with systemic failures.
+    Back: Each of the factors that led to the Fukushima disaster was associated with systemic failures
     Audio: L2_0069-Each_of.mp3
   tags: []
 - id: 1774435692617
@@ -534,7 +534,7 @@
 - id: 1774435692630
   fields:
     Front: Політика часто (впливає ~формує думки, рішення~) на те, як уряди реагують на екологічні катастрофи
-    Back: Politics often influences how governments respond to environmental disasters.
+    Back: Politics often influences how governments respond to environmental disasters
     Audio: L2_0083-Politics_often.mp3
   tags: []
 - id: 1774435692631
@@ -2314,18 +2314,17 @@
   - interview
 - id: 1786113474663
   fields:
-    Front: Згідно з даними, у секторі роздрібної торгівлі зафіксовано найкоротший середній робочий тиждень
+    Front: Згідно з даними, сектор роздрібної торгівлі зафіксував найкоротший середній робочий тиждень
       – 32 години.
-    Back: According to the data, the retail sector recorded the shortest average working week, at 32 hours.
+    Back: According to the data, the retail sector recorded the shortest average working week, at 32 hours
     Audio: l2-vocab_f940f0d41d3e.mp3
   tags:
   - interview
 - id: 1786113474736
   fields:
-    Front: У таблиці показано відсоток населення, яке займається різними видами спорту за трьома віковими
-      групами.
+    Front: Таблиця показує відсоток населення, яке участвує в різних типах спорту за трьома віковими групами.
     Back: The table shows the percentage of the population participating in different types of sport across
-      three age groups.
+      three age groups
     Audio: l2-vocab_087472356f3d.mp3
   tags:
   - interview
@@ -2334,14 +2333,14 @@
     Front: Участь у командних видах спорту неухильно знижувалася з віком, тоді як участь в індивідуальних
       видах спорту залишалася відносно стабільною.
     Back: Participation in team sports declined steadily with age, while participation in individual sports
-      remained relatively stable.
+      remained relatively stable
     Audio: l2-vocab_fdfa7aa919ff.mp3
   tags:
   - interview
 - id: 1786113474773
   fields:
-    Front: У таблиці наведені цифри споживання м’яса на людину в шести країнах у 1990 і 2020 роках.
-    Back: The table gives figures for meat consumption per person in six countries in 1990 and 2020.
+    Front: Таблиця надає показники споживання м’яса на людину в шести країнах у 1990 і 2020 роках.
+    Back: The table gives figures for meat consumption per person in six countries in 1990 and 2020
     Audio: l2-vocab_3c8c901b39ac.mp3
   tags:
   - interview

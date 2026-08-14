@@ -40,7 +40,30 @@ git commit
 
 ---
 
-### 3. Generate audio (ElevenLabs → media/ → Anki)
+### 3. Import new lines from backlog.md (English → cards.yaml)
+
+Turns plain English sentences dropped into `decks/<deck>/backlog.md` into new cards,
+proposing a Ukrainian translation for each. **Anki not required, no API key needed.**
+
+```
+python scripts/import_backlog.py --deck medicine
+```
+
+Interactive keys per line: `y` accept · `e` edit translation · `s` skip · `q` quit
+
+Dedup is by exact match against existing `Back` values, so `backlog.md` just keeps
+growing — re-running only processes what's new. `Audio`/`State` are left empty for
+the next steps.
+
+```
+python scripts/generate_audio.py --deck medicine   # fill in Audio next
+python scripts/validate.py
+git commit
+```
+
+---
+
+### 4. Generate audio (ElevenLabs → media/ → Anki)
 
 Fills empty `Audio` fields. **Anki not required.** Requires `ELEVENLABS_API_KEY` in `.env`.
 
@@ -60,7 +83,7 @@ git commit
 
 ---
 
-### 4. Interview deck: fill in Ukrainian translations (Front field)
+### 5. Interview deck: fill in Ukrainian translations (Front field)
 
 The `interview` deck has a special field layout:
 
@@ -81,7 +104,7 @@ git commit
 
 ---
 
-### 5. Pull changes from Anki back to YAML (Anki → YAML)
+### 6. Pull changes from Anki back to YAML (Anki → YAML)
 
 Use when you edited cards directly in Anki. Anki must be open.
 
@@ -97,7 +120,7 @@ Cards deleted in Anki are reported but NOT auto-removed from YAML — resolve ma
 
 ---
 
-### 6. Clean up orphaned media
+### 7. Clean up orphaned media
 
 Run after deleting cards or regenerating audio files.
 
@@ -109,7 +132,7 @@ git commit
 
 ---
 
-### 7. Print a handwriting-practice sheet (today's due cards → PDF)
+### 8. Print a handwriting-practice sheet (today's due cards → PDF)
 
 Generates a printable PDF of the cards a deck's reviewer would show today (`is:due`),
 repeating each English `Back` sentence a few times in a dotted tracing font — print it
@@ -156,6 +179,7 @@ scripts/
   sync.py             — push YAML changes to Anki
   sync_back.py        — pull changes from Anki back into YAML
   generate_audio.py   — interactive ElevenLabs TTS session; fills empty Audio fields
+  import_backlog.py   — imports backlog.md lines into cards.yaml with auto-translated Front
   generate_handwriting_pdf.py — PDF of today's due cards in a dotted tracing font
 kg_primary_dots/      — dotted handwriting-practice fonts (.ttf)
 handwriting_practice/ — generated PDFs from generate_handwriting_pdf.py (gitignored)
@@ -165,19 +189,29 @@ docs/
   word-lists.md       — vocabulary roadmap: IT terms, phrases, phrasal verbs not yet in cards
   decks-overview.md   — why each deck exists, what gap it fills
   hint-dsl.md         — planned hint system for card Front fields (concept, not implemented yet)
+  ielts-roadmap.md    — IELTS Writing skill roadmap for l2-vocab
+  ielts-trends.md     — IELTS Task 1 trend-description vocab for l2-vocab
+  ielts-vocab.md      — IELTS Task 2 topic vocab/collocations for l2-vocab
 backups/              — .colpkg snapshots (gitignored)
+
+# peripheral, not part of the Anki pipeline:
+brain/constructions.md — personal grammar constructions reference notes
+SKILLS.md              — Claude Code skill def for generating it-deck term cards
+video_prepare/         — staging pipeline for producing video-by-movies clips (own README)
+reviews_and_strategy/  — YouTube stream review/strategy notes, unrelated to flashcards
 ```
 
 ## decks
 
 | dir                                        | Anki deck name  | cards | purpose                                                                                                             |
 | ------------------------------------------ | --------------- | ----- | ------------------------------------------------------------------------------------------------------------------- |
-| [it-deck](./decks/it-deck/)                 | IT_deck         | 853   | IT professional vocabulary — sentence production for work communication                                            |
-| [video-by-movies](./decks/video-by-movies/) | Video_by_movies | 1331  | Listening + spoken fluency — clips from Sherlock, Silicon Valley, Secret Life of Pets                              |
-| [interview](./decks/interview/)             | Interview       | 58    | Interview prep: State = interview question (ukr), Front = ukr translation of answer (manual), Back = English answer |
-| [l2-vocab](./decks/l2-vocab/)               | L2_vocab        | 267   | Vocabulary from ESOL L2 Writing/Reading course                                                                      |
+| [it-deck](./decks/it-deck/)                 | IT_deck         | 1038  | IT professional vocabulary — sentence production for work communication                                            |
+| [video-by-movies](./decks/video-by-movies/) | Video_by_movies | 1481  | Listening + spoken fluency — clips from Sherlock, Silicon Valley, Secret Life of Pets                              |
+| [interview](./decks/interview/)             | Interview       | 79    | Interview prep: State = interview question (ukr), Front = ukr translation of answer (manual), Back = English answer |
+| [l2-vocab](./decks/l2-vocab/)               | L2_vocab        | 407   | Vocabulary from ESOL L2 Writing/Reading course — has drifted toward IELTS Writing (see docs/ielts-roadmap.md)       |
 | [medicine](./decks/medicine/)               | Medicine        | 100   | Medical vocabulary for GP visits and health conversations                                                           |
 | [book](./decks/book/)                       | Book            | 53    | Phrases and expressions collected while reading English books                                                       |
+| [test-english](./decks/test-english/)       | test-english    | 130   | Grammar & vocabulary from test-english.com — sentence production                                                    |
 
 See [docs/decks-overview.md](./docs/decks-overview.md) for full context on each deck.
 

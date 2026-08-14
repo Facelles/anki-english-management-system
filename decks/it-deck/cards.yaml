@@ -2432,7 +2432,7 @@
 - id: 1770760671099
   fields:
     Front: Ми (повинні ~логічна потреба~) оптимізувати використання ресурсів
-    Back: We need to optimize resource usage.
+    Back: We need to optimize resource usage
     Audio: IT_0413-We_need.mp3
   tags: []
 - id: 1770760671100
@@ -6069,7 +6069,7 @@
   - interview
 - id: 1785584727470
   fields:
-    Front: Мало яка система не має жодної форми автентифікації&nbsp;сьогодні
+    Front: Мало яка системи не мають жодної форми автентифікації&nbsp;сьогодні
     Back: Few systems lack any form of authentication nowadays
     Audio: it-deck_62bdf4fe4d97.mp3
   tags:
@@ -6085,7 +6085,7 @@
 - id: 1785584727520
   fields:
     Front: Ми запланували демонтаж невдалого розгортання, щоб зрозуміти, що сталося.
-    Back: We scheduled a teardown of the failed deployment to understand what had happened.
+    Back: We scheduled a teardown of the failed deployment to understand what had happened
     Audio: it-deck_bf4c0fe6d111.mp3
   tags:
   - interview
@@ -6126,35 +6126,35 @@
   - interview
 - id: 1785584727670
   fields:
-    Front: Відхилення - це відмінність від очікуваного, запланованого або необхідного.
-    Back: A deviation is a difference from what is expected, planned, or required.
+    Front: Відхилення - це відмінність від ~того~ що очікуваного, запланованого або необхідного.
+    Back: A deviation is a difference from what is expected, planned, or required
     Audio: it-deck_7db2951840bf.mp3
   tags:
   - interview
 - id: 1785584727695
   fields:
     Front: Будь-які відхилення від специфікації повинні бути задокументовані.
-    Back: Any deviation from the specification must be documented.
+    Back: Any deviation from the specification must be documented
     Audio: it-deck_4fda1f4a2fcb.mp3
   tags:
   - interview
 - id: 1785584727719
   fields:
     Front: Звіт показує значне відхилення від очікуваного часу відповіді.
-    Back: The report shows a significant deviation from the expected response time.
+    Back: The report shows a significant deviation from the expected response time
     Audio: it-deck_c12bff8ea99f.mp3
   tags:
   - interview
 - id: 1785584727744
   fields:
-    Front: Якби відхилення було виявлено раніше, випуск не затримався б.
-    Back: Had the deviation been detected earlier, the release would not have been delayed.
+    Front: Якби відхилення було виявлено раніше, випуск не затримався б. [Inv iii]
+    Back: Had the deviation been detected earlier, the release would not have been delayed
     Audio: it-deck_2d10159c7231.mp3
   tags:
   - interview
 - id: 1785584727769
   fields:
-    Front: Чому це відхилення вважалося прийнятним?
+    Front: Чому це відхилення вважалося прийнятним? [Passive]
     Back: Why was this deviation considered acceptable?
     Audio: it-deck_fbce0c894f55.mp3
   tags:
@@ -6162,21 +6162,21 @@
 - id: 1785584727795
   fields:
     Front: Рідко таке невелике відхилення викликає серйозний інцидент.
-    Back: Rarely does such a small deviation cause a major incident.
+    Back: Rarely does such a small deviation cause a major incident
     Audio: it-deck_4acfe8819b05.mp3
   tags:
   - interview
 - id: 1785584727820
   fields:
     Front: Відхилення було надто незначним, щоб виправдати ще одне розгортання.
-    Back: The deviation was too minor to justify another deployment.
+    Back: The deviation was too minor to justify another deployment
     Audio: it-deck_bfc8a7a473e3.mp3
   tags:
   - interview
 - id: 1785584727844
   fields:
     Front: Щось є попереднім, якщо воно відбувається або існує перед чимось іншим.
-    Back: Something is prior if it happens or exists before something else.
+    Back: Something is prior if it happens or exists before something else
     Audio: it-deck_4370074cb510.mp3
   tags:
   - interview

@@ -352,22 +352,22 @@
   - interview
 - id: 1785242209724
   fields:
-    Front: У мене проблеми з доступом до банківського рахунку.
-    Back: I'm having trouble accessing my bank account.
+    Front: У мене проблеми з доступом до банківського рахунку. [PrCont]
+    Back: I'm having trouble accessing my bank account
     Audio: test-english_aa55c2f457b7.mp3
   tags:
   - interview
 - id: 1785242209756
   fields:
-    Front: Цього тижня у нас надзвичайно тепла погода.
-    Back: We're having exceptionally warm weather this week.
+    Front: Ми мємо надзвичайно теплу погоду цього тижня [PrCont]
+    Back: We're having exceptionally warm weather this week
     Audio: test-english_f6f7a5a64d24.mp3
   tags:
   - interview
 - id: 1785242209782
   fields:
-    Front: Їй випала несподівана можливість виступити на заході.
-    Back: She had an unexpected opportunity to speak at the event.
+    Front: Вона мала несподівану можливість виступити на заході.
+    Back: She had an unexpected opportunity to speak at the event
     Audio: test-english_c55f5840d380.mp3
   tags:
   - interview

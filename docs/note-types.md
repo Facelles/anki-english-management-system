@@ -10,11 +10,11 @@ Dir: `models/basic-type-in-the-answer-audio/`
 
 | field | description |
 |-------|-------------|
-| Front | English sentence or word (shown on front) |
-| Back | Ukrainian translation (shown on back) |
+| Front | Ukrainian translation (shown as the prompt) |
+| Back | English sentence or word (typed as the answer) |
 | Audio | Audio file reference, e.g. `[sound:filename.mp3]` |
 
-Used by: `book`, `it-deck`, `l2-vocab`, `medicine`
+Used by: `book`, `it-deck`, `l2-vocab`, `medicine`, `test-english`
 
 ---
 
@@ -24,10 +24,10 @@ Dir: `models/basic-with-typing-audio-state/`
 
 | field | description |
 |-------|-------------|
-| Front | English sentence or word |
-| Back | Ukrainian translation |
+| Front | Ukrainian translation of Back — typed as a translation hint (filled manually) |
+| Back | English answer to produce |
 | Audio | Audio file reference |
-| State | Learning state or note (usage TBD) |
+| State | Interview question / situation that prompted this answer (in Ukrainian) |
 
 Used by: `interview`
 

@@ -6,7 +6,7 @@ Version-controlled source of truth for Anki flashcard decks. Cards, note types, 
 
 ## AnkiConnect
 
-Plugin code: `2055492159`. Runs at `http://localhost:8765`.  
+Plugin code: `2055492159`. Runs at `http://localhost:8765`.
 Anki must be open for any script to work.
 
 ---
@@ -15,19 +15,19 @@ Anki must be open for any script to work.
 
 All scripts live in `scripts/`, require `.venv` activated, use `requests` + `yaml`.
 
-| script | what it does |
-|--------|--------------|
-| `bootstrap_models.py` | pulls note types → `models/` (fields, templates, CSS) |
-| `bootstrap_decks.py` | pulls card data → `decks/` (_meta.yaml + cards.yaml) |
-| `bootstrap_media.py` | pulls media files → `media/` (interactive, confirms before downloading) |
-| `validate.py` | lints repo: structure, duplicates, media refs, HTML noise — exit 1 on errors |
-| `sync.py` | pushes YAML → Anki: add/update notes, upload media, write back new ids |
-| `sync_back.py` | pulls changes from Anki back into YAML (reverse sync) |
-| `generate_audio.py` | generates MP3 audio for cards via ElevenLabs TTS (interactive session) |
-| `import_backlog.py` | imports new lines from a deck's `backlog.md` into `cards.yaml` with an auto-translated `Front` (interactive session) |
+| script                          | what it does                                                                                                                             |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `bootstrap_models.py`         | pulls note types →`models/` (fields, templates, CSS)                                                                                  |
+| `bootstrap_decks.py`          | pulls card data →`decks/` (_meta.yaml + cards.yaml)                                                                                   |
+| `bootstrap_media.py`          | pulls media files →`media/` (interactive, confirms before downloading)                                                                |
+| `validate.py`                 | lints repo: structure, duplicates, media refs, HTML noise — exit 1 on errors                                                            |
+| `sync.py`                     | pushes YAML → Anki: add/update notes, upload media, write back new ids                                                                  |
+| `sync_back.py`                | pulls changes from Anki back into YAML (reverse sync)                                                                                    |
+| `generate_audio.py`           | generates MP3 audio for cards via ElevenLabs TTS (interactive session)                                                                   |
+| `import_backlog.py`           | imports new lines from a deck's`backlog.md` into `cards.yaml` with an auto-translated `Front` (interactive session)                |
 | `generate_handwriting_pdf.py` | generates a printable PDF of today's due cards (`Back` field) in a dotted handwriting-practice font (`kg_primary_dots/`) for tracing |
 
-Bootstrap scripts are **idempotent** — safe to re-run.  
+Bootstrap scripts are **idempotent** — safe to re-run.
 `bootstrap_media.py` reads `mediaFields` from `models/*/_meta.yaml` to know which fields contain filenames.
 
 ### sync.py flags
@@ -64,13 +64,13 @@ python scripts/generate_audio.py --deck l2-vocab    # process any other deck
 
 **Interactive keys:**
 
-| key | action |
-|-----|--------|
-| `y` | accept — save MP3 to `media/`, write `[sound:…]` into cards.yaml, next card |
-| `p` | replay — play the same audio again without a new API call |
-| `r` | regenerate — new ElevenLabs call with a fresh random voice, play again |
-| `s` | skip — leave this card's Audio empty, move to next |
-| `q` | quit — save progress so far and exit |
+| key   | action                                                                           |
+| ----- | -------------------------------------------------------------------------------- |
+| `y` | accept — save MP3 to`media/`, write `[sound:…]` into cards.yaml, next card |
+| `p` | replay — play the same audio again without a new API call                       |
+| `r` | regenerate — new ElevenLabs call with a fresh random voice, play again          |
+| `s` | skip — leave this card's Audio empty, move to next                              |
+| `q` | quit — save progress so far and exit                                            |
 
 **Voice pool:** a random voice is picked from `DEFAULT_VOICES` for each new card (and on `r`). The pool is defined in the script. On `p` replay the already-generated audio plays unchanged.
 
@@ -103,12 +103,12 @@ python scripts/import_backlog.py --deck interview
 
 **Interactive keys:**
 
-| key | action |
-|-----|--------|
+| key   | action                                                |
+| ----- | ----------------------------------------------------- |
 | `y` | accept the proposed translation, save card, next line |
-| `e` | edit the translation before saving |
-| `s` | skip this line (leave it for a future run) |
-| `q` | quit — save progress so far and exit |
+| `e` | edit the translation before saving                    |
+| `s` | skip this line (leave it for a future run)            |
+| `q` | quit — save progress so far and exit                 |
 
 **Workflow after a session:**
 
@@ -133,15 +133,15 @@ python scripts/generate_handwriting_pdf.py --deck l2-vocab --repeat 3 --font lin
 python scripts/generate_handwriting_pdf.py --deck interview --limit 5   # quick layout test
 ```
 
-| flag | default | description |
-|------|---------|-------------|
-| `--deck` | required | deck directory name under `decks/` |
-| `--repeat` | `2` | times to repeat each sentence (= lines per card) |
-| `--font` | `lined` | `dotted` / `lined` / `lined-alt` / `lined-nospace` — maps to a file in `kg_primary_dots/` |
-| `--font-size` | `26` | font size in pt |
-| `--intensity` | `1.0` | text darkness: `0.0` (white) .. `1.0` (full black) — lower prints a fainter guide to trace over |
-| `--limit` | none | cap number of cards, for quick layout tests |
-| `--output` | `handwriting_practice/<deck>_<date>.pdf` | output PDF path |
+| flag            | default                                    | description                                                                                          |
+| --------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| `--deck`      | required                                   | deck directory name under`decks/`                                                                  |
+| `--repeat`    | `2`                                      | times to repeat each sentence (= lines per card)                                                     |
+| `--font`      | `lined`                                  | `dotted` / `lined` / `lined-alt` / `lined-nospace` — maps to a file in `kg_primary_dots/` |
+| `--font-size` | `26`                                     | font size in pt                                                                                      |
+| `--intensity` | `1.0`                                    | text darkness:`0.0` (white) .. `1.0` (full black) — lower prints a fainter guide to trace over  |
+| `--limit`     | none                                       | cap number of cards, for quick layout tests                                                          |
+| `--output`    | `handwriting_practice/<deck>_<date>.pdf` | output PDF path                                                                                      |
 
 Output goes to `handwriting_practice/` (gitignored — printouts, not tracked content).
 
@@ -151,20 +151,20 @@ Output goes to `handwriting_practice/` (gitignored — printouts, not tracked co
 
 Stored in `models/<safe-name>/`. `safe-name` is the Anki name lowercased, non-alphanum replaced with `-`.
 
-| Anki name | dir | fields | media field |
-|-----------|-----|--------|-------------|
-| Basic (type in the answer) + audio | `basic-type-in-the-answer-audio` | Front, Back, Audio | Audio |
-| Basic (with typing)+audio+state | `basic-with-typing-audio-state` | Front, Back, Audio, State | Audio |
-| Video (type in the answer) | `video-type-in-the-answer` | Front, Back, VideoFilename | VideoFilename |
+| Anki name                          | dir                                | fields                     | media field   |
+| ---------------------------------- | ---------------------------------- | -------------------------- | ------------- |
+| Basic (type in the answer) + audio | `basic-type-in-the-answer-audio` | Front, Back, Audio         | Audio         |
+| Basic (with typing)+audio+state    | `basic-with-typing-audio-state`  | Front, Back, Audio, State  | Audio         |
+| Video (type in the answer)         | `video-type-in-the-answer`       | Front, Back, VideoFilename | VideoFilename |
 
 **Field semantics for `basic-with-typing-audio-state` (interview deck):**
 
-| field | role |
-|-------|------|
+| field     | role                                                                                                 |
+| --------- | ---------------------------------------------------------------------------------------------------- |
 | `Front` | Ukrainian translation of the English answer — typed by user as a translation hint (filled manually) |
-| `Back` | English answer to produce |
-| `State` | Interview question / situation that prompted this answer (in Ukrainian) |
-| `Audio` | MP3 of the `Back` text — generated via `generate_audio.py` |
+| `Back`  | English answer to produce                                                                            |
+| `State` | Interview question / situation that prompted this answer (in Ukrainian)                              |
+| `Audio` | MP3 of the`Back` text — generated via `generate_audio.py`                                       |
 
 `_meta.yaml` in each model dir is the authoritative schema. `mediaFields` key tells `bootstrap_media.py` which fields hold filenames.
 
@@ -174,23 +174,25 @@ Stored in `models/<safe-name>/`. `safe-name` is the Anki name lowercased, non-al
 
 Stored in `decks/<safe-name>/`. Each deck has `_meta.yaml` (deckName + noteType) and `cards.yaml`.
 
-| dir | Anki deck name | note type | purpose |
-|-----|----------------|-----------|---------|
-| `it-deck` | IT_deck | Basic (type in the answer) + audio | IT professional vocab — sentence production |
-| `video-by-movies` | Video_by_movies | Video (type in the answer) | Listening + fluency — clips from shows |
-| `interview` | Interview | Basic (with typing)+audio+state | Interview prep — State = question, Front = ukr. translation (manual), Back = English answer |
-| `l2-vocab` | L2_vocab | Basic (type in the answer) + audio | ESOL L2 course vocabulary |
-| `medicine` | Medicine | Basic (type in the answer) + audio | Medical vocab for GP visits |
-| `book` | Book | Basic (type in the answer) + audio | Phrases from English books |
+| dir                 | Anki deck name  | note type                          | purpose                                                                                      |
+| ------------------- | --------------- | ---------------------------------- | -------------------------------------------------------------------------------------------- |
+| `it-deck`         | IT_deck         | Basic (type in the answer) + audio | IT professional vocab — sentence production                                                 |
+| `video-by-movies` | Video_by_movies | Video (type in the answer)         | Listening + fluency — clips from shows                                                      |
+| `interview`       | Interview       | Basic (with typing)+audio+state    | Interview prep — State = question, Front = ukr. translation (manual), Back = English answer |
+| `l2-vocab`        | L2_vocab        | Basic (type in the answer) + audio | ESOL L2 course vocabulary                                                                    |
+| `medicine`        | Medicine        | Basic (type in the answer) + audio | Medical vocab for GP visits                                                                  |
+| `book`            | Book            | Basic (type in the answer) + audio | Phrases from English books                                                                   |
+| `test-english`    | test-english    | Basic (type in the answer) + audio | Grammar & vocabulary from test-english.com — sentence production                            |
 
 See `docs/decks-overview.md` for full context on each deck.
 
-`cards.yaml` format:
+`cards.yaml` format — default convention (`Front` = Ukrainian prompt, `Back` = English answer to type; see `video-by-movies specifics` below for the one deck that reverses this):
+
 ```yaml
 - id: 1756166410321       # Anki noteId (integer)
   fields:
-    Front: English sentence
-    Back: Ukrainian translation
+    Front: Ukrainian translation
+    Back: English sentence
     Audio: filename.mp3             # or VideoFilename: 00001.webm
   tags: []
 ```
@@ -201,11 +203,18 @@ If a deck has multiple note types, bootstrap creates `cards.<safe-type>.yaml` fi
 
 Clips are short video fragments (max 5 sec, 320px) cut from shows in Final Cut Pro.
 Front = English transcript (what the user types). Back = Ukrainian translation (secondary).
+This is the reverse of every other deck's Front/Back convention.
+
+Produced via the staging pipeline in `video_prepare/` (see its own README for the
+full cut → convert → merge workflow) — one episode worked on at a time, merged
+into this deck when done.
 
 **Current content:**
+
 - `sherlok_*.webm` — Sherlock BBC, Season 1 complete (660 clips)
-- `silicon_*.webm` — Silicon Valley HBO, Season 1 ~half done (343 clips)
+- `silicon_valley_*.webm` — Silicon Valley HBO, Season 1 in progress (529 clips)
 - `pets_*.webm` — The Secret Life of Pets, complete (273 clips)
+- 19 legacy `NNNNN.webm` clips predating the per-show naming convention
 
 **Next candidates:** finish Silicon Valley S1, then House MD / Suits / Sherlock S2.
 
@@ -213,8 +222,8 @@ Front = English transcript (what the user types). Back = Ukrainian translation (
 
 ## Media
 
-All files are flat in `media/`. Video cards use `.webm`, audio cards use `.mp3`.  
-Filenames in cards reference media directly (e.g. `00001.webm`, not a full path).  
+All files are flat in `media/`. Video cards use `.webm`, audio cards use `.mp3`.
+Filenames in cards reference media directly (e.g. `00001.webm`, not a full path).
 `media/` is committed to git (files are checked in).
 
 ---
@@ -235,23 +244,26 @@ pip install requests pyyaml deep-translator reportlab
 
 `.env` lives in the project root and is gitignored. Never read, print, or commit it.
 
-| key | required | description |
-|-----|----------|-------------|
-| `ELEVENLABS_API_KEY` | yes (for `generate_audio.py`) | ElevenLabs API key |
-| `ELEVENLABS_VOICE_IDS` | no | comma-separated voice ID pool for random selection |
-| `ELEVENLABS_VOICE_ID` | no | single voice override (fallback if VOICE_IDS not set) |
-| `ELEVENLABS_MODEL_ID` | no | TTS model, defaults to `eleven_multilingual_v2` |
+| key                      | required                       | description                                           |
+| ------------------------ | ------------------------------ | ----------------------------------------------------- |
+| `ELEVENLABS_API_KEY`   | yes (for`generate_audio.py`) | ElevenLabs API key                                    |
+| `ELEVENLABS_VOICE_IDS` | no                             | comma-separated voice ID pool for random selection    |
+| `ELEVENLABS_VOICE_ID`  | no                             | single voice override (fallback if VOICE_IDS not set) |
+| `ELEVENLABS_MODEL_ID`  | no                             | TTS model, defaults to`eleven_multilingual_v2`      |
 
 ---
 
 ## Docs
 
-| file | what it contains |
-|------|-----------------|
-| `docs/decks-overview.md` | why each deck exists, motivation, content details |
-| `docs/word-lists.md` | vocabulary roadmap — IT terms, phrases, phrasal verbs not yet in cards |
-| `docs/hint-dsl.md` | planned hint system for card Front fields (HTML-based, not implemented yet) |
-| `docs/note-types.md` | human-readable summary of note type models |
+| file                       | what it contains                                                            |
+| -------------------------- | --------------------------------------------------------------------------- |
+| `docs/decks-overview.md` | why each deck exists, motivation, content details                           |
+| `docs/word-lists.md`     | vocabulary roadmap — IT terms, phrases, phrasal verbs not yet in cards     |
+| `docs/hint-dsl.md`       | planned hint system for card Front fields (HTML-based, not implemented yet) |
+| `docs/note-types.md`     | human-readable summary of note type models                                  |
+| `docs/ielts-roadmap.md`  | IELTS Writing skill roadmap for`l2-vocab` — what's covered, what's next  |
+| `docs/ielts-trends.md`   | IELTS Task 1 trend-description vocab reference for`l2-vocab`              |
+| `docs/ielts-vocab.md`    | IELTS Task 2 topic vocab/collocations reference for`l2-vocab`             |
 
 ---
 
@@ -262,3 +274,5 @@ pip install requests pyyaml deep-translator reportlab
 - `backups/` — `.colpkg` snapshots (kept locally, not in git)
 - `handwriting_practice/` — generated PDFs from `generate_handwriting_pdf.py` (printouts, not tracked content)
 - `.env` — API keys and secrets (never commit)
+- `.DS_Store`, `node_modules/` — OS/tooling noise
+- `*.srt`, `video_prepare/tracks`, `video_prepare/converted_webm` — clip-production scratch state (see `video_prepare/README.md`)

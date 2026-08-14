@@ -84,6 +84,14 @@ keeping. More literary/written register than other decks.
 
 ---
 
+## test-english
+**Why:** Grammar and vocabulary drawn from test-english.com's exercises — filling gaps
+in constructions and word choice that don't come from any other deck's source material.
+
+**Approach:** Sentence production, same typed-answer format as it-deck/l2-vocab/medicine/book.
+
+---
+
 ## Summary
 
 | Deck | Real trigger | Skill trained |
@@ -94,3 +102,4 @@ keeping. More literary/written register than other decks.
 | medicine | Can't talk to GP | Survival vocabulary |
 | interview | Mock interviews exposed gaps | Fluency under pressure |
 | book | Reading books | Written register, expressions |
+| test-english | Gaps not covered by other decks | Grammar constructions, targeted vocab |
