@@ -539,8 +539,8 @@
   - interview
 - id: 1784219806092
   fields:
-    Front: Правильна розбивка компонентів часто вирішує проблеми повторного відтворення природним шляхом.
-    Back: Breaking components down properly often solves re-render problems naturally.
+    Front: Розбивка компонентів правильно часто вирішує проблеми повторного відтворення природним шляхом.
+    Back: Breaking components down properly often solves re-render problems naturally
     Audio: interview_4ab75bedb5ca.mp3
     State: ''
   tags:
@@ -548,7 +548,7 @@
 - id: 1784219806117
   fields:
     Front: Узгодження порівнює старе віртуальне дерево DOM з новим.
-    Back: Reconciliation compares the old virtual DOM tree with the new one.
+    Back: Reconciliation compares the old virtual DOM tree with the new one
     Audio: interview_e36ca2d7de42.mp3
     State: ''
   tags:
@@ -556,14 +556,14 @@
 - id: 1784219806143
   fields:
     Front: Якщо є різниця, React запускає каскадне повторне рендеринг з цієї точки.
-    Back: If there's a difference, React triggers a cascading re-render from that point.
+    Back: If there's a difference, React triggers a cascading re-render from that point
     Audio: interview_ca5d503d3604.mp3
     State: ''
   tags:
   - interview
 - id: 1784219806168
   fields:
-    Front: Вибачте, ви там якось розриваєтеся
+    Front: Вибач, ти трохи переривається
     Back: I'm sorry, you're kind of breaking up there
     Audio: interview_53a46ff7b599.mp3
     State: ''
@@ -580,7 +580,7 @@
 - id: 1784219806217
   fields:
     Front: Інтерфейс найкраще працює для класів і успадкування — спільна форма плюс захист типів.
-    Back: Interface works best for classes and inheritance — shared shape plus type guards.
+    Back: Interface works best for classes and inheritance - shared shape plus type guards
     Audio: interview_9c3935b4ebbc.mp3
     State: ''
   tags:
@@ -588,22 +588,23 @@
 - id: 1784219806243
   fields:
     Front: Тип є більш гнучким — включаючи об’єднання, перетини та примітиви.
-    Back: Type is more flexible — unions, intersections, and primitives included.
+    Back: Type is more flexible - unions, intersections, and primitives included
     Audio: interview_2e94c153cd27.mp3
     State: ''
   tags:
   - interview
 - id: 1784219806267
   fields:
-    Front: Я використовую універсали для функцій, які приймають і повертають невідомі типи даних.
-    Back: I use generics for functions that accept and return unknown data types.
+    Front: Я використовую дженерики для функцій, які приймають і повертають невідомі типи даних.
+    Back: I use generics for functions that accept and return unknown data types
     Audio: interview_629ff2a66e5b.mp3
     State: ''
   tags:
   - interview
 - id: 1784219806293
   fields:
-    Front: Він потужний, але потребує ретельної перевірки під час виконання, щоб залишатися в безпеці.
+    Front: Він потужний, але потребує ретельних перевірок ~під час~ виконання(рантаймі), щоб залишатися
+      в безпеці.
     Back: It's powerful, but needs careful runtime checks to stay safe.
     Audio: interview_dd49e815cd8e.mp3
     State: ''
@@ -612,7 +613,7 @@
 - id: 1784219806317
   fields:
     Front: Строгий режим об’єднує кілька перевірок компілятора в один прапор.
-    Back: Strict mode bundles several compiler checks into one flag.
+    Back: Strict mode bundles several compiler checks into one flag
     Audio: interview_a0fb3d35eb19.mp3
     State: ''
   tags:
@@ -620,16 +621,336 @@
 - id: 1784219806343
   fields:
     Front: Найважливішим є strictNullChecks — він виловлює помилки нульового посилання.
-    Back: The most important one is strictNullChecks — it catches null reference errors.
+    Back: The most important one is strictNullChecks - it catches null reference errors
     Audio: interview_63eb809e125a.mp3
     State: ''
   tags:
   - interview
 - id: 1784219806368
   fields:
-    Front: Без нього null і undefined можуть мовчки проскочити та збитися під час виконання.
-    Back: Without it, null and undefined can silently slip through and crash at runtime.
+    Front: Без нього null і undefined можуть мовчки проскочити та зламатися під час виконання.
+    Back: Without it, null and undefined can silently slip through and crash at runtime
     Audio: interview_0f40a9f9dc11.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791393971
+  fields:
+    Front: Дозвольте мені провести вас через час, коли я не погодився з менеджером продукту щодо обсягу.
+    Back: Let me walk you through a time I disagreed with a product manager over scope.
+    Audio: interview_9acaa4472684.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791393994
+  fields:
+    Front: Ми були близькі до крайнього терміну, коли я зрозумів, що вимоги не відповідають.
+    Back: We were close to a deadline when I realized the requirements didn't add up.
+    Audio: interview_4893ceddb549.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394019
+  fields:
+    Front: Я раніше висловив свої занепокоєння замість того, щоб мовчати й сподіватися, що все вийде.
+    Back: I raised my concerns early instead of staying quiet and hoping it would work out.
+    Audio: interview_2204e20b64a4.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394044
+  fields:
+    Front: Зрештою ми погодилися на менший масштаб, який все ще приносив реальну цінність.
+    Back: In the end we agreed on a smaller scope that still delivered real value.
+    Audio: interview_a6c7d2c76ae4.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394069
+  fields:
+    Front: Однією з моїх найбільших невдач була недооцінка міграції, яка тривала вдвічі довше.
+    Back: One of my biggest failures was underestimating a migration that took twice as long.
+    Audio: interview_68cb5d49cb09.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394095
+  fields:
+    Front: Я навчився розбивати великі міграції на менші етапи, які можна відправляти окремо.
+    Back: I learned to break big migrations into smaller, independently shippable steps.
+    Audio: interview_ccea1ae06663.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394119
+  fields:
+    Front: Якось у мене був конфлікт із товаришем по команді через право власності на код.
+    Back: I once had a conflict with a teammate over code ownership.
+    Audio: interview_13f2ba984bfe.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394145
+  fields:
+    Front: Ми сіли, обговорили це й узгодили чіткі межі для модуля.
+    Back: We sat down, talked it through, and agreed on clear boundaries for the module.
+    Audio: interview_f387c5013847.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394169
+  fields:
+    Front: Мій п’ятирічний план полягає в тому, щоб вирости в роль із більшою архітектурною власністю.
+    Back: My five-year plan is to grow into a role with more architectural ownership.
+    Audio: interview_91bda3a3fa0b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394196
+  fields:
+    Front: Я йду в добрих стосунках — я просто відчуваю, що тут я досяг стелі.
+    Back: I'm leaving on good terms - I just feel I've hit a ceiling here.
+    Audio: interview_7abc92a9ddac.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394220
+  fields:
+    Front: Я справляюся зі стислими термінами, спочатку скорочуючи обсяг, ніколи не знижуючи якість.
+    Back: I handle tight deadlines by cutting scope first, never cutting quality.
+    Audio: interview_e7f5ddd6828e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394245
+  fields:
+    Front: Найбільше я пишаюся проектом, який був реалізований, незважаючи на скорочення команди.
+    Back: What I'm most proud of is a project that shipped despite a shrinking team.
+    Audio: interview_66df8a0ad1cc.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394270
+  fields:
+    Front: Я б почав із уточнення шаблонів читання та запису перед тим, як вибрати базу даних.
+    Back: I'd start by clarifying the read and write patterns before picking a database.
+    Audio: interview_7d75490af710.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394294
+  fields:
+    Front: Для цього випадку використання я б схилявся до реляційної бази даних замість сховища документів.
+    Back: For this use case, I'd lean towards a relational database over a document store.
+    Audio: interview_f15659590a6f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394320
+  fields:
+    Front: Кешування буде стояти перед API, щоб зменшити навантаження на базу даних.
+    Back: Caching would sit in front of the API to reduce load on the database.
+    Audio: interview_231629e257f1.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394344
+  fields:
+    Front: Я б використав чергу повідомлень, щоб відокремити повільні операції від циклу запиту.
+    Back: I'd use a message queue to decouple slow operations from the request cycle.
+    Audio: interview_c418ed41ea8b.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394370
+  fields:
+    Front: Мікросервіси мають сенс, коли команда переростає єдиний моноліт, який можна розгортати.
+    Back: Microservices make sense once a team outgrows a single deployable monolith.
+    Audio: interview_77bc44464ade.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394399
+  fields:
+    Front: Занадто раннє розділення лише додає мережеві виклики, не вирішуючи реальної проблеми.
+    Back: Splitting too early just adds network calls without solving a real problem.
+    Audio: interview_494ffb06fcef.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394421
+  fields:
+    Front: Я б розробив API навколо ресурсів, а не навколо внутрішніх деталей реалізації.
+    Back: I'd design the API around resources, not around internal implementation details.
+    Audio: interview_1591752d9732.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394449
+  fields:
+    Front: Обмеження швидкості захищає серверну частину як від зловмисників, так і від клієнтів із помилками.
+    Back: Rate limiting protects the backend from both bad actors and buggy clients.
+    Audio: interview_dac1bc67cc60.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394474
+  fields:
+    Front: Тут добре працює горизонтальне масштабування, оскільки служба не має стану.
+    Back: Horizontal scaling works well here because the service is stateless.
+    Audio: interview_8cd1924f371d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394498
+  fields:
+    Front: Я б додав автентифікацію на рівні шлюзу, а не всередині кожної служби.
+    Back: I'd add authentication at the gateway level, not inside every service.
+    Audio: interview_b6b00e60abaf.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394522
+  fields:
+    Front: Наш конвеєр виконує лінтування, модульні тести та збирання на кожному запиті на отримання.
+    Back: Our pipeline runs linting, unit tests, and a build on every pull request.
+    Audio: interview_a995028753bd.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394548
+  fields:
+    Front: Я пишу модульні тести для логіки та інтеграційні тести для того, як елементи працюють разом.
+    Back: I write unit tests for logic and integration tests for how pieces work together.
+    Audio: interview_1e63293a51fc.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394570
+  fields:
+    Front: Наскрізні тести повільніші, тому ми зберігаємо їх лише для критичних потоків користувачів.
+    Back: End-to-end tests are slower, so we keep them for critical user flows only.
+    Audio: interview_7df7c545a86e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394596
+  fields:
+    Front: Ми використовуємо позначки функцій, щоб надсилати код, не відкриваючи його кожному користувачеві.
+    Back: We use feature flags to ship code without exposing it to every user.
+    Audio: interview_6172f68013aa.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394620
+  fields:
+    Front: Коли трапляється інцидент, я спершу зосереджуюсь на пом’якшенні, а потім на першопричині.
+    Back: When an incident happens, I focus on mitigation first and root cause after.
+    Audio: interview_51ea62f874bb.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394645
+  fields:
+    Front: Після кожного інциденту ми робимо бездоганний розтин, щоб зафіксувати те, що ми дізналися.
+    Back: We do a blameless postmortem after every incident to capture what we learned.
+    Audio: interview_4ce54bd65a25.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394670
+  fields:
+    Front: Моніторинг сповіщає нас, перш ніж користувачі помітять щось не так.
+    Back: Monitoring alerts us before users notice something is wrong.
+    Audio: interview_a4bb7edc02f7.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394695
+  fields:
+    Front: Я краще виявлю помилку в CI, ніж у виробництві.
+    Back: I'd rather catch a bug in CI than in production.
+    Audio: interview_bdd8d4083a7d.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394721
+  fields:
+    Front: Розгортання автоматизовані – злиття з основним ініціює поетапне розгортання.
+    Back: Deployments are automated - a merge to main triggers a staged rollout.
+    Audio: interview_0723cceaed46.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394745
+  fields:
+    Front: Відкат повинен бути таким же легким і нудним, як і розгортання.
+    Back: Rolling back should be as easy and boring as deploying.
+    Audio: interview_97c813059f7f.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394770
+  fields:
+    Front: Мій термін попередження становить один місяць, але я можу бути гнучким, якщо потрібно.
+    Back: My notice period is one month, but I could be flexible if needed.
+    Audio: interview_0c59d4bed15e.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394795
+  fields:
+    Front: Я відкритий для гібриду, але я вважаю за краще принаймні кілька днів віддалено.
+    Back: I'm open to hybrid, but I'd prefer at least a few days remote.
+    Audio: interview_d53437c891ec.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394821
+  fields:
+    Front: Чи можете ви розповісти мені більше про те, як команда вимірює успіх?
+    Back: Could you tell me more about how the team measures success?
+    Audio: interview_ea87e98ec1ed.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394845
+  fields:
+    Front: Як виглядає типовий спринт цієї команди?
+    Back: What does a typical sprint look like for this team?
+    Audio: interview_62b6b6839637.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394871
+  fields:
+    Front: Я хотів би знати, як виглядає зростання в цій ролі через рік.
+    Back: I'd love to know what growth looks like in this role after a year.
+    Audio: interview_c42b65e7f4c0.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394895
+  fields:
+    Front: Дякую за детальний огляд - це дає мені набагато чіткішу картину.
+    Back: Thanks for the detailed overview - it gives me a much clearer picture.
+    Audio: interview_d0170ab2a572.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394920
+  fields:
+    Front: Вибачте, можете повторити запитання? На секунду обірвався зв'язок.
+    Back: Sorry, could you repeat the question? The connection dropped for a second.
+    Audio: interview_6bdccf608a73.mp3
+    State: ''
+  tags:
+  - interview
+- id: 1786791394945
+  fields:
+    Front: Я думаю, що це добре охоплює - чи є у вас якісь занепокоєння щодо мого минулого?
+    Back: I think that covers it well - do you have any concerns about my background?
+    Audio: interview_709110221b39.mp3
     State: ''
   tags:
   - interview

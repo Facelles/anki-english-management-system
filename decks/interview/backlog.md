@@ -1,67 +1,40 @@
-I'm now looking for a new challenge where I can bring all of this together.
-At The AA I work in an IT department responsible for digital products.
-Our team consists of 6 developers, 1 QA engineer, and a product owner.
-We work on a variety of apps — from internal tools to customer products.
-The backend is built on NestJS with GraphQL and an API gateway pattern.
-On the backend we implement new features and fix bugs, not build from scratch.
-But on frontend, I design and build applications from scratch.
-I also work with some serverless infrastructure to support old applications and design new ones.
-When we need some backend functionality, we mostly build serverless functions on AWS Lambda.
-I also migrated old NestJS and Apollo modules to their modern versions.
-Currently I'm leading a major frontend upgrade from an old React codebase.
-The app had legacy MUI, outdated libraries, and was running on Node 16.
-I introduced Storybook to prevent duplicate components and silent regressions.
-Before that, broken UI changes were only caught during QA testing.
-I didn't choose GraphQL — it was already in place when I joined.
-But I understand why it was chosen — REST would mean too many endpoints.
-Honestly, GraphQL has its own complexity — many resolvers, hard to trace.
-Replacing it now would be too costly, so we work with what we have.
-We use Lambda for atomic, async operations that don't need instant response.
-The result is delivered later — via email or another async mechanism.
-NestJS was already the stack when I joined, and I would have chosen it anyway.
-It gives us a lot out of the box — architecture patterns and plugin ecosystem.
-One of my proudest achievements was building a custom calendar from scratch.
-We didn't use any third-party libraries — everything was built in-house.
-It gave us full control over behaviour, design, and edge cases.
-I introduced Storybook across all UI applications in the team.
-It made development faster and testing much more reliable.
-Complex multi-step scenarios became easy to isolate and test independently.
-Before Storybook, issues in those flows were often missed until regression.
-In code reviews I focus on code quality, system impact, and new dependencies.
-I always think about how a change might affect other parts of the application.
-I also question every new library — do we really need it, or can we avoid it?
-Formal mentoring isn't common in my current team — everyone works independently.
-Instead, I develop my teaching passion into my YouTube channel and ITFriday.
-I've created full series of videos to guide developers who are just starting out.
-I started adding Vue to my Laravel projects — it felt like a natural extension.
-Then I tried React and immediately preferred it over Vue.
-Working in outsourcing meant many projects, and JS simply dominated them all.
-Over time I standardised my entire stack around JavaScript.
-I've been at The AA for four years and I feel I've grown as much as I can here.
-I'm looking for a role with more technical complexity and bigger challenges.
-I want to work in an environment where engineering is a core priority.
-I genuinely enjoy sharing knowledge — it keeps me sharp and engaged.
-Teaching forces you to understand things deeply, not just use them.
-My channel covers real engineering problems, not just tutorial content.
-ITFriday started as a way to reconnect the Ukrainian IT community abroad.
-We stream every Friday and discuss both technical and human topics.
-It's grown into something I'm genuinely proud of outside of my day job.
-I avoid premature optimization — the code often needs to change later anyway.
-First, I ask if a hook is even necessary, or if structure can solve it instead.
-Often useCallback isn't needed if you move the function outside the component.
-Passing data as props instead of internal state removes the need for it.
-useMemo is great for memoising genuinely expensive calculations.
-But it's not free — it adds complexity and can complicate testing.
-Re-render issues are usually a sign of poor component decomposition.
-Breaking components down properly often solves re-render problems naturally.
-Reconciliation compares the old virtual DOM tree with the new one.
-If there's a difference, React triggers a cascading re-render from that point.
-I'm sorry, you're kind of breaking up there
-If you led the team, what would you change?
-Interface works best for classes and inheritance — shared shape plus type guards.
-Type is more flexible — unions, intersections, and primitives included.
-I use generics for functions that accept and return unknown data types.
-It's powerful, but needs careful runtime checks to stay safe.
-Strict mode bundles several compiler checks into one flag.
-The most important one is strictNullChecks — it catches null reference errors.
-Without it, null and undefined can silently slip through and crash at runtime.
+Let me walk you through a time I disagreed with a product manager over scope.
+We were close to a deadline when I realized the requirements didn't add up.
+I raised my concerns early instead of staying quiet and hoping it would work out.
+In the end we agreed on a smaller scope that still delivered real value.
+One of my biggest failures was underestimating a migration that took twice as long.
+I learned to break big migrations into smaller, independently shippable steps.
+I once had a conflict with a teammate over code ownership.
+We sat down, talked it through, and agreed on clear boundaries for the module.
+My five-year plan is to grow into a role with more architectural ownership.
+I'm leaving on good terms - I just feel I've hit a ceiling here.
+I handle tight deadlines by cutting scope first, never cutting quality.
+What I'm most proud of is a project that shipped despite a shrinking team.
+I'd start by clarifying the read and write patterns before picking a database.
+For this use case, I'd lean towards a relational database over a document store.
+Caching would sit in front of the API to reduce load on the database.
+I'd use a message queue to decouple slow operations from the request cycle.
+Microservices make sense once a team outgrows a single deployable monolith.
+Splitting too early just adds network calls without solving a real problem.
+I'd design the API around resources, not around internal implementation details.
+Rate limiting protects the backend from both bad actors and buggy clients.
+Horizontal scaling works well here because the service is stateless.
+I'd add authentication at the gateway level, not inside every service.
+Our pipeline runs linting, unit tests, and a build on every pull request.
+I write unit tests for logic and integration tests for how pieces work together.
+End-to-end tests are slower, so we keep them for critical user flows only.
+We use feature flags to ship code without exposing it to every user.
+When an incident happens, I focus on mitigation first and root cause after.
+We do a blameless postmortem after every incident to capture what we learned.
+Monitoring alerts us before users notice something is wrong.
+I'd rather catch a bug in CI than in production.
+Deployments are automated - a merge to main triggers a staged rollout.
+Rolling back should be as easy and boring as deploying.
+My notice period is one month, but I could be flexible if needed.
+I'm open to hybrid, but I'd prefer at least a few days remote.
+Could you tell me more about how the team measures success?
+What does a typical sprint look like for this team?
+I'd love to know what growth looks like in this role after a year.
+Thanks for the detailed overview - it gives me a much clearer picture.
+Sorry, could you repeat the question? The connection dropped for a second.
+I think that covers it well - do you have any concerns about my background?

@@ -32,12 +32,13 @@ OUTPUT_DIR="../converted_webm"
 mkdir -p "$OUTPUT_DIR"
 
 # silicon_valley_0501.webm
-counter=502
+prefix="brassic_" #silicon_valley_ | brassic_
+counter=1
 
 for file in "$INPUT_DIR"/*.mov; do
   # Створюємо імʼя з ведучими нулями: 0001, 0002, ...
   index=$(printf "%04d" $counter)
-  output="$OUTPUT_DIR/silicon_valley_$index.webm"
+  output="$OUTPUT_DIR/${prefix}$index.webm"
 
   echo "🎞️ Обробка: $(basename "$file") → $output"
 

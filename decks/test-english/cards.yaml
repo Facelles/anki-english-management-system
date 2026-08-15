@@ -49,13 +49,13 @@
 - id: 1784218212321
   fields:
     Front: Я краще їду потягом, ніж літаю.
-    Back: I'd rather take the train than fly.
+    Back: I'd rather take the train than fly
     Audio: test-english_2520b7903ed2.mp3
   tags: []
 - id: 1784218212346
   fields:
     Front: Завтра я краще буду працювати з дому.
-    Back: I'd sooner work from home tomorrow.
+    Back: I'd sooner work from home tomorrow
     Audio: test-english_eba5bdcb9287.mp3
   tags: []
 - id: 1784218212370
@@ -381,20 +381,20 @@
 - id: 1785242209833
   fields:
     Front: Всі відвідувачі повинні зареєструватися на рецепції.
-    Back: All visitors have to register at reception.
+    Back: All visitors have to register at reception
     Audio: test-english_18c75b6acb7e.mp3
   tags:
   - interview
 - id: 1785242209857
   fields:
     Front: Вам доведеться надати додаткові документи.
-    Back: You'll have to provide additional documents.
+    Back: You'll have to provide additional documents
     Audio: test-english_850f6cb14f7c.mp3
   tags:
   - interview
 - id: 1785242209881
   fields:
-    Front: Нам обов'язково бути на брифінгу?
+    Front: Нам обов'язково (бути присутніми) на брифінгу?
     Back: Do we have to attend the briefing?
     Audio: test-english_97c981c7dac8.mp3
   tags:
@@ -402,21 +402,21 @@
 - id: 1785242209907
   fields:
     Front: Мені не довелося пояснювати все двічі.
-    Back: I didn't have to explain everything twice.
+    Back: I didn't have to explain everything twice
     Audio: test-english_587ef3f7b4ba.mp3
   tags:
   - interview
 - id: 1785242209932
   fields:
     Front: Вам не потрібно буде сплачувати судові витрати.
-    Back: You won't have to pay any legal fees.
+    Back: You won't have to pay any legal fees
     Audio: test-english_69cfbaa2805d.mp3
   tags:
   - interview
 - id: 1785242209958
   fields:
     Front: Претенденти мають відповідати суворим вимогам.
-    Back: Applicants have to meet strict requirements.
+    Back: Applicants have to meet strict requirements
     Audio: test-english_396d88c3e48b.mp3
   tags:
   - interview
@@ -430,35 +430,35 @@
 - id: 1785242210006
   fields:
     Front: Нам не потрібно приймати рішення сьогодні.
-    Back: We don't have to make a decision today.
+    Back: We don't have to make a decision today
     Audio: test-english_253b3cd22fc5.mp3
   tags:
   - interview
 - id: 1785242210032
   fields:
     Front: Пасажирам довелося залишитися в літаку.
-    Back: Passengers had to remain on the aircraft.
+    Back: Passengers had to remain on the aircraft
     Audio: test-english_5481a9224958.mp3
   tags:
   - interview
 - id: 1785242210056
   fields:
     Front: Ви повинні будете виправдати свої витрати.
-    Back: You'll have to justify your expenses.
+    Back: You'll have to justify your expenses
     Audio: test-english_a348956da683.mp3
   tags:
   - interview
 - id: 1785242210082
   fields:
-    Front: Мені наступного тижня оновлять паспорт.
-    Back: I'm having my passport renewed next week.
+    Front: Я буду мати мій паспорт поновленим наступного тижня [PreCont]
+    Back: I'm having my passport renewed next week
     Audio: test-english_cff8011d6d06.mp3
   tags:
   - interview
 - id: 1785242210105
   fields:
     Front: Вчора вона відремонтувала свій ноутбук.
-    Back: She had her laptop repaired yesterday.
+    Back: She had her laptop repaired yesterday
     Audio: test-english_06e700f854c6.mp3
   tags:
   - interview

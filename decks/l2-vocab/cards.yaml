@@ -117,7 +117,7 @@
 - id: 1772715543045
   fields:
     Front: Багато організацій працюють над покращенням грамотності серед дорослих.
-    Back: Many organisations work to improve literacy among adults.
+    Back: Many organisations work to improve literacy among adults
     Audio: L2_0020-Many_organisations.mp3
   tags: []
 - id: 1772715543046
@@ -171,7 +171,7 @@
 - id: 1772715543054
   fields:
     Front: Розвиток культури читання потребує підтримки з боку уряду.
-    Back: Developing a reading culture requires support from the government.
+    Back: Developing a reading culture requires support from the government
     Audio: L2_0029-Developing_a.mp3
   tags: []
 - id: 1772715543055
@@ -291,7 +291,7 @@
 - id: 1774435692595
   fields:
     Front: Сума у два мільйони доларів — це критичний рівень фінансування, необхідний для реалізації проєкту
-    Back: A sum of two million dollars is a critical level of funding required to implement the project.
+    Back: A sum of two million dollars is a critical level of funding required to implement the project
     Audio: L2_0048-A_sum.mp3
   tags: []
 - id: 1774435692596
@@ -492,7 +492,7 @@
   fields:
     Front: Дехто (стверджує|висловлює аргументовану думку), що зменшені тривалості концентрації уваги
       є (головною|основною) причиною кризи читання
-    Back: Somebody argues that reduced attention spans are the primary cause of the reading crisis.
+    Back: Somebody argues that reduced attention spans are the primary cause of the reading crisis
     Audio: L2_0076-Somebody_argues.mp3
   tags: []
 - id: 1774435692624
@@ -743,7 +743,7 @@
 - id: 1774435692664
   fields:
     Front: Ні біткоїн, ні інші криптовалюти не гарантують стабільного доходу
-    Back: Neither Bitcoin nor other cryptocurrencies guarantee a stable income.
+    Back: Neither Bitcoin nor other cryptocurrencies guarantee a stable income
     Audio: L2_0117-Neither_Bitcoin.mp3
   tags: []
 - id: 1774435692665
@@ -2347,7 +2347,7 @@
 - id: 1786113474797
   fields:
     Front: Споживання м’яса впало в чотирьох з шести країн, але різко зросло в двох інших.
-    Back: Meat consumption fell in four of the six countries but rose sharply in the remaining two.
+    Back: Meat consumption fell in four of the six countries but rose sharply in the remaining two
     Audio: l2-vocab_0ce673c57512.mp3
   tags:
   - interview
@@ -2356,85 +2356,87 @@
     Front: Як показано в таблиці, володіння смартфоном серед підлітків було значно вищим, ніж серед дорослих
       старше 60 років.
     Back: As illustrated in the table, smartphone ownership among teenagers was considerably higher than
-      among adults over 60.
+      among adults over 60
     Audio: l2-vocab_08a9393e2931.mp3
   tags:
   - interview
 - id: 1786113474853
   fields:
-    Front: У таблиці порівнюються рівні злочинності в трьох великих містах за п’ятирічний період.
-    Back: The table compares crime rates in three major cities over a five-year period.
+    Front: Таблиця порівнює рівні злочинності в трьох великих містах за п’ятирічний період.
+    Back: The table compares crime rates in three major cities over a five-year period
     Audio: l2-vocab_ee962fec4c48.mp3
   tags:
   - interview
 - id: 1786113474869
   fields:
     Front: Місто з найвищим рівнем злочинності в 2015 році опустилося на друге місце до 2020 року.
-    Back: The city with the highest crime rate in 2015 had fallen to second place by 2020.
+    Back: The city with the highest crime rate in 2015 had fallen to second place by 2020
     Audio: l2-vocab_2181f66d2eb2.mp3
   tags:
   - interview
 - id: 1786113474900
   fields:
-    Front: У таблиці наведено дані про використання громадського транспорту за видами транспорту у двох
+    Front: Таблиця презентує дані про використання громадського транспорту за видами транспорту у двох
       столицях.
-    Back: The table presents data on public transport usage by mode of transport in two capital cities.
+    Back: The table presents data on public transport usage by mode of transport in two capital cities
     Audio: l2-vocab_b214e7df533f.mp3
   tags:
   - interview
 - id: 1786113474923
   fields:
-    Front: Використання автобусів було майже однаковим в обох містах, тоді як використання метро значно
-      відрізнялося.
-    Back: Bus usage was nearly identical in both cities, whereas underground usage differed considerably.
+    Front: Використання автобусів було майже однаковим в обох містах, тоді як використання метро відрізнялося
+      значно
+    Back: Bus usage was nearly identical in both cities, whereas underground usage differed considerably
     Audio: l2-vocab_dd82adace5da.mp3
   tags:
   - interview
 - id: 1786113474941
   fields:
-    Front: У таблиці нижче наведено середню кількість книжок, прочитаних дорослими за рік у п’яти країнах.
-    Back: The table below shows the average number of books read per year by adults in five countries.
+    Front: Таблиці нижче показує середню кількість книжок, прочитаних&nbsp;&nbsp;за рік дорослими у п’яти
+      країнах.
+    Back: The table below shows the average number of books read per year by adults in five countries
     Audio: l2-vocab_b6de1103a8ae.mp3
   tags:
   - interview
 - id: 1786113474973
   fields:
-    Front: Дорослі в країні Б читають майже вдвічі більше книжок, ніж у країні Е.
-    Back: Adults in Country B read almost twice as many books, on average, as those in Country E.
+    Front: Дорослі в країні Б читають майже вдвічі більше книжок, в середньому, ніж ~дорослі/ті~ у країні
+      Е.
+    Back: Adults in Country B read almost twice as many books, on average, as those in Country E
     Audio: l2-vocab_127b635d8e28.mp3
   tags:
   - interview
 - id: 1786113474988
   fields:
-    Front: У таблиці наведено державні витрати на охорону здоров’я, освіту та оборону у відсотках від
-      ВВП.
+    Front: Таблиця (окреслює|відображає) державні витрати на охорону здоров'я, освіту та оборону як відсоток
+      від ВВП
     Back: The table outlines government expenditure on healthcare, education and defence as a percentage
-      of GDP.
+      of GDP
     Audio: l2-vocab_3685d98e4823.mp3
   tags:
   - interview
 - id: 1786113475023
   fields:
-    Front: Витрати на охорону здоров’я становлять найбільшу частку ВВП у кожній країні, крім однієї.
-    Back: Healthcare spending accounted for the largest proportion of GDP in every country except one.
+    Front: Витрати на охорону здоров'я становили найбільшу частку ВВП у кожній країні, крім однієї
+    Back: Healthcare spending accounted for the largest proportion of GDP in every country except one
     Audio: l2-vocab_11ccabe3f682.mp3
   tags:
   - interview
 - id: 1786113475040
   fields:
-    Front: У таблиці нижче наведено дані про рівень безробіття за рівнем освіти в трьох країнах у 2021
+    Front: Таблиця нижче представляє дані про рівень безробіття за рівнем освіти в трьох країнах у 2021
       році.
     Back: The table below presents data on unemployment rates by level of education in three countries
-      in 2021.
+      in 2021
     Audio: l2-vocab_0646afc0d838.mp3
   tags:
   - interview
 - id: 1786113475064
   fields:
-    Front: Таблиця ілюструє середнє споживання води за секторами — сільськогосподарським, промисловим
-      і побутовим — у чотирьох країнах.
-    Back: The table illustrates average water consumption by sector — agricultural, industrial and domestic
-      — in four countries.
+    Front: Таблиця ілюструє середнє споживання води за сектором— сільськогосподарським, промисловим і
+      побутовим — у чотирьох країнах.
+    Back: The table illustrates average water consumption by sector - agricultural, industrial and domestic
+      - in four countries
     Audio: l2-vocab_6397bcafcc8d.mp3
   tags:
   - interview

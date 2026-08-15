@@ -6099,7 +6099,7 @@
 - id: 1774217095829
   fields:
     VideoFilename: silicon_valley_0066.webm
-    Front: Just to remind you, you are not the co-founder.
+    Front: Just to remind you, you are not the co-founder
     Back: нагадаю тобі, ти не співзасновник.
   tags: []
 - id: 1774217095830
@@ -8766,7 +8766,7 @@
 - id: 1786402705542
   fields:
     VideoFilename: silicon_valley_0510.webm
-    Front: like a giant looking over his own shoulder.
+    Front: Like a giant looking over his own shoulder
     Back: наче велетень, який дивиться через власне плече.
   tags: []
 - id: 1786402705543
@@ -8778,13 +8778,13 @@
 - id: 1786402705544
   fields:
     VideoFilename: silicon_valley_0512.webm
-    Front: I may have found the perfect woman.
+    Front: I may have found the perfect woman
     Back: Можливо, я знайшов ідеальну жінку.
   tags: []
 - id: 1786402705545
   fields:
     VideoFilename: silicon_valley_0513.webm
-    Front: Oh yeah, that means she wants you to lay her.
+    Front: Oh yeah, that means she wants you to lay her
     Back: О так, це означає, що вона хоче, щоб ти з нею переспав.
   tags: []
 - id: 1786402705546
@@ -8808,13 +8808,13 @@
 - id: 1786402705549
   fields:
     VideoFilename: silicon_valley_0517.webm
-    Front: with shitty stickers on it?
+    Front: With shitty stickers on it?
     Back: з довбаними наліпками на ньому?
   tags: []
 - id: 1786402705550
   fields:
     VideoFilename: silicon_valley_0518.webm
-    Front: Oh, shit, it&#x27;s frozen. It&#x27;s frozen.
+    Front: Oh, shit, it's frozen. It's frozen
     Back: От лайно, він завис. Він завис.
   tags: []
 - id: 1786402705551
@@ -8826,14 +8826,14 @@
 - id: 1786402705552
   fields:
     VideoFilename: silicon_valley_0520.webm
-    Front: But it&#x27;s not gonna change who you are.
+    Front: But it's not gonna change who you are
     Back: Але це не змінить того, ким ти є.
   tags: []
 - id: 1786402705553
   fields:
     VideoFilename: silicon_valley_0521.webm
-    Front: I owe you an apology. I was way off base.
-    Back: Я винен тобі вибачення. Я дуже помилявся.
+    Front: I owe you an apology. I was way off base
+    Back: Я винен тобі вибачення. Я був зовсім не правий
   tags: []
 - id: 1786402705554
   fields:
@@ -8888,4 +8888,94 @@
     VideoFilename: silicon_valley_0530.webm
     Front: Since the dawn of time
     Back: Від початку часів.
+  tags: []
+- id: 1786753820310
+  fields:
+    VideoFilename: brassic_0001.webm
+    Front: Chucking yourself off, Vinnie?
+    Back: Дрочиш, Вінні?
+  tags: []
+- id: 1786753820311
+  fields:
+    VideoFilename: brassic_0002.webm
+    Front: You don&#x27;t wanna jump off there.
+    Back: Не варто тобі звідти стрибати.
+  tags: []
+- id: 1786753820312
+  fields:
+    VideoFilename: brassic_0003.webm
+    Front: Not high enough.
+    Back: Недостатньо високо.
+  tags: []
+- id: 1786753820313
+  fields:
+    VideoFilename: brassic_0004.webm
+    Front: You&#x27;ll just bugger your legs up.
+    Back: Ти собі просто ноги покалічиш.
+  tags: []
+- id: 1786753820314
+  fields:
+    VideoFilename: brassic_0005.webm
+    Front: I&#x27;ll bear that in my mind, mate.
+    Back: Я це врахую, друже.
+  tags: []
+- id: 1786753820315
+  fields:
+    VideoFilename: brassic_0006.webm
+    Front: That&#x27;s what you need.
+    Back: Ось що тобі потрібно.
+  tags: []
+- id: 1786753820316
+  fields:
+    VideoFilename: brassic_0007.webm
+    Front: Or a fast-moving train.
+    Back: Або швидко рухомий потяг.
+  tags: []
+- id: 1786753820317
+  fields:
+    VideoFilename: brassic_0008.webm
+    Front: They call us Blair&#x27;s forgotten youth.
+    Back: Нас називають забутими молодими людьми Блера.
+  tags: []
+- id: 1786753820318
+  fields:
+    VideoFilename: brassic_0009.webm
+    Front: Kids that grow up in a town that offered nothing.
+    Back: Діти, які виросли в місті, яке нічого не пропонувало.
+  tags: []
+- id: 1786753820319
+  fields:
+    VideoFilename: brassic_0010.webm
+    Front: No opportunities, no prospects, no hope.
+    Back: Немає можливостей, немає перспектив, немає надії.
+  tags: []
+- id: 1786753820320
+  fields:
+    VideoFilename: brassic_0011.webm
+    Front: Tell me it&#x27;s not looking thinner.
+    Back: Скажи мені, що воно не виглядає тоншим.
+  tags: []
+- id: 1786753820321
+  fields:
+    VideoFilename: brassic_0012.webm
+    Front: You&#x27;re glimpsing! Right, look properly. Check it out, see?
+    Back: Ти лиш зиркаєш! Ось, дивись нормально. Глянь уважно, бачиш?
+  tags: []
+- id: 1786753820322
+  fields:
+    VideoFilename: brassic_0013.webm
+    Front: You&#x27;re a bit... follicly challenged.
+    Back: Ти трохи... проблемний з волоссям.
+  tags: []
+- id: 1786753820323
+  fields:
+    VideoFilename: brassic_0014.webm
+    Front: Watch out! Oh, shit. What was that?
+    Back: Обережно! О, чорт. Що це було?
+  tags: []
+- id: 1786753820324
+  fields:
+    VideoFilename: brassic_0015.webm
+    Front: Fuck the plumage! I cannot go bald.
+    Back: Та насрати на пір'я! Я не можу облисіти.
   tags: []

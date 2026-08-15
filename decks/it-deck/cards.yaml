@@ -5943,7 +5943,7 @@
   - interview
 - id: 1785584727019
   fields:
-    Front: <code></code>Чи було б це&nbsp;занадто великою незручністю — перенести реліз на завтра?
+    Front: <code></code>Чи було б це&nbsp;занадто великою незручністю призупинити реліз до завтра?
     Back: Would it be too much of an inconvenience to postpone the release until tomorrow?
     Audio: it-deck_f1d1fc591200.mp3
   tags:
@@ -6126,7 +6126,7 @@
   - interview
 - id: 1785584727670
   fields:
-    Front: Відхилення - це відмінність від ~того~ що очікуваного, запланованого або необхідного.
+    Front: Відхилення - це відмінність від ~того~ що є очікуваним, запланованим або необхідним
     Back: A deviation is a difference from what is expected, planned, or required
     Audio: it-deck_7db2951840bf.mp3
   tags:
@@ -6182,71 +6182,72 @@
   - interview
 - id: 1785584727870
   fields:
-    Front: Попередній досвід роботи з розподіленими системами дуже бажаний.
-    Back: Prior experience with distributed systems is highly desirable.
+    Front: Попередній досвід з розподіленими системами є дуже бажаний.
+    Back: Prior experience with distributed systems is highly desirable
     Audio: it-deck_fd9bc2878bdb.mp3
   tags:
   - interview
 - id: 1785584727895
   fields:
-    Front: Попередні знання Kubernetes не потрібні.
-    Back: No prior knowledge of Kubernetes is required.
+    Front: Попередні знання Kubernetes є ~не~ потрібні.
+    Back: No prior knowledge of Kubernetes is required
     Audio: it-deck_57ebb49b012e.mp3
   tags:
   - interview
 - id: 1785584727920
   fields:
-    Front: Якби ми ретельніше перевірили попередню реалізацію, ми могли б уникнути цієї проблеми.
-    Back: Had we reviewed the prior implementation more carefully, we might have avoided this issue.
+    Front: Якби ми перевірили попередню реалізацію ретельніше, ми могли б уникнути цієї проблеми. [Inv
+      iii]
+    Back: Had we reviewed the prior implementation more carefully, we might have avoided this issue
     Audio: it-deck_82c383d37357.mp3
   tags:
   - interview
 - id: 1785584727944
   fields:
-    Front: Перш ніж коментувати пропозицію, прочитайте попереднє обговорення.
-    Back: Please read the prior discussion before commenting on the proposal.
+    Front: Будь ласка прочитайте попереднє обговорення,&nbsp;перш ніж коментувати пропозицію
+    Back: Please read the prior discussion before commenting on the proposal
     Audio: it-deck_593c3eb23ad6.mp3
   tags:
   - interview
 - id: 1785584727969
   fields:
-    Front: Рішення базувалося на попередніх дослідженнях, а не на припущеннях.
-    Back: The decision was based on prior research rather than assumptions.
+    Front: Рішення базувалося на попередньому досліджені, а не на припущеннях.
+    Back: The decision was based on prior research rather than assumptions
     Audio: it-deck_11fa4816e92f.mp3
   tags:
   - interview
 - id: 1785584727995
   fields:
     Front: Лише пізніше ми виявили, що попередня версія вже вирішила цю проблему.
-    Back: Only later did we discover that a prior version had already solved this problem.
+    Back: Only later did we discover that a prior version had already solved this problem
     Audio: it-deck_2b3b942ff5a0.mp3
   tags:
   - interview
 - id: 1785584728020
   fields:
     Front: Виправити означає виправити проблему або усунути помилку.
-    Back: To rectify means to correct a problem or remove a mistake.
+    Back: To rectify means to correct a problem or remove a mistake
     Audio: it-deck_69823179e5f1.mp3
   tags:
   - interview
 - id: 1785584728045
   fields:
-    Front: Проблему необхідно усунути до випуску.
-    Back: The issue must be rectified before the release.
+    Front: Проблему повина бути усуненою/виправленою до випуску.
+    Back: The issue must be rectified before the release
     Audio: it-deck_8d52b4aa9e59.mp3
   tags:
   - interview
 - id: 1785584728070
   fields:
     Front: Ми вже виправили помилку конфігурації.
-    Back: We have already rectified the configuration error.
+    Back: We have already rectified the configuration error
     Audio: it-deck_b5677963e169.mp3
   tags:
   - interview
 - id: 1785584728094
   fields:
-    Front: Якби помилку усунули раніше, відключення можна було б уникнути.
-    Back: Had the mistake been rectified earlier, the outage could have been avoided.
+    Front: Якби помилка була усунутою раніше, відключення можна було б уникнути. [Inv iii]
+    Back: Had the mistake been rectified earlier, the outage could have been avoided
     Audio: it-deck_3f4d8b922234.mp3
   tags:
   - interview
@@ -6259,8 +6260,8 @@
   - interview
 - id: 1785584728145
   fields:
-    Front: Рідко виробничі проблеми вирішуються без ретельного дослідження.
-    Back: Rarely is a production issue rectified without careful investigation.
+    Front: Рідко виробничі проблеми є (усунутою|вирішеною) без ретельного розслідування.
+    Back: Rarely is a production issue rectified without careful investigation
     Audio: it-deck_2d5841591614.mp3
   tags:
   - interview
