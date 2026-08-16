@@ -201,6 +201,18 @@
 | guarantee | гарантувати, забезпечувати, запевняти |
 | account for | враховувати, пояснювати, відповідати за |
 | Everyone | кожен, усі, всі люди |
+| hinky | підозрілий, ненадійний, сумнівний |
+| appreciate | цінувати, розуміти, усвідомлювати |
+| insight | 
+| expose
+| feature
+| essential
+| penetrate |
+| acknowledge |
+| shrink |
+| ship |
+| scope |
+
 
 
 Conditional З інверсією
