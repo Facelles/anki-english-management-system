@@ -6211,7 +6211,7 @@
   - interview
 - id: 1785584727969
   fields:
-    Front: Рішення базувалося на попередньому досліджені, а не на припущеннях.
+    Front: Рішення було базуваним на попередньому досліджені, а не на припущеннях.
     Back: The decision was based on prior research rather than assumptions
     Audio: it-deck_11fa4816e92f.mp3
   tags:
@@ -6268,84 +6268,84 @@
 - id: 1785584728170
   fields:
     Front: Виправивши невідповідність бази даних, ми перезапустили службу.
-    Back: Having rectified the database inconsistency, we restarted the service.
+    Back: Having rectified the database inconsistency, we restarted the service
     Audio: it-deck_83896c92fb4a.mp3
   tags:
   - interview
 - id: 1785584728195
   fields:
-    Front: Щось необхідно, якщо це потрібно для досягнення певного результату.
-    Back: Something is necessary if it is required in order to achieve a particular result.
+    Front: Щось є необхідним, якщо це є потрібним з метою досягнення певного результату.
+    Back: Something is necessary if it is required in order to achieve a particular result
     Audio: it-deck_0ab552292a29.mp3
   tags:
   - interview
 - id: 1785584728219
   fields:
-    Front: Перед початком міграції необхідно створити повну резервну копію.
-    Back: A full backup is necessary before the migration begins.
+    Front: Повне резервне копіювання необхідне перед ~тим як~ міграція почнеться
+    Back: A full backup is necessary before the migration begins
     Audio: it-deck_a7f4c91554d6.mp3
   tags:
   - interview
 - id: 1785584728245
   fields:
-    Front: Чи дійсно потрібно вводити ще одну залежність?
+    Front: Чи дійсно потрібно запровадити&nbsp;ще одну залежність?
     Back: Is it really necessary to introduce another dependency?
     Audio: it-deck_6347d37c6c0c.mp3
   tags:
   - interview
 - id: 1785584728270
   fields:
-    Front: Якби було потрібно, ми б відклали випуск.
-    Back: Had it been necessary, we would have postponed the release.
+    Front: Якби було потрібно, ми б відклали випуск. [Inv iii]
+    Back: Had it been necessary, we would have postponed the release
     Audio: it-deck_e07b0dbe959d.mp3
   tags:
   - interview
 - id: 1785584728295
   fields:
-    Front: У загальнодоступній мережі мають бути представлені лише необхідні служби.
-    Back: Only the necessary services should be exposed to the public network.
+    Front: Лише необхідні сервіси мають бути відкриті для публічної мережі
+    Back: Only the necessary services should be exposed to the public network
     Audio: it-deck_1b5a39cd0afd.mp3
   tags:
   - interview
 - id: 1785584728320
   fields:
-    Front: Необхідно перевірити кожну зміну перед розгортанням.
-    Back: It is necessary that every change be reviewed before deployment.
+    Front: Це є необхідно щоб кожну зміна була перевіреною перед розгортанням.
+    Back: It is necessary that every change be reviewed before deployment
     Audio: it-deck_74cd14f50871.mp3
   tags:
   - interview
 - id: 1785584728344
   fields:
-    Front: Не кожна оптимізація потрібна на цьому етапі.
-    Back: Not every optimization is necessary at this stage.
+    Front: Не кожна оптимізація є потрібною на цьому етапі.
+    Back: Not every optimization is necessary at this stage
     Audio: it-deck_387ee2370bad.mp3
   tags:
   - interview
 - id: 1785584728369
   fields:
     Front: Бути прийнятим означає бути виконаним, виконаним або прийнятим.
-    Back: To be taken means to be performed, carried out, or accepted.
+    Back: To be taken means to be performed, carried out, or accepted
     Audio: it-deck_74431e6bbf23.mp3
   tags:
   - interview
 - id: 1785584728394
   fields:
-    Front: Необхідно вжити негайних заходів, щоб запобігти подальшим збоям.
-    Back: Immediate action must be taken to prevent further failures.
+    Front: Негайний заход повинен бути вжитим, щоб запобігти подальшим збоям.
+    Back: Immediate action must be taken to prevent further failures
     Audio: it-deck_c44c596dc28a.mp3
   tags:
   - interview
 - id: 1785584728419
   fields:
-    Front: Для підвищення надійності вже вжито кілька заходів.
-    Back: Several measures have already been taken to improve reliability.
+    Front: кілька заходів було Вже&nbsp;вжито&nbsp;для підвищення надійності
+    Back: Several measures have already been taken to improve reliability
     Audio: it-deck_e8ebc88cf0c4.mp3
   tags:
   - interview
 - id: 1785584728445
   fields:
-    Front: Якби були вжиті відповідні запобіжні заходи, інциденту ніколи б не сталося.
-    Back: Had appropriate precautions been taken, the incident would never have occurred.
+    Front: Якби були вжиті відповідні запобіжні заходи, інциденту ніколи б не сталося. [Inv iii]
+    Back: Had appropriate precautions been taken, the incident would never have occurred
     Audio: it-deck_bb4454ced6e0.mp3
   tags:
   - interview

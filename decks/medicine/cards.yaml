@@ -672,26 +672,26 @@
   tags: []
 - id: 1786531405681
   fields:
-    Front: Чи можна надіслати цей рецепт електронним способом до моєї аптеки?
+    Front: Чи може цей рецепт бути надісланим&nbsp;електронним способом до моєї аптеки?
     Back: Can this prescription be sent electronically to my pharmacy?
     Audio: medicine_aebe7e38434e.mp3
   tags: []
 - id: 1786531405705
   fields:
-    Front: Мені потрібен лікарняний лист на наступні два тижні.
-    Back: I need a sick note that covers the next two weeks.
+    Front: Мені потрібен лікарняний лист що покриває наступні два тижні.
+    Back: I need a sick note that covers the next two weeks
     Audio: medicine_466bbe6cd39a.mp3
   tags: []
 - id: 1786531405731
   fields:
-    Front: Чи потрібно знову звертатися до лікаря до закінчення терміну лікарняного?
+    Front: Чи потрібно звертатися до лікаря знову&nbsp;до закінчення терміну лікарняного?
     Back: Do I need to see the doctor again before the sick note expires?
     Audio: medicine_61dbfba4fc46.mp3
   tags: []
 - id: 1786531405756
   fields:
     Front: Я реєструюся як новий пацієнт у цьому районі.
-    Back: I'm registering as a new patient in this area.
+    Back: I'm registering as a new patient in this area
     Audio: medicine_21d7caaab2a5.mp3
   tags: []
 - id: 1786531405781
@@ -702,7 +702,7 @@
   tags: []
 - id: 1786531405806
   fields:
-    Front: Я пропустив зустріч, чи можу я записатися повторно?
+    Front: Я пропустив мою зустріч, чи можу я записатися повторно?
     Back: I missed my appointment, can I rebook?
     Audio: medicine_c242d2a3d9b7.mp3
   tags: []
@@ -715,19 +715,19 @@
 - id: 1786531405855
   fields:
     Front: Я вивихнув щиколотку, граючи у футбол.
-    Back: I sprained my ankle playing football.
+    Back: I sprained my ankle playing football
     Audio: medicine_4912c87e13cf.mp3
   tags: []
 - id: 1786531405881
   fields:
     Front: У мене піддається коліно, коли я спускаюся сходами.
-    Back: My knee gives way when I go down the stairs.
+    Back: My knee gives way when I go down the stairs
     Audio: medicine_e552ac698aa7.mp3
   tags: []
 - id: 1786531405905
   fields:
     Front: Я вивернув зап'ястя, коли впав.
-    Back: I twisted my wrist when I fell.
+    Back: I twisted my wrist when I fell
     Audio: medicine_9b4c11214269.mp3
   tags: []
 - id: 1786531405931

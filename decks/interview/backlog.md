@@ -95,3 +95,27 @@ In distributed systems, network delays and retries introduce non-determinism tha
 A flaky test that fails only sometimes is usually a sign that some non-deterministic behavior wasn't properly isolated.
 When I need reproducible results in tests, I seed the random generator or freeze the clock instead of using the real one.
 Caching can also introduce non-determinism, since the cached value and the real source of truth can drift out of sync over time.
+Let's talk about how JavaScript handles asynchronous code, since that comes up in almost every interview.
+A promise represents a value that isn't ready yet, but will resolve or reject at some point in the future.
+Before promises, we handled async code with callbacks, which often led to deeply nested callback hell.
+A promise has three states - pending, fulfilled, and rejected - and it can only settle once.
+Async and await are just syntactic sugar on top of promises that let asynchronous code read like synchronous code.
+Under the hood, an async function always returns a promise, even if you return a plain value from it.
+When I await a promise, the function pauses at that point without blocking the rest of the application.
+I wrap await calls in try/catch blocks to handle rejected promises the same way I'd handle a thrown error.
+Promise.all runs multiple promises in parallel and rejects immediately if any single one of them fails.
+Promise.allSettled is useful when I want the outcome of every promise, even the ones that failed.
+Promise.race resolves or rejects as soon as the first promise settles, which is handy for implementing timeouts.
+JavaScript itself is single-threaded, so only one piece of JS code ever runs at a given moment.
+The event loop is what lets JavaScript handle asynchronous work without actually using multiple threads.
+Node uses libuv under the hood to offload things like file I/O and network calls onto background threads.
+Microtasks, like promise callbacks, always run before the next macrotask, such as a setTimeout callback.
+That's why a resolved promise's callback fires before a setTimeout with a zero-millisecond delay.
+Real multithreading in Node is possible through worker threads, which run JavaScript in a separate thread with its own memory.
+I'd reach for worker threads on CPU-heavy work, like image processing, that would otherwise block the event loop.
+Browsers actually give you three flavors of worker - dedicated, shared, and service workers.
+A dedicated worker is tied to the single script that created it, and no other script can access it.
+A shared worker can be reused across multiple tabs or scripts from the same origin, communicating through a shared connection.
+A service worker sits between the app and the network, so it's mainly used for caching, offline support, and push notifications rather than raw computation.
+Because a service worker intercepts network requests, it keeps running in the background even after the tab that registered it is closed.
+Node doesn't have that three-way split - it just has worker threads, which behave more like a dedicated worker running full Node modules.

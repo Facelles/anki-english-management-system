@@ -669,15 +669,15 @@
 - id: 1786791394069
   fields:
     Front: Однією з моїх найбільших невдач була недооцінка міграції, яка тривала вдвічі довше.
-    Back: One of my biggest failures was underestimating a migration that took twice as long.
+    Back: One of my biggest failures was underestimating a migration that took twice as long
     Audio: interview_68cb5d49cb09.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394095
   fields:
-    Front: Я навчився розбивати великі міграції на менші етапи, які можна відправляти окремо.
-    Back: I learned to break big migrations into smaller, independently shippable steps.
+    Front: Я навчився розбивати великі міграції на менші, незалежно доставляємі кроки
+    Back: I learned to break big migrations into smaller, independently shippable steps
     Audio: interview_ccea1ae06663.mp3
     State: ''
   tags:
@@ -685,7 +685,7 @@
 - id: 1786791394119
   fields:
     Front: Якось у мене був конфлікт із товаришем по команді через право власності на код.
-    Back: I once had a conflict with a teammate over code ownership.
+    Back: I once had a conflict with a teammate over code ownership
     Audio: interview_13f2ba984bfe.mp3
     State: ''
   tags:
@@ -693,7 +693,7 @@
 - id: 1786791394145
   fields:
     Front: Ми сіли, обговорили це й узгодили чіткі межі для модуля.
-    Back: We sat down, talked it through, and agreed on clear boundaries for the module.
+    Back: We sat down, talked it through, and agreed on clear boundaries for the module
     Audio: interview_f387c5013847.mp3
     State: ''
   tags:
@@ -701,7 +701,7 @@
 - id: 1786791394169
   fields:
     Front: Мій п’ятирічний план полягає в тому, щоб вирости в роль із більшою архітектурною власністю.
-    Back: My five-year plan is to grow into a role with more architectural ownership.
+    Back: My five-year plan is to grow into a role with more architectural ownership
     Audio: interview_91bda3a3fa0b.mp3
     State: ''
   tags:
@@ -709,23 +709,23 @@
 - id: 1786791394196
   fields:
     Front: Я йду в добрих стосунках — я просто відчуваю, що тут я досяг стелі.
-    Back: I'm leaving on good terms - I just feel I've hit a ceiling here.
+    Back: I'm leaving on good terms - I just feel I've hit a ceiling here
     Audio: interview_7abc92a9ddac.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394220
   fields:
-    Front: Я справляюся зі стислими термінами, спочатку скорочуючи обсяг, ніколи не знижуючи якість.
-    Back: I handle tight deadlines by cutting scope first, never cutting quality.
+    Front: Я справляюся зі стислими термінами, скорочуючи обсяг спочатку, ніколи не знижуючи якість.
+    Back: I handle tight deadlines by cutting scope first, never cutting quality
     Audio: interview_e7f5ddd6828e.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394245
   fields:
-    Front: Найбільше я пишаюся проектом, який був реалізований, незважаючи на скорочення команди.
-    Back: What I'm most proud of is a project that shipped despite a shrinking team.
+    Front: Чим я Найбільше пишаюся то є проект який був реалізований, незважаючи на скорочення команди.
+    Back: What I'm most proud of is a project that shipped despite a shrinking team
     Audio: interview_66df8a0ad1cc.mp3
     State: ''
   tags:
@@ -740,8 +740,9 @@
   - interview
 - id: 1786791394294
   fields:
-    Front: Для цього випадку використання я б схилявся до реляційної бази даних замість сховища документів.
-    Back: For this use case, I'd lean towards a relational database over a document store.
+    Front: Для цього сценарію використання я б схилявся до реляційної бази даних, а не до документоорієнтованого
+      сховища
+    Back: For this use case, I'd lean towards a relational database over a document store
     Audio: interview_f15659590a6f.mp3
     State: ''
   tags:
@@ -749,7 +750,7 @@
 - id: 1786791394320
   fields:
     Front: Кешування буде стояти перед API, щоб зменшити навантаження на базу даних.
-    Back: Caching would sit in front of the API to reduce load on the database.
+    Back: Caching would sit in front of the API to reduce load on the database
     Audio: interview_231629e257f1.mp3
     State: ''
   tags:
@@ -757,7 +758,7 @@
 - id: 1786791394344
   fields:
     Front: Я б використав чергу повідомлень, щоб відокремити повільні операції від циклу запиту.
-    Back: I'd use a message queue to decouple slow operations from the request cycle.
+    Back: I'd use a message queue to decouple slow operations from the request cycle
     Audio: interview_c418ed41ea8b.mp3
     State: ''
   tags:

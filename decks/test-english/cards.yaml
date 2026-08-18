@@ -464,22 +464,22 @@
   - interview
 - id: 1785242210131
   fields:
-    Front: Перед покупкою будинку ми перевірили дах.
-    Back: We had the roof inspected before buying the house.
+    Front: Ми перевірили дах перед купівлею будинку [PastPerf]
+    Back: We had the roof inspected before buying the house
     Audio: test-english_c9572a1df9a6.mp3
   tags:
   - interview
 - id: 1785242210157
   fields:
-    Front: У метро в нього вкрали гаманець.
-    Back: He had his wallet stolen on the Underground.
+    Front: В нього вкрали гаманець У метро [PastPerf pass]
+    Back: He had his wallet stolen on the Underground
     Audio: test-english_9c06124360fe.mp3
   tags:
   - interview
 - id: 1785242210181
   fields:
-    Front: Їхній рейс скасували без попередження.
-    Back: They had their flight cancelled without notice.
+    Front: Їхній рейс скасували без попередження. [PastPerf]
+    Back: They had their flight cancelled without notice
     Audio: test-english_2d9014fcdbd3.mp3
   tags:
   - interview
@@ -500,34 +500,34 @@
 - id: 1785242210256
   fields:
     Front: Наш договір перевірить юрист.
-    Back: We'll have the contract reviewed by a solicitor.
+    Back: We'll have the contract reviewed by a solicitor
     Audio: test-english_0968757a0a1f.mp3
   tags:
   - interview
 - id: 1785242210281
   fields:
     Front: Вчора мені замінили екран телефону.
-    Back: I had my phone screen replaced yesterday.
+    Back: I had my phone screen replaced yesterday
     Audio: test-english_81377f6801bd.mp3
   tags:
   - interview
 - id: 1785242210306
   fields:
     Front: Вони перевіряють будівлю на предмет безпеки.
-    Back: They're having the building inspected for safety.
+    Back: They're having the building inspected for safety
     Audio: test-english_5df17e729cf7.mp3
   tags:
   - interview
 - id: 1785242210332
   fields:
     Front: У мене кілька зустрічей сьогодні вдень.
-    Back: I've got several appointments this afternoon.
+    Back: I've got several appointments this afternoon
     Audio: test-english_f6f2295e1a76.mp3
   tags:
   - interview
 - id: 1785242210356
   fields:
-    Front: У вас є якісь докази на підтримку цього?
+    Front: У вас є якісь докази на підтримку цього? [PrPerf]
     Back: Have you got any evidence to support that?
     Audio: test-english_7f2b5e2f2cdd.mp3
   tags:
@@ -535,7 +535,7 @@
 - id: 1785242210382
   fields:
     Front: У неї недостатньо досвіду для ролі.
-    Back: She hasn't got enough experience for the role.
+    Back: She hasn't got enough experience for the role
     Audio: test-english_8f86c2c1941f.mp3
   tags:
   - interview

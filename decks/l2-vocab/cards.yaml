@@ -195,7 +195,7 @@
 - id: 1772715543058
   fields:
     Front: Вчителі повинні використовувати різні методи для (підвищення ~нейтрально~) залученості учнів.
-    Back: Teachers should use different methods to increase student engagement.
+    Back: Teachers should use different methods to increase student engagement
     Audio: L2_0033-Teachers_should.mp3
   tags: []
 - id: 1772715543059
@@ -718,7 +718,7 @@
   fields:
     Front: Керівництво компанії <b>(розділяється ~в думках~)</b> <i>(пас.)</i> щодо (виділення|розподілу)
       ресурсів
-    Back: The management are divided over resource allocation.
+    Back: The management are divided over resource allocation
     Audio: L2_0113-The_management.mp3
   tags: []
 - id: 1774435692661
@@ -762,7 +762,7 @@
   fields:
     Front: Або цунамі, або (зроблена -людьми|техногенна) катастрофа може спричинити довготривалі екологічні
       наслідки
-    Back: Either a tsunami or a man-made disaster can cause long-term environmental consequences.
+    Back: Either a tsunami or a man-made disaster can cause long-term environmental consequences
     Audio: L2_0120-Either_a.mp3
   tags: []
 - id: 1774435692668
@@ -2442,23 +2442,23 @@
   - interview
 - id: 1786113475093
   fields:
-    Front: Діаграма містить інформацію про володіння мобільними телефонами в п’яти країнах у період з
-      2005 по 2020 рік.
+    Front: Діаграма наводить інформацію про володіння мобільними телефонами в п’яти країнах у період між
+      2005 та 2020 рік.
     Back: The chart provides information about mobile phone ownership in five countries between 2005 and
-      2020.
+      2020
     Audio: l2-vocab_94d9b95fbe58.mp3
   tags:
   - interview
 - id: 1786113475116
   fields:
-    Front: У таблиці наведено середні результати іспитів з математики та природничих наук у шести школах.
+    Front: Таблиця зображує середні результати іспитів з математики та природничих наук у шести школах.
     Back: The table depicts average exam scores in mathematics and science across six schools.
     Audio: l2-vocab_9cfcbb17dd9f.mp3
   tags:
   - interview
 - id: 1786113475140
   fields:
-    Front: У таблиці нижче наведено ціни на енергію для домогосподарств і підприємств у трьох країнах.
+    Front: Таблиця нижче розбиває ціни на енергоносії для домогосподарств і бізнесу у трьох країнах
     Back: The table below breaks down energy prices for households and businesses in three countries.
     Audio: l2-vocab_39549fb4dbf9.mp3
   tags:
@@ -2466,66 +2466,65 @@
 - id: 1786113475165
   fields:
     Front: Дані показують рівень переробки паперу, пластику та скла в чотирьох містах.
-    Back: The data shows recycling rates for paper, plastic and glass in four cities.
+    Back: The data shows recycling rates for paper, plastic and glass in four cities
     Audio: l2-vocab_8c05746c4b42.mp3
   tags:
   - interview
 - id: 1786113475203
   fields:
-    Front: У таблиці подано інформацію про дорожньо-транспортні пригоди, зафіксовані в трьох регіонах
-      за десятиліття.
-    Back: The table gives information about road traffic accidents recorded in three regions over a decade.
+    Front: Таблиця надає інформацію про дорожньо-транспортні пригоди, зафіксовані в трьох регіонах за
+      десятиліття.
+    Back: The table gives information about road traffic accidents recorded in three regions over a decade
     Audio: l2-vocab_1ca5808511d3.mp3
   tags:
   - interview
 - id: 1786113475219
   fields:
-    Front: У таблиці наведено підсумкові відвідування бібліотек за місяць у п’яти містах.
-    Back: The table summarises library visits per month in five towns.
+    Front: Таблиці підсумовує відвідування бібліотек за місяць у п’яти містах.
+    Back: The table summarises library visits per month in five towns
     Audio: l2-vocab_bc886dc7e632.mp3
   tags:
   - interview
 - id: 1786113475247
   fields:
-    Front: У таблиці порівнюються середні витрати в ресторані на домогосподарство в чотирьох країнах у
-      2019 і 2023 роках.
-    Back: The table compares average restaurant spending per household in four countries in 2019 and 2023.
+    Front: Таблиця порівнює середні витрати в ресторані на домогосподарство в чотирьох країнах у 2019
+      і 2023 роках.
+    Back: The table compares average restaurant spending per household in four countries in 2019 and 2023
     Audio: l2-vocab_6641c3e9757b.mp3
   tags:
   - interview
 - id: 1786113475269
   fields:
-    Front: У таблиці нижче показано кількість авіапасажирів, які подорожують через три основні аеропорти.
-    Back: The table below shows the number of air passengers travelling through three major airports.
+    Front: Таблиця нижче показує кількість авіапасажирів, які подорожують через три основні аеропорти.
+    Back: The table below shows the number of air passengers travelling through three major airports
     Audio: l2-vocab_5f78565c76e7.mp3
   tags:
   - interview
 - id: 1786113475295
   fields:
-    Front: У таблиці наведено дані про середню тривалість життя за статтю в п’яти країнах.
-    Back: The table provides data on average life expectancy by gender in five countries.
+    Front: Таблиця наводить дані про середню тривалість життя за статтю в п’яти країнах.
+    Back: The table provides data on average life expectancy by gender in five countries
     Audio: l2-vocab_ed2d4c9d1887.mp3
   tags:
   - interview
 - id: 1786113475318
   fields:
     Front: Таблиця ілюструє кількість студентів, які навчаються за кордоном з трьох країн.
-    Back: The table illustrates the number of students studying abroad from three countries.
+    Back: The table illustrates the number of students studying abroad from three countries
     Audio: l2-vocab_86c7bedbfd13.mp3
   tags:
   - interview
 - id: 1786113475343
   fields:
-    Front: У наведеній нижче діаграмі показано використання соціальних мереж за віковими групами у 2022
-      році.
-    Back: The chart below sets out social media usage by age group in 2022.
+    Front: Діаграма нижче відображає використання соціальних мереж за віковими групами у 2022 році
+    Back: The chart below sets out social media usage by age group in 2022
     Audio: l2-vocab_a0371f54e19f.mp3
   tags:
   - interview
 - id: 1786113475363
   fields:
-    Front: У таблиці наведено подробиці середнього часу поїздок у шести містах.
-    Back: The table gives details of average commute times in six cities.
+    Front: Таблиця наводить деталі про середній час поїздки на роботу у шести містах
+    Back: The table gives details of average commute times in six cities
     Audio: l2-vocab_d1b2b989e374.mp3
   tags:
   - interview
