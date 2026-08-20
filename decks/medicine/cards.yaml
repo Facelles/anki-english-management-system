@@ -733,7 +733,7 @@
 - id: 1786531405931
   fields:
     Front: Є деякий набряк навколо суглоба.
-    Back: There's some swelling around the joint.
+    Back: There's some swelling around the joint
     Audio: medicine_133cdcfa0831.mp3
   tags: []
 - id: 1786531405956
@@ -745,31 +745,31 @@
 - id: 1786531405981
   fields:
     Front: Я не можу навантажувати цю ногу.
-    Back: I can't put any weight on this foot.
+    Back: I can't put any weight on this foot
     Audio: medicine_dae125121516.mp3
   tags: []
 - id: 1786531406006
   fields:
-    Front: Здається, я вивихнув плече.
-    Back: I think I've dislocated my shoulder.
+    Front: (я думаю|Здається), я вивихнув плече.
+    Back: I think I've dislocated my shoulder
     Audio: medicine_287b1938e37f.mp3
   tags: []
 - id: 1786531406033
   fields:
     Front: Я порізав руку об скло.
-    Back: I cut my hand on a piece of glass.
+    Back: I cut my hand on a piece of glass
     Audio: medicine_36170ba82fd1.mp3
   tags: []
 - id: 1786531406056
   fields:
     Front: Кровотеча не зупиняється.
-    Back: The bleeding won't stop.
+    Back: The bleeding won't stop
     Audio: medicine_ca8c667b34e3.mp3
   tags: []
 - id: 1786531406081
   fields:
     Front: Цю рану потрібно очистити та перев’язати.
-    Back: This wound needs to be cleaned and dressed.
+    Back: This wound needs to be cleaned and dressed
     Audio: medicine_53be2915fe50.mp3
   tags: []
 - id: 1786531406106
@@ -781,7 +781,7 @@
 - id: 1786531406133
   fields:
     Front: Я обпік руку на печі.
-    Back: I burned my arm on the oven.
+    Back: I burned my arm on the oven
     Audio: medicine_8face7e47884.mp3
   tags: []
 - id: 1786531406156
@@ -793,7 +793,7 @@
 - id: 1786531406182
   fields:
     Front: Я вдарився головою і відчув запаморочення після цього.
-    Back: I bumped my head and felt dizzy afterwards.
+    Back: I bumped my head and felt dizzy afterwards
     Audio: medicine_5541429e4191.mp3
   tags: []
 - id: 1786531406206

@@ -171,15 +171,15 @@
 - id: 1784219804942
   fields:
     Front: Я також переніс старі модулі NestJS і Apollo на їх сучасні версії.
-    Back: I also migrated old NestJS and Apollo modules to their modern versions.
+    Back: I also migrated old NestJS and Apollo modules to their modern versions
     Audio: interview_4c4c5fcf72e4.mp3
     State: ''
   tags:
   - interview
 - id: 1784219804971
   fields:
-    Front: Наразі я веду значне фронтенд оновлення зі старої кодової бази React.
-    Back: Currently I'm leading a major frontend upgrade from an old React codebase.
+    Front: Наразі я веду значне фронтенд оновлення зі старої React кодової бази.
+    Back: Currently I'm leading a major frontend upgrade from an old React codebase
     Audio: interview_24c743bdf173.mp3
     State: ''
   tags:
@@ -765,16 +765,17 @@
   - interview
 - id: 1786791394370
   fields:
-    Front: Мікросервіси мають сенс, коли команда переростає єдиний моноліт, який можна розгортати.
-    Back: Microservices make sense once a team outgrows a single deployable monolith.
+    Front: Мікросервіси мають сенс, (як тільки / коли) команда переростає єдиний моноліт що деплоїться
+      як одне ціле
+    Back: Microservices make sense once a team outgrows a single deployable monolith
     Audio: interview_77bc44464ade.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394399
   fields:
-    Front: Занадто раннє розділення лише додає мережеві виклики, не вирішуючи реальної проблеми.
-    Back: Splitting too early just adds network calls without solving a real problem.
+    Front: Розбиття занадто рано лише додає мережеві виклики, без вирішення реальної проблеми.
+    Back: Splitting too early just adds network calls without solving a real problem
     Audio: interview_494ffb06fcef.mp3
     State: ''
   tags:
@@ -782,23 +783,24 @@
 - id: 1786791394421
   fields:
     Front: Я б розробив API навколо ресурсів, а не навколо внутрішніх деталей реалізації.
-    Back: I'd design the API around resources, not around internal implementation details.
+    Back: I'd design the API around resources, not around internal implementation details
     Audio: interview_1591752d9732.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394449
   fields:
-    Front: Обмеження швидкості захищає серверну частину як від зловмисників, так і від клієнтів із помилками.
-    Back: Rate limiting protects the backend from both bad actors and buggy clients.
+    Front: Обмеження частоти запитів захищає серверну частину як від зловмисників, так і від клієнтів
+      із помилками.
+    Back: Rate limiting protects the backend from both bad actors and buggy clients
     Audio: interview_dac1bc67cc60.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394474
   fields:
-    Front: Тут добре працює горизонтальне масштабування, оскільки служба не має стану.
-    Back: Horizontal scaling works well here because the service is stateless.
+    Front: горизонтальне масштабування працює&nbsp;добре&nbsp;тут, оскільки служба не має стану.
+    Back: Horizontal scaling works well here because the service is stateless
     Audio: interview_8cd1924f371d.mp3
     State: ''
   tags:
@@ -806,7 +808,7 @@
 - id: 1786791394498
   fields:
     Front: Я б додав автентифікацію на рівні шлюзу, а не всередині кожної служби.
-    Back: I'd add authentication at the gateway level, not inside every service.
+    Back: I'd add authentication at the gateway level, not inside every service
     Audio: interview_b6b00e60abaf.mp3
     State: ''
   tags:
@@ -814,15 +816,16 @@
 - id: 1786791394522
   fields:
     Front: Наш конвеєр виконує лінтування, модульні тести та збирання на кожному запиті на отримання.
-    Back: Our pipeline runs linting, unit tests, and a build on every pull request.
+    Back: Our pipeline runs linting, unit tests, and a build on every pull request
     Audio: interview_a995028753bd.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394548
   fields:
-    Front: Я пишу модульні тести для логіки та інтеграційні тести для того, як елементи працюють разом.
-    Back: I write unit tests for logic and integration tests for how pieces work together.
+    Front: Я пишу модульні тести для логіки та інтеграційні тести для того, як (шматки|елементи) працюють
+      разом.
+    Back: I write unit tests for logic and integration tests for how pieces work together
     Audio: interview_1e63293a51fc.mp3
     State: ''
   tags:

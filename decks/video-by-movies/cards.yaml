@@ -8910,49 +8910,49 @@
 - id: 1786753820313
   fields:
     VideoFilename: brassic_0004.webm
-    Front: You&#x27;ll just bugger your legs up.
+    Front: You'll just bugger your legs up
     Back: Ти собі просто ноги покалічиш.
   tags: []
 - id: 1786753820314
   fields:
     VideoFilename: brassic_0005.webm
-    Front: I&#x27;ll bear that in my mind, mate.
+    Front: I'll bear that in my mind, mate
     Back: Я це врахую, друже.
   tags: []
 - id: 1786753820315
   fields:
     VideoFilename: brassic_0006.webm
-    Front: That&#x27;s what you need.
+    Front: That's what you need
     Back: Ось що тобі потрібно.
   tags: []
 - id: 1786753820316
   fields:
     VideoFilename: brassic_0007.webm
-    Front: Or a fast-moving train.
+    Front: Or a fast-moving train
     Back: Або швидко рухомий потяг.
   tags: []
 - id: 1786753820317
   fields:
     VideoFilename: brassic_0008.webm
-    Front: They call us Blair&#x27;s forgotten youth.
+    Front: They call us Blair's forgotten youth
     Back: Нас називають забутими молодими людьми Блера.
   tags: []
 - id: 1786753820318
   fields:
     VideoFilename: brassic_0009.webm
-    Front: Kids that grow up in a town that offered nothing.
+    Front: Kids that grow up in a town that offered nothing
     Back: Діти, які виросли в місті, яке нічого не пропонувало.
   tags: []
 - id: 1786753820319
   fields:
     VideoFilename: brassic_0010.webm
-    Front: No opportunities, no prospects, no hope.
+    Front: No opportunities, no prospects, no hope
     Back: Немає можливостей, немає перспектив, немає надії.
   tags: []
 - id: 1786753820320
   fields:
     VideoFilename: brassic_0011.webm
-    Front: Tell me it&#x27;s not looking thinner.
+    Front: Tell me it's not looking thinner
     Back: Скажи мені, що воно не виглядає тоншим.
   tags: []
 - id: 1786753820321
@@ -8978,4 +8978,125 @@
     VideoFilename: brassic_0015.webm
     Front: Fuck the plumage! I cannot go bald.
     Back: Та насрати на пір'я! Я не можу облисіти.
+  tags: []
+- id: 1787182219102
+  fields:
+    VideoFilename: brassic_0016.webm
+    Front: They're gaining. They're not gaining. We'll lose 'em through Jim's field.
+    Back: Вони наздоганяють. Не наздоганяють. Ми відірвемось через поле Джима.
+  tags: []
+- id: 1787182219103
+  fields:
+    VideoFilename: brassic_0017.webm
+    Front: Morning, lads! Morning! Morning, Jim.
+    Back: Доброго ранку, хлопці! Доброго ранку! Доброго ранку, Джиме
+  tags: []
+- id: 1787182219104
+  fields:
+    VideoFilename: brassic_0018.webm
+    Front: If the cops turn up, you haven&#x27;t seen us. Lie to the police?
+    Back: Якщо з&#x27;являться копи, ви нас не бачили. Брехати поліції?
+  tags: []
+- id: 1787182219105
+  fields:
+    VideoFilename: brassic_0019.webm
+    Front: That&#x27;s perjury, that is.
+    Back: Це є лжесвідчення.
+  tags: []
+- id: 1787182219106
+  fields:
+    VideoFilename: brassic_0020.webm
+    Front: That&#x27;s perverting the course of justice.
+    Back: Це є перешкоджання правосуддю.
+  tags: []
+- id: 1787182219107
+  fields:
+    VideoFilename: brassic_0021.webm
+    Front: I don&#x27;t know what it is, but it&#x27;s something.
+    Back: Я не знаю, що це, але це щось.
+  tags: []
+- id: 1787182219108
+  fields:
+    VideoFilename: brassic_0022.webm
+    Front: Just piss off. We&#x27;re gonna go and have  a look at plants, keep our heads down.
+    Back: Просто відвалюй. Ми підемо подивимось на рослини, будемо тихенько сидіти
+  tags: []
+- id: 1787182219109
+  fields:
+    VideoFilename: brassic_0023.webm
+    Front: You scratch my back  and I&#x27;ll scratch yours.
+    Back: Ти почешеш мені спину, а я почешу твою.
+  tags: []
+- id: 1787182219110
+  fields:
+    VideoFilename: brassic_0024.webm
+    Front: Yeah, you might need to elaborate. And fast, yeah?
+    Back: Так, можливо, тобі потрібно буде пояснити. І швидко, так?
+  tags: []
+- id: 1787182219111
+  fields:
+    VideoFilename: brassic_0025.webm
+    Front: We haven&#x27;t got time for this, Jim.
+    Back: У нас немає часу на це, Джиме.
+  tags: []
+- id: 1787182219112
+  fields:
+    VideoFilename: brassic_0026.webm
+    Front: Get all your weed plants off my farm
+    Back: Забирай всю свою траву з моєї ферми
+  tags: []
+- id: 1787182219113
+  fields:
+    VideoFilename: brassic_0027.webm
+    Front: And your nicked wheels out of my chicken shed.
+    Back: і забирай свою вкрадену тачку з мого курника
+  tags: []
+- id: 1787182219114
+  fields:
+    VideoFilename: brassic_0028.webm
+    Front: I voted Leave, and that cunt&#x27;s just bought a nice big baler!
+    Back: Я голосував за Вихід (Brexit), а той мудак щойно купив собі здоровенний тюкувальник!
+  tags: []
+- id: 1787182219115
+  fields:
+    VideoFilename: brassic_0029.webm
+    Front: Christ almighty. Let&#x27;s get the fucking hell away. He&#x27;s a horrible, horrible little
+      man!
+    Back: Боже всемогутній. Тікаймо звідси на хрін. Він жахливий дрібний чоловічок!
+  tags: []
+- id: 1787182219116
+  fields:
+    VideoFilename: brassic_0030.webm
+    Front: These are my guys.
+    Back: Це мої хлопці.
+  tags: []
+- id: 1787182219117
+  fields:
+    VideoFilename: brassic_0031.webm
+    Front: That&#x27;s Dylan. He&#x27;s been my best mate since schooling.
+    Back: Це Ділан. Він мій найкращий друг ще зі школи.
+  tags: []
+- id: 1787182219118
+  fields:
+    VideoFilename: brassic_0032.webm
+    Front: We bonded over ganja and hip-hop.
+    Back: Ми зблизилися на ганджі та хіп-хопі.
+  tags: []
+- id: 1787182219119
+  fields:
+    VideoFilename: brassic_0033.webm
+    Front: Ashley Dennings, and Leslie Tick, AKA Cardi
+    Back: Ешлі Деннінгс, і Леслі Тік, відомий як Карді
+  tags: []
+- id: 1787182219120
+  fields:
+    VideoFilename: brassic_0034.webm
+    Front: Cardi being short for Cardiac Arrest.
+    Back: Карді — скорочено від &quot;Зупинка серця&quot; (Cardiac Arrest)
+  tags: []
+- id: 1787182219121
+  fields:
+    VideoFilename: brassic_0035.webm
+    Front: He&#x27;s fucking damn near useless, but we love the daft git.
+    Back: Він, курва, майже нікчемний, але ми любимо цього дурного бовдура
   tags: []
