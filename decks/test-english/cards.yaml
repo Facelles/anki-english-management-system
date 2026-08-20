@@ -243,628 +243,538 @@
     Front: Чи є у вас достатньо доказів на підтримку вашого твердження?
     Back: Do you have enough evidence to support your claim?
     Audio: test-english_f8bd8585215a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209333
   fields:
     Front: У неї вражаюча колекція вінтажних фотоапаратів.
     Back: She has an impressive collection of vintage cameras
     Audio: test-english_f260a8438152.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209356
   fields:
     Front: У мене&nbsp;<strong>нестерпний/страшенний головний біль</strong>&nbsp;після наради
     Back: I have a splitting headache after the meeting
     Audio: test-english_fbe3aa22ad0f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209382
   fields:
     Front: Чи є у них вакансії на даний момент?
     Back: Do they have any vacancies at the moment?
     Audio: test-english_608c9a0efdb5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209407
   fields:
     Front: Він не дуже довіряє пропозиції.
     Back: He doesn't have much confidence in the proposal
     Audio: test-english_2976a4908c44.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209434
   fields:
     Front: У неї надзвичайна увага до деталей.
     Back: She has remarkable attention to detail
     Audio: test-english_839c085c8827.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209457
   fields:
     Front: Чи є у вас брати і сестри, які живуть за кордоном?
     Back: Do you have any siblings living abroad?
     Audio: test-english_2e0b72d00a8b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209482
   fields:
     Front: Компанія має достатнє фінансування для проекту.
     Back: The company has sufficient funding for the project
     Audio: test-english_2ef15b3bb460.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209507
   fields:
     Front: У мене є серйозна підозра, що щось не так.
     Back: I have a strong suspicion something is wrong
     Audio: test-english_83e9f0a9e59e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209530
   fields:
     Front: Ви хоч найменше уявляєте, що сталося?
     Back: Do you have the slightest idea what happened?
     Audio: test-english_0e543c87f3b9.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209557
   fields:
     Front: Я зазвичай швидко снідаю перед роботою.
     Back: I usually have a quick breakfast before work
     Audio: test-english_05ea1d90a81e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209582
   fields:
     Front: Ми сьогодні вечеряємо з нашими сусідами.
     Back: We're having dinner with our neighbours tonight
     Audio: test-english_cc35a2f23b92.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209607
   fields:
     Front: У неї була захоплююча розмова з хірургом.
     Back: She had a fascinating conversation with the surgeon
     Audio: test-english_ad126a3f99ec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209631
   fields:
     Front: Чи виникали труднощі з відновленням паспорта?
     Back: Did you have any difficulty renewing your passport?
     Audio: test-english_ae05468c4c48.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209657
   fields:
     Front: Ми провели незабутню відпустку в Шотландії.
     Back: We had an unforgettable holiday in Scotland
     Audio: test-english_20e73dc17bb1.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209682
   fields:
     Front: Вони посперечалися через спадщину.
     Back: They had an argument over inheritance
     Audio: test-english_1c5cea6732eb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209724
   fields:
     Front: У мене проблеми з доступом до банківського рахунку. [PrCont]
     Back: I'm having trouble accessing my bank account
     Audio: test-english_aa55c2f457b7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209756
   fields:
     Front: Ми мємо надзвичайно теплу погоду цього тижня [PrCont]
     Back: We're having exceptionally warm weather this week
     Audio: test-english_f6f7a5a64d24.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209782
   fields:
     Front: Вона мала несподівану можливість виступити на заході.
     Back: She had an unexpected opportunity to speak at the event
     Audio: test-english_c55f5840d380.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209808
   fields:
     Front: Чи вдалося вам знайти квартиру?
     Back: Have you had much success finding a flat?
     Audio: test-english_6321c8754312.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209833
   fields:
     Front: Всі відвідувачі повинні зареєструватися на рецепції.
     Back: All visitors have to register at reception
     Audio: test-english_18c75b6acb7e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209857
   fields:
     Front: Вам доведеться надати додаткові документи.
     Back: You'll have to provide additional documents
     Audio: test-english_850f6cb14f7c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209881
   fields:
     Front: Нам обов'язково (бути присутніми) на брифінгу?
     Back: Do we have to attend the briefing?
     Audio: test-english_97c981c7dac8.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209907
   fields:
     Front: Мені не довелося пояснювати все двічі.
     Back: I didn't have to explain everything twice
     Audio: test-english_587ef3f7b4ba.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209932
   fields:
     Front: Вам не потрібно буде сплачувати судові витрати.
     Back: You won't have to pay any legal fees
     Audio: test-english_69cfbaa2805d.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209958
   fields:
     Front: Претенденти мають відповідати суворим вимогам.
     Back: Applicants have to meet strict requirements
     Audio: test-english_396d88c3e48b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209982
   fields:
     Front: Чи повинні працівники носити засоби захисту?
     Back: Do employees have to wear protective equipment?
     Audio: test-english_bea081f85ce3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210006
   fields:
     Front: Нам не потрібно приймати рішення сьогодні.
     Back: We don't have to make a decision today
     Audio: test-english_253b3cd22fc5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210032
   fields:
     Front: Пасажирам довелося залишитися в літаку.
     Back: Passengers had to remain on the aircraft
     Audio: test-english_5481a9224958.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210056
   fields:
     Front: Ви повинні будете виправдати свої витрати.
     Back: You'll have to justify your expenses
     Audio: test-english_a348956da683.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210082
   fields:
     Front: Я буду мати мій паспорт поновленим наступного тижня [PreCont]
     Back: I'm having my passport renewed next week
     Audio: test-english_cff8011d6d06.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210105
   fields:
     Front: Вчора вона відремонтувала свій ноутбук.
     Back: She had her laptop repaired yesterday
     Audio: test-english_06e700f854c6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210131
   fields:
     Front: Ми перевірили дах перед купівлею будинку [PastPerf]
     Back: We had the roof inspected before buying the house
     Audio: test-english_c9572a1df9a6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210157
   fields:
     Front: В нього вкрали гаманець У метро [PastPerf pass]
     Back: He had his wallet stolen on the Underground
     Audio: test-english_9c06124360fe.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210181
   fields:
     Front: Їхній рейс скасували без попередження. [PastPerf]
     Back: They had their flight cancelled without notice
     Audio: test-english_2d9014fcdbd3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210207
   fields:
     Front: Цього місяця вона робить ремонт на кухні.
     Back: She's having her kitchen renovated this month.
     Audio: test-english_3e8f601e71b0.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210230
   fields:
     Front: Ви нещодавно перевіряли зір?
     Back: Have you had your eyes tested recently?
     Audio: test-english_4a0b258d3419.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210256
   fields:
     Front: Наш договір перевірить юрист.
     Back: We'll have the contract reviewed by a solicitor
     Audio: test-english_0968757a0a1f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210281
   fields:
     Front: Вчора мені замінили екран телефону.
     Back: I had my phone screen replaced yesterday
     Audio: test-english_81377f6801bd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210306
   fields:
     Front: Вони перевіряють будівлю на предмет безпеки.
     Back: They're having the building inspected for safety
     Audio: test-english_5df17e729cf7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210332
   fields:
     Front: У мене кілька зустрічей сьогодні вдень.
     Back: I've got several appointments this afternoon
     Audio: test-english_f6f2295e1a76.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210356
   fields:
     Front: У вас є якісь докази на підтримку цього? [PrPerf]
     Back: Have you got any evidence to support that?
     Audio: test-english_7f2b5e2f2cdd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210382
   fields:
     Front: У неї недостатньо досвіду для ролі.
     Back: She hasn't got enough experience for the role
     Audio: test-english_8f86c2c1941f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210406
   fields:
     Front: У нас є багато часу до посадки.
     Back: We've got plenty of time before boarding.
     Audio: test-english_ebb608a8efec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210432
   fields:
     Front: Чи отримали вони дозвіл на доступ до сайту?
     Back: Have they got permission to enter the site?
     Audio: test-english_4ead39179b32.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210457
   fields:
     Front: Я поняття не маю, що він мав на увазі.
     Back: I haven't got a clue what he meant.
     Audio: test-english_66d0777930d7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210482
   fields:
     Front: У неї чудова репутація.
     Back: She's got an excellent reputation.
     Audio: test-english_8fcd00c10109.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210507
   fields:
     Front: У нас немає причин хвилюватися.
     Back: We've got no reason to worry.
     Audio: test-english_34abedccaa30.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210530
   fields:
     Front: Ваш брат має водійські права?
     Back: Has your brother got a driving licence?
     Audio: test-english_65da41dcd7cd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210555
   fields:
     Front: У них є три собаки-рятувальники.
     Back: They've got three rescue dogs.
     Audio: test-english_b11ca669cf8c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210582
   fields:
     Front: Я маю подати звіт до обіду.
     Back: I've got to submit the report by noon.
     Audio: test-english_f328feb91017.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210607
   fields:
     Front: Ми повинні встигнути на останній поїзд.
     Back: We've got to catch the last train.
     Audio: test-english_f4545f52d7e5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210631
   fields:
     Front: Завтра вона має бути на суді.
     Back: She's got to attend court tomorrow.
     Audio: test-english_23067b08f1d4.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210657
   fields:
     Front: Ви, мабуть, жартуєте.
     Back: You've got to be joking.
     Audio: test-english_a47488e923cb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210682
   fields:
     Front: Я маю повернути ці книги сьогодні.
     Back: I've got to return these books today.
     Audio: test-english_aefb96367d0c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210707
   fields:
     Front: Ми повинні вирішити це до п’ятниці.
     Back: We've got to resolve this before Friday.
     Audio: test-english_37427a818290.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210732
   fields:
     Front: Він має поговорити з інспектором.
     Back: He's got to speak with the inspector.
     Audio: test-english_251ef8cbbf5a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210757
   fields:
     Front: Вони мають виїхати до наступного місяця.
     Back: They've got to move out by next month.
     Audio: test-english_867c07c4460b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210782
   fields:
     Front: Я маю відповісти до закінчення терміну.
     Back: I've got to reply before the deadline.
     Audio: test-english_03821daff77f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210806
   fields:
     Front: Ви маєте подивитись цей документальний фільм.
     Back: You've got to see this documentary.
     Audio: test-english_217128872dcd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210832
   fields:
     Front: Я працюю тут майже вісім років.
     Back: I've worked here for nearly eight years.
     Audio: test-english_59b5897286ff.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210857
   fields:
     Front: Вона весь день веде переговори.
     Back: She's been negotiating all afternoon.
     Audio: test-english_c56d39cb6d76.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210882
   fields:
     Front: Вони вже домовилися.
     Back: They've already reached an agreement.
     Audio: test-english_70cc6694e200.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210907
   fields:
     Front: Ви коли-небудь були свідком судового процесу?
     Back: Have you ever witnessed a trial?
     Audio: test-english_876e15b07c9b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210932
   fields:
     Front: Він не усвідомлював наслідків.
     Back: He hadn't realised the consequences.
     Audio: test-english_d185e491f38c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210957
   fields:
     Front: Вона чекала більше години.
     Back: She had been waiting for over an hour.
     Audio: test-english_50b9a1d564d3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210982
   fields:
     Front: До п’ятниці ми завершимо аудит.
     Back: We'll have completed the audit by Friday.
     Audio: test-english_7a4635ba95c7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211007
   fields:
     Front: До червня я проживу тут п'ять років.
     Back: By June, I'll have lived here for five years.
     Audio: test-english_528c1f2b0801.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211032
   fields:
     Front: Вона буде викладати двадцять років.
     Back: She'll have been teaching for twenty years.
     Audio: test-english_f6498027f1dc.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211057
   fields:
     Front: Скоро вони закінчать розслідування.
     Back: They'll have finished the investigation soon.
     Audio: test-english_3021e1fc6490.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211080
   fields:
     Front: Я радий, що приєднався до команди.
     Back: I'm delighted to have joined the team.
     Audio: test-english_e84ca65450e6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211110
   fields:
     Front: Здається, він неправильно зрозумів інструкцію.
     Back: He seems to have misunderstood the instructions.
     Audio: test-english_ebbd52602b0f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211135
   fields:
     Front: Вона стверджувала, що бачила підозрюваного.
     Back: She claimed to have seen the suspect.
     Audio: test-english_b84b3d665699.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211158
   fields:
     Front: Їм пощастило уникнути аварії.
     Back: They were fortunate to have avoided an accident.
     Audio: test-english_987a702fc9cb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211182
   fields:
     Front: Я відчув полегшення, коли завершив роботу над документами.
     Back: I'm relieved to have finished the paperwork.
     Audio: test-english_884558ec739f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211207
   fields:
     Front: Він зробив вигляд, що забув моє ім’я.
     Back: He pretended to have forgotten my name.
     Audio: test-english_b48f484b9f10.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211234
   fields:
     Front: Здається, вона повністю видужала.
     Back: She appears to have recovered completely.
     Audio: test-english_9a7435beb0ee.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211260
   fields:
     Front: Нам пощастило, що ми знайшли таке місце.
     Back: We're lucky to have found such a place.
     Audio: test-english_8fa33df0d160.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211281
   fields:
     Front: Він був розчарований тим, що пропустив термін.
     Back: He was disappointed to have missed the deadline.
     Audio: test-english_6196d1829ce2.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211307
   fields:
     Front: Вона пишалася тим, що представляла свою країну.
     Back: She was proud to have represented her country.
     Audio: test-english_198f93655c39.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211331
   fields:
     Front: Мабуть, вона пропустила електронний лист.
     Back: She must have overlooked the email.
     Audio: test-english_f659e51369d9.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211356
   fields:
     Front: Він не міг забути зустріч.
     Back: He can't have forgotten the meeting.
     Audio: test-english_937d31f979cd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211382
   fields:
     Front: Можливо, вони сіли не на той поїзд.
     Back: They may have taken the wrong train.
     Audio: test-english_172377d3270a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211407
   fields:
     Front: Ви повинні були перевірити цифри.
     Back: You should have checked the figures.
     Audio: test-english_89e2910841e0.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211432
   fields:
     Front: Можливо, свідок неправильно зрозумів запитання.
     Back: The witness might have misunderstood the question.
     Audio: test-english_ad93cebda076.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211456
   fields:
     Front: Вона могла уникнути помилки.
     Back: She could have avoided the mistake.
     Audio: test-english_457acbc01ea4.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211482
   fields:
     Front: Мабуть, він упізнав твій голос.
     Back: He must have recognised your voice.
     Audio: test-english_2514e03d6650.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211508
   fields:
     Front: Вони не могли вже дійти до Лондона.
     Back: They can't have reached London already.
     Audio: test-english_1120cf613bee.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211530
   fields:
     Front: Можливо, я залишив ключі на роботі.
     Back: I may have left my keys at work.
     Audio: test-english_cb53bd27b8ec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211557
   fields:
     Front: Мабуть, хтось повідомив про інцидент.
     Back: Someone must have reported the incident.
     Audio: test-english_d8e8e37be452.mp3
-  tags:
-  - interview
+  tags: []

@@ -24,7 +24,7 @@ All scripts live in `scripts/`, require `.venv` activated, use `requests` + `yam
 | `sync.py`                     | pushes YAML → Anki: add/update notes, upload media, write back new ids                                                                  |
 | `sync_back.py`                | pulls changes from Anki back into YAML (reverse sync)                                                                                    |
 | `generate_audio.py`           | generates MP3 audio for cards via ElevenLabs TTS (interactive session)                                                                   |
-| `import_backlog.py`           | imports new lines from a deck's`backlog.md` into `cards.yaml` with an auto-translated `Front` (interactive session)                |
+| `import_backlog.py`           | imports new lines from a deck's`backlog.md` into `cards.yaml` with an auto-translated `Front` (interactive, or `--auto`)                |
 | `generate_handwriting_pdf.py` | generates a printable PDF of today's due cards (`Back` field) in a dotted handwriting-practice font (`kg_primary_dots/`) for tracing |
 
 Bootstrap scripts are **idempotent** — safe to re-run.
@@ -95,13 +95,14 @@ Video decks (`video-by-movies`) are automatically rejected — they use `VideoFi
 
 ### import_backlog.py
 
-Picks up lines from `decks/<deck>/backlog.md` (plain text, one English sentence per line) that aren't cards yet, proposes a Ukrainian translation (Google Translate via `deep-translator`), and on confirmation appends a new card to `cards.yaml` immediately — `Back` = the English line, `Front` = the translation, `Audio`/`State` left empty. Dedup is by exact match against existing `Back` values, so `backlog.md` can just keep growing and re-running the script only processes what's new. Does not require Anki or any API key.
+Picks up lines from `decks/<deck>/backlog.md` (plain text, one English sentence per line) that aren't cards yet, proposes a Ukrainian translation (Google Translate via `deep-translator`), and on confirmation appends a new card to `cards.yaml` immediately — `Back` = the English line, `Front` = the translation, `Audio`/`State` left empty. Dedup is by exact match against existing `Back` values, so `backlog.md` can just keep growing and re-running the script only processes what's new. Does not require Anki or any API key. A translation attempt is retried automatically a few times before being treated as failed (the Google Translate backend occasionally returns nothing) — lines that still fail are skipped and reported at the end, and just get picked up again on the next run.
 
 ```
 python scripts/import_backlog.py --deck interview
+python scripts/import_backlog.py --deck interview --auto   # accept every translation automatically, no per-line approval
 ```
 
-**Interactive keys:**
+**Interactive keys (ignored in `--auto` mode):**
 
 | key   | action                                                |
 | ----- | ----------------------------------------------------- |

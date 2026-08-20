@@ -955,3 +955,1040 @@
     State: ''
   tags:
   - interview
+- fields:
+    Front: Дозвольте мені розповісти вам, як я думаю про принципи SOLID у повсякденному коді.
+    Back: Let me walk you through how I think about SOLID principles in day-to-day code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: SOLID — це не те, що я вибираю зі списку — це скоріше набір звичок, які дозволяють легко змінити
+      код пізніше.
+    Back: SOLID isn't something I check off a list - it's more a set of habits that keep code easy to
+      change later.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Єдина відповідальність означає, що клас повинен мати лише одну причину для змін.
+    Back: Single responsibility means a class should only have one reason to change.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Якщо я знаходжу клас, який обробляє і бізнес-логіку, і форматування, це зазвичай свідчить про
+      те, що він робить занадто багато.
+    Back: If I find a class handling both business logic and formatting, that's usually a sign it's doing
+      too much.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: 'Я поділив такий клас на два: один обчислює дані, інший представляє їх.'
+    Back: I split that kind of class into two - one that calculates the data, one that presents it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Перевага полягає в тому, що зміна форматування не загрожує порушенням логіки обчислень і навпаки.
+    Back: The benefit is that a change in formatting doesn't risk breaking the calculation logic and vice
+      versa.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Поширена помилка полягає в тому, що надто агресивно розподіляються речі, що закінчується класами,
+      які майже нічого не роблять самостійно.
+    Back: A common mistake is splitting things too aggressively and ending up with classes that barely
+      do anything on their own.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Принцип «відкрито-закрито» означає, що ви повинні мати можливість розширити поведінку, не змінюючи
+      існуючий код.
+    Back: Open-closed principle means you should be able to extend behavior without modifying existing
+      code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Зазвичай я досягаю цього за допомогою інтерфейсів або композиції замість редагування класу,
+      який уже працює.
+    Back: I usually achieve that with interfaces or composition instead of editing a class that already
+      works.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Замість того, щоб додавати інший оператор if для нового типу платежу, я додаю новий клас, який
+      реалізує той самий інтерфейс.
+    Back: Instead of adding another if statement for a new payment type, I add a new class that implements
+      the same interface.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Таким чином існуюча логіка платежів залишається недоторканою та перевіреною, і лише новий клас
+      потребує перегляду.
+    Back: That way the existing payment logic stays untouched and tested, and only the new class needs
+      review.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Ризик полягає в надмірному проектуванні наперед – я додаю цю гнучкість лише тоді, коли бачу
+      другу справу.
+    Back: The risk is over-engineering it upfront - I only add that flexibility once I actually see a
+      second case coming.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Заміна Liskov означає, що підклас має бути придатним для використання скрізь, де очікується
+      базовий клас, без несподіваної поведінки.
+    Back: Liskov substitution means a subclass should be usable wherever the base class is expected, without
+      surprising behavior.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я бачив помилки, коли підклас тихо змінював те, що повертає метод, що порушувало роботу кожного
+      абонента, який покладався на оригінальний контракт.
+    Back: I've seen bugs where a subclass quietly changed what a method returned, which broke every caller
+      that relied on the original contract.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Класичний приклад — квадрат, успадкований від прямокутника — зміна розміру однієї сторони порушує
+      припущення про незалежність ширини та висоти.
+    Back: A classic example is a square inheriting from a rectangle - resizing one side breaks the assumption
+      that width and height are independent.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Коли я ловлю себе на тому, що пишу додаткові перевірки типу для одного конкретного підкласу,
+      це зазвичай означає, що ієрархія порушує цей принцип.
+    Back: When I catch myself writing extra type checks for one specific subclass, that's usually a sign
+      the hierarchy violates this principle.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Відокремлення інтерфейсу означає, що клієнти не повинні бути змушені залежати від методів,
+      які вони насправді не використовують.
+    Back: Interface segregation means clients shouldn't be forced to depend on methods they don't actually
+      use.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я віддаю перевагу кільком маленьким цілеспрямованим інтерфейсам над одним великим інтерфейсом,
+      який намагається охопити кожен варіант використання.
+    Back: I prefer several small, focused interfaces over one large interface that tries to cover every
+      use case.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Інтерфейс принтера з методами сканування та факсу змушує простий клас принтера реалізувати
+      речі, які він не підтримує.
+    Back: A printer interface with scan and fax methods forces a simple printer class to implement things
+      it doesn't support.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Поділ його на окремі інтерфейси означає, що кожна реалізація повинна задовольняти лише те,
+      що вона насправді робить.
+    Back: Splitting it into separate interfaces means each implementation only needs to satisfy what it
+      actually does.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Інверсія залежностей означає, що модулі високого рівня не повинні залежати безпосередньо від
+      деталей реалізації низького рівня.
+    Back: Dependency inversion means high-level modules shouldn't depend directly on low-level implementation
+      details.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Обидві сторони повинні залежати від абстракції, тому конкретна реалізація може змінюватися,
+      не торкаючись бізнес-логіки.
+    Back: Both sides should depend on an abstraction, so the concrete implementation can change without
+      touching the business logic.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: На практиці я вставляю залежності через конструктор замість того, щоб створювати їх у класі.
+    Back: In practice, I inject dependencies through the constructor instead of instantiating them inside
+      the class.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Це дозволяє легко замінити реальну базу даних на макет у тестах, не змінюючи робочий код.
+    Back: That makes it easy to swap a real database for a mock in tests without changing any production
+      code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: DRY — це уникнення дублювання знань, а не просто уникнення повторюваних рядків коду.
+    Back: DRY is about avoiding duplicated knowledge, not just avoiding duplicated lines of code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Два фрагменти коду можуть виглядати ідентичними сьогодні, але все одно представляють абсолютно
+      різні бізнес-правила, які випадково збігаються.
+    Back: Two pieces of code can look identical today and still represent completely different business
+      rules that happen to coincide.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Якщо я об’єднаю їх занадто рано, майбутня зміна одного правила випадково порушить інше.
+    Back: If I merge those too early, a future change to one rule accidentally breaks the other.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Іноді невелике дублювання справді краще, ніж нав’язування неправильної абстракції двом речам,
+      які лише виглядають схожими.
+    Back: Sometimes a little duplication is genuinely better than forcing the wrong abstraction onto two
+      things that only look similar.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Зазвичай я чекаю, доки побачу ту саму логіку втретє, перш ніж видобути її в спільну функцію.
+    Back: I usually wait until I see the same logic a third time before I extract it into a shared function.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: KISS означає вибір найпростішого рішення, яке фактично вирішить проблему, яка стоїть перед
+      вами.
+    Back: KISS means choosing the simplest solution that actually solves the problem in front of you.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я бачив прості функції CRUD, створені за допомогою рівнів абстракції, які потрібні лише для
+      набагато складніших систем.
+    Back: I've seen simple CRUD features built with layers of abstraction that were only needed for far
+      more complex systems.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Складність, яка не окупається, просто сповільнює кожну майбутню зміну цього коду.
+    Back: Complexity that isn't paying for itself just slows down every future change to that code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: YAGNI нагадує мені не створювати гнучкості для вимог, яких ще немає.
+    Back: YAGNI reminds me not to build flexibility for requirements that don't exist yet.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Спокусливо додати параметри конфігурації про всяк випадок, але кожен із них додає шлях, який
+      потребує постійного тестування та підтримки.
+    Back: It's tempting to add configuration options just in case, but each one adds a path that needs
+      testing and maintaining forever.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я б краще відправив просту версію зараз і рефакторинг пізніше, якщо з’явиться другий реальний
+      варіант використання.
+    Back: I'd rather ship the simple version now and refactor later if a second real use case actually
+      shows up.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я вважаю, що шаблони проектування — це інструменти, а не цілі — я берусь за один лише тоді,
+      коли він справді відповідає проблемі.
+    Back: I think design patterns are tools, not goals - I only reach for one when it actually fits the
+      problem.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Назва шаблону, який ви використовуєте, також пришвидшує перевірку коду, оскільки рецензент
+      одразу розпізнає форму рішення.
+    Back: Naming the pattern you're using also makes code reviews faster, because the reviewer immediately
+      recognizes the shape of the solution.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Надмірне використання шаблонів може ускладнити проблему, яку вони повинні вирішити.
+    Back: Overusing patterns can add more complexity than the problem they're supposed to solve.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я використовую фабричний шаблон, коли логіка створення об’єкта стає надто складною, щоб просто
+      викликати конструктор безпосередньо.
+    Back: I use the factory pattern when object creation logic gets too complex to just call a constructor
+      directly.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Якщо створення об’єкта залежить від конфігурації або типу введення, фабрична функція зберігає
+      цю логіку в одному місці.
+    Back: If creating an object depends on configuration or the type of input, a factory function keeps
+      that logic in one place.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Це також означає, що абонентам не потрібно знати, який конкретний клас вони отримують.
+    Back: It also means callers don't need to know which concrete class they're getting back.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Патерн стратегії дозволяє мені замінити алгоритм під час виконання, не змінюючи код, який його
+      викликає.
+    Back: The strategy pattern lets me swap out an algorithm at runtime without changing the code that
+      calls it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Хорошим прикладом є вибір між різними стратегіями ціноутворення на основі налаштування замість
+      довгого ланцюжка операторів if.
+    Back: A good example is choosing between different pricing strategies based on a setting, instead
+      of a long chain of if statements.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Кожна стратегія стає власним невеликим класом, який легко перевірити окремо.
+    Back: Each strategy becomes its own small class, which is easy to test in isolation.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я використовую шаблон спостерігача, коли кілька частин програми повинні реагувати на ту саму
+      подію.
+    Back: I reach for the observer pattern when multiple parts of the app need to react to the same event.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Типовим випадком є ​​компонент інтерфейсу користувача, який потрібно оновлювати щоразу, коли
+      якийсь спільний стан змінюється в іншому місці програми.
+    Back: A typical case is a UI component that needs to update whenever some shared state changes elsewhere
+      in the app.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Він тримає те, що змінюється, відокремленим від речей, які реагують на зміни.
+    Back: It keeps the thing that changes decoupled from the things that react to the change.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Шаблон декоратора корисний, коли мені потрібно додати поведінку до об’єкта, не змінюючи його
+      початковий клас.
+    Back: The decorator pattern is useful when I need to add behavior to an object without changing its
+      original class.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Наприклад, обернути API-клієнт журналюванням або кешуванням, не торкаючись початкової логіки
+      запиту.
+    Back: For example, wrapping an API client with logging or caching without touching the original request
+      logic.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Це також дозволяє мені поєднувати декілька з цих обгорток разом у різних комбінаціях залежно
+      від того, що потрібно.
+    Back: It also lets me combine several of these wrappers together in different combinations depending
+      on what's needed.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Шаблон адаптера допомагає, коли мені потрібно змусити несумісний інтерфейс працювати з існуючим
+      кодом.
+    Back: The adapter pattern helps when I need to make an incompatible interface work with existing code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Нещодавно я використовував його для обгортання сторонньої бібліотеки, щоб решта програми могла
+      спілкуватися з нашим власним інтерфейсом.
+    Back: I used it recently to wrap a third-party library so the rest of the app could keep talking to
+      our own interface.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Таким чином, якщо ми колись замінимо сторонню бібліотеку, потрібно буде змінити лише адаптер.
+    Back: That way, if we ever replace the third-party library, only the adapter needs to change.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: У більшості випадків я уникаю синглтонів, оскільки вони створюють прихований спільний стан
+      і ускладнюють тестування.
+    Back: I avoid singletons in most cases because they introduce hidden shared state and make testing
+      harder.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Як тільки щось є одиночним, його важко знущатися або скидати між тестами без витоку стану через
+      них.
+    Back: Once something is a singleton, it's difficult to mock or reset between tests without leaking
+      state across them.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Якщо мені справді потрібен єдиний спільний екземпляр, я краще передам його явно, ніж покладаюся
+      на глобальний доступ.
+    Back: If I genuinely need a single shared instance, I'd rather pass it in explicitly than rely on
+      global access.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Впровадження залежностей — це те, як я відокремлюю бізнес-логіку від проблем інфраструктури,
+      таких як бази даних або зовнішні API.
+    Back: Dependency injection is how I keep business logic separate from infrastructure concerns like
+      databases or external APIs.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Замість того, щоб клас створював власні залежності, вони передаються ззовні, зазвичай через
+      конструктор.
+    Back: Instead of a class creating its own dependencies, they're passed in from the outside, usually
+      through the constructor.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Це полегшує тестування класу, тому що я можу передати підроблену реалізацію замість справжньої.
+    Back: That makes the class easier to test, because I can pass in a fake implementation instead of
+      the real one.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Коли я переглядаю код, я шукаю повторювану логіку, яка може стати спільною функцією, але я
+      не нав’язую її передчасно.
+    Back: When I review code, I look for repeated logic that could become a shared function, but I don't
+      force it prematurely.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Хороші абстракції походять від реального повторення, яке я насправді бачив, а не від припущень,
+      що може повторитися в майбутньому.
+    Back: Good abstractions come from real repetition I've actually seen, not from guessing what might
+      repeat in the future.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я намагаюся віддавати перевагу композиції над успадкуванням, тому що легше змінити поведінку,
+      змінивши залежність, ніж переписавши ієрархію класів.
+    Back: I try to favor composition over inheritance, because it's easier to change behavior by swapping
+      a dependency than by rewriting a class hierarchy.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Тісно пов’язану кодову базу важче протестувати, важче змінити та важче міркувати, навіть якщо
+      кожен окремий клас виглядає добре.
+    Back: A tightly coupled codebase is harder to test, harder to change, and harder to reason about,
+      even if each individual class looks fine.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Зрештою, усі ці принципи існують, щоб здешевити майбутні зміни, а не задовольнити якесь абстрактне
+      правило.
+    Back: At the end of the day, all of these principles exist to make future changes cheaper, not to
+      satisfy some abstract rule.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Інше питання, яке мені часто задають, це різниця між імперативним і декларативним кодом.
+    Back: Another question I get asked a lot is the difference between imperative and declarative code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Імперативний код вказує комп’ютеру, як саме щось робити, крок за кроком.
+    Back: Imperative code tells the computer exactly how to do something, step by step.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Класичним імперативним прикладом є цикл for, який вручну перевіряє кожен елемент і поміщає
+      відповідні елементи в новий масив.
+    Back: A for loop that manually checks each item and pushes the matching ones into a new array is a
+      classic imperative example.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Декларативний код описує, який результат ви хочете, і дозволяє базовій системі визначити, як
+      його отримати.
+    Back: Declarative code describes what result you want and lets the underlying system figure out how
+      to get there.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Виклик методу фільтра масиву замість написання цього циклу вручну є декларативним еквівалентом
+      того самого завдання.
+    Back: Calling the array's filter method instead of writing that loop by hand is the declarative equivalent
+      of the same task.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Вручну створювати вузли DOM за допомогою document.createElement і оновлювати їх вручну є обов’язковим
+      способом створення інтерфейсу користувача.
+    Back: Manually creating DOM nodes with document.createElement and updating them by hand is an imperative
+      way of building a UI.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Написання JSX, який описує, як має виглядати інтерфейс користувача для даного стану, є декларативним
+      способом створення того самого інтерфейсу користувача.
+    Back: Writing JSX that describes what the UI should look like for a given state is a declarative way
+      of building the same UI.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: React сам по собі є декларативним — ви описуєте потрібний UI, а React розробляє, як оновити
+      фактичний DOM.
+    Back: React itself is declarative - you describe the UI you want, and React works out how to update
+      the actual DOM.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: SQL також є декларативним — ви описуєте, які дані вам потрібні, а не точні кроки, які база
+      даних має виконати, щоб отримати їх.
+    Back: SQL is declarative too - you describe what data you want, not the exact steps the database should
+      take to fetch it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Запити GraphQL є декларативними таким же чином - клієнт описує форму даних, які йому потрібні,
+      а не те, як їх отримати.
+    Back: GraphQL queries are declarative in the same way - the client describes the shape of the data
+      it needs, not how to retrieve it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Інфраструктура як інструмент коду, як-от Terraform, є декларативною — ви описуєте бажаний кінцевий
+      стан, а не команди для його досягнення.
+    Back: Infrastructure as code tools like Terraform are declarative - you describe the desired end state,
+      not the commands to reach it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Декларативний код, як правило, легше читати, оскільки він приховує як і показує лише те, що.
+    Back: Declarative code tends to be easier to read, because it hides the how and only shows the what.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Компроміс полягає в тому, що декларативний код може бути складніше налагодити, оскільки ви
+      не контролюєте точні кроки, які виконуються під ним.
+    Back: The trade-off is that declarative code can be harder to debug, since you don't control the exact
+      steps being executed underneath.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Імперативний код дає вам більше контролю, що важливо, коли вам справді потрібно щось оптимізувати
+      вручну.
+    Back: Imperative code gives you more control, which matters when you actually need to optimize something
+      by hand.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: На практиці я змішую обидва - бізнес-логіка має тенденцію залишатися імперативною, тоді як
+      рендеринг інтерфейсу користувача та перетворення даних зазвичай є декларативними.
+    Back: In practice I mix both - business logic tends to stay imperative, while UI rendering and data
+      transforms are usually declarative.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Методи масиву, такі як map, filter і reduce, дозволяють мені писати декларативні перетворення
+      замість ручних циклів із змінними індексу.
+    Back: Array methods like map, filter, and reduce let me write declarative transformations instead
+      of manual loops with index variables.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Навіть у декларативному конвеєрі мені все одно потрібно розуміти, що відбувається під ним,
+      коли щось йде не так.
+    Back: Even in a declarative pipeline, I still need to understand what's happening underneath it when
+      something goes wrong.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: За замовчуванням я використовую декларативний стиль, коли можу, тому що товаришам по команді
+      зазвичай легше читати та міркувати пізніше.
+    Back: I default to declarative style whenever I can, because it's usually easier for teammates to
+      read and reason about later.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Детерміновані та недетерміновані — ще одна відмінність, яка виникає, особливо навколо тестування.
+    Back: Deterministic and non-deterministic is another distinction that comes up, especially around
+      testing.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Детермінований означає, що, маючи однакові вхідні дані, код завжди видає точно той самий вихід.
+    Back: Deterministic means that given the same input, the code always produces exactly the same output.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Чиста функція, яка просто додає два числа, є детермінованою – поза нею немає нічого, що може
+      змінити результат.
+    Back: A pure function that just adds two numbers together is deterministic - there's nothing outside
+      it that can change the result.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Недетермінований означає, що один і той самий вхід може давати різні результати, оскільки щось
+      поза функцією впливає на результат.
+    Back: Non-deterministic means the same input can produce different outputs, because something outside
+      the function affects the result.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Виклик Math.random або читання поточної дати робить функцію недетермінованою, оскільки результат
+      залежить від того, коли та як вона виконується.
+    Back: Calling Math.random or reading the current date makes a function non-deterministic, since the
+      result depends on when or how it runs.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Мережевий виклик також не є детермінованим – відповідь може змінюватися, надходити із запізненням
+      або повністю виходити з ладу навіть із абсолютно однаковим запитом.
+    Back: A network call is non-deterministic too - the response can vary, arrive late, or fail entirely,
+      even with the exact same request.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Детермінований код набагато легше тестувати, тому що я можу стверджувати про один очікуваний
+      результат, не турбуючись про граничні випадки.
+    Back: Deterministic code is much easier to test, because I can assert on one expected result without
+      worrying about edge cases.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Недетермінований код важче тестувати, тому я зазвичай висміюю джерело випадковості або час,
+      щоб зробити тест передбачуваним.
+    Back: Non-deterministic code is harder to test, so I usually mock the source of randomness or time
+      to make the test predictable.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Умови перегонів є поширеним джерелом недетермінізму, оскільки порядок, у якому все закінчується,
+      не гарантований.
+    Back: Race conditions are a common source of non-determinism, since the order in which things finish
+      isn't guaranteed.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Запит до бази даних без явного порядку може повертати рядки в іншій послідовності щоразу під
+      час виконання.
+    Back: A database query without an explicit order can return rows in a different sequence each time
+      it runs.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я намагаюся підтримувати основну бізнес-логіку детермінованою та висуваю такі речі, як випадковість
+      або поточний час очікування, на межі системи.
+    Back: I try to keep the core business logic deterministic and push things like randomness or the current
+      time out to the edges of the system.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: У розподілених системах мережеві затримки та повторні спроби створюють недетермінованість,
+      яку я повинен проектувати навколо, а не повністю уникати.
+    Back: In distributed systems, network delays and retries introduce non-determinism that I have to
+      design around rather than avoid entirely.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Нестабільний тест, який не вдається лише іноді, зазвичай є ознакою того, що певна недетермінована
+      поведінка не була належним чином виділена.
+    Back: A flaky test that fails only sometimes is usually a sign that some non-deterministic behavior
+      wasn't properly isolated.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Коли мені потрібні відтворювані результати в тестах, я запускаю генератор випадкових чисел
+      або заморожую годинник замість того, щоб використовувати справжній.
+    Back: When I need reproducible results in tests, I seed the random generator or freeze the clock instead
+      of using the real one.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Кешування також може викликати недетермінізм, оскільки кешоване значення та справжнє джерело
+      істини можуть з часом розійтися.
+    Back: Caching can also introduce non-determinism, since the cached value and the real source of truth
+      can drift out of sync over time.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Давайте поговоримо про те, як JavaScript обробляє асинхронний код, оскільки про це йдеться
+      майже в кожному інтерв’ю.
+    Back: Let's talk about how JavaScript handles asynchronous code, since that comes up in almost every
+      interview.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Обіцянка представляє цінність, яка ще не готова, але буде вирішена або відхилена в якийсь момент
+      у майбутньому.
+    Back: A promise represents a value that isn't ready yet, but will resolve or reject at some point
+      in the future.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: До промісів ми обробляли асинхронний код із зворотними викликами, що часто призводило до глибоко
+      вкладеного пекла зворотних викликів.
+    Back: Before promises, we handled async code with callbacks, which often led to deeply nested callback
+      hell.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: 'Обіцянка має три стани: очікує на розгляд, виконано та відхилено, і вона може виконуватися
+      лише один раз.'
+    Back: A promise has three states - pending, fulfilled, and rejected - and it can only settle once.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Async і await — це просто синтаксичний цукор на додаток до промісів, які дозволяють читати
+      асинхронний код як синхронний код.
+    Back: Async and await are just syntactic sugar on top of promises that let asynchronous code read
+      like synchronous code.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Під капотом асинхронна функція завжди повертає обіцянку, навіть якщо ви повертаєте з неї звичайне
+      значення.
+    Back: Under the hood, an async function always returns a promise, even if you return a plain value
+      from it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Коли я чекаю обіцянки, функція призупиняється на цьому етапі, не блокуючи решту програми.
+    Back: When I await a promise, the function pauses at that point without blocking the rest of the application.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я обертаю виклики очікування в блоки try/catch, щоб обробляти відхилені обіцянки так само,
+      як я б обробляв викинуту помилку.
+    Back: I wrap await calls in try/catch blocks to handle rejected promises the same way I'd handle a
+      thrown error.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Promise.all запускає декілька промісів паралельно та негайно відхиляє, якщо одне з них не виконується.
+    Back: Promise.all runs multiple promises in parallel and rejects immediately if any single one of
+      them fails.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Promise.allSettled корисний, коли я хочу отримати результати кожної обіцянки, навіть невиконаної.
+    Back: Promise.allSettled is useful when I want the outcome of every promise, even the ones that failed.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Promise.race вирішує або відхиляє, щойно перша обіцянка виконується, що зручно для реалізації
+      тайм-аутів.
+    Back: Promise.race resolves or rejects as soon as the first promise settles, which is handy for implementing
+      timeouts.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Сам JavaScript є однопоточним, тому в певний момент завжди виконується лише один фрагмент коду
+      JS.
+    Back: JavaScript itself is single-threaded, so only one piece of JS code ever runs at a given moment.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Цикл подій — це те, що дозволяє JavaScript обробляти асинхронну роботу без фактичного використання
+      кількох потоків.
+    Back: The event loop is what lets JavaScript handle asynchronous work without actually using multiple
+      threads.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Node використовує libuv під капотом, щоб перевантажувати такі речі, як файловий ввід-вивід
+      і мережеві виклики, у фонові потоки.
+    Back: Node uses libuv under the hood to offload things like file I/O and network calls onto background
+      threads.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Мікрозавдання, як і зворотні виклики обіцянок, завжди виконуються перед наступним макрозавданням,
+      наприклад зворотній виклик setTimeout.
+    Back: Microtasks, like promise callbacks, always run before the next macrotask, such as a setTimeout
+      callback.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Ось чому зворотний виклик дозволеної обіцянки запускається перед setTimeout із затримкою в
+      нуль мілісекунд.
+    Back: That's why a resolved promise's callback fires before a setTimeout with a zero-millisecond delay.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Справжня багатопотоковість у Node можлива через робочі потоки, які запускають JavaScript в
+      окремому потоці з власною пам’яттю.
+    Back: Real multithreading in Node is possible through worker threads, which run JavaScript in a separate
+      thread with its own memory.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Я б використовував робочі потоки для важкої роботи з процесором, як-от обробки зображень, яка
+      інакше блокувала б цикл подій.
+    Back: I'd reach for worker threads on CPU-heavy work, like image processing, that would otherwise
+      block the event loop.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: 'Насправді веб-переглядачі надають вам три різновиди робітників: виділені, спільні та сервісні.'
+    Back: Browsers actually give you three flavors of worker - dedicated, shared, and service workers.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Спеціальний робочий файл прив’язаний до єдиного сценарію, який його створив, і жоден інший
+      сценарій не може отримати до нього доступ.
+    Back: A dedicated worker is tied to the single script that created it, and no other script can access
+      it.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Спільний робочий файл можна повторно використовувати на кількох вкладках або сценаріях з одного
+      джерела, спілкуючись через спільне з’єднання.
+    Back: A shared worker can be reused across multiple tabs or scripts from the same origin, communicating
+      through a shared connection.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Сервіс-воркер знаходиться між програмою та мережею, тому він в основному використовується для
+      кешування, офлайн-підтримки та push-повідомлень, а не для необроблених обчислень.
+    Back: A service worker sits between the app and the network, so it's mainly used for caching, offline
+      support, and push notifications rather than raw computation.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Оскільки сервіс-воркер перехоплює мережеві запити, він продовжує працювати у фоновому режимі
+      навіть після закриття вкладки, яка його зареєструвала.
+    Back: Because a service worker intercepts network requests, it keeps running in the background even
+      after the tab that registered it is closed.
+    Audio: ''
+    State: ''
+  tags:
+  - interview
+- fields:
+    Front: Node не має такого тристороннього поділу – він має лише робочі потоки, які поводяться більше
+      як виділений робочий процес, що запускає повні модулі Node.
+    Back: Node doesn't have that three-way split - it just has worker threads, which behave more like
+      a dedicated worker running full Node modules.
+    Audio: ''
+    State: ''
+  tags:
+  - interview

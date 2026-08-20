@@ -31,9 +31,9 @@ INPUT_DIR="../tracks"
 OUTPUT_DIR="../converted_webm"
 mkdir -p "$OUTPUT_DIR"
 
-# silicon_valley_0501.webm
+# brassic_0015.webm
 prefix="brassic_" #silicon_valley_ | brassic_
-counter=1
+counter=16
 
 for file in "$INPUT_DIR"/*.mov; do
   # Створюємо імʼя з ведучими нулями: 0001, 0002, ...
