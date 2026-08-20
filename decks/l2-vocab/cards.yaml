@@ -183,7 +183,7 @@
 - id: 1772715543056
   fields:
     Front: Активна (залученість|участь) студентів у навчальному процесі покращує результати навчання.
-    Back: Active engagement of students in the learning process improves learning outcomes.
+    Back: Active engagement of students in the learning process improves learning outcomes
     Audio: L2_0031-Active_engagement.mp3
   tags: []
 - id: 1772715543057
@@ -347,7 +347,7 @@
 - id: 1774435692603
   fields:
     Front: Цунамі або аварія на атомній станції може спричинити довгострокові екологічні наслідки
-    Back: A tsunami or a nuclear power plant accident can cause long-term environmental consequences.
+    Back: A tsunami or a nuclear power plant accident can cause long-term environmental consequences
     Audio: L2_0056-A_tsunami.mp3
   tags: []
 - id: 1774435692604
@@ -1956,7 +1956,7 @@
 - id: 1784071344314
   fields:
     Front: Зростає занепокоєння, що люди стають занадто залежними від цифрових технологій.
-    Back: There is growing concern that people are becoming too dependent on digital technology.
+    Back: There is growing concern that people are becoming too dependent on digital technology
     Audio: l2-vocab_820fd23a2719.mp3
   tags: []
 - id: 1784071344338
@@ -2597,14 +2597,14 @@
     Front: Середні витрати в ресторанах зросли в кожній країні в період з 2019 по 2023 рік, з найбільшим
       зростанням спостереженим в країні B.
     Back: Average restaurant spending increased in every country between 2019 and 2023, with the sharpest
-      rise seen in Country B.
+      rise seen in Country B
     Audio: l2-vocab_c862c7a1bf42.mp3
   tags:
   - interview
 - id: 1786113475620
   fields:
     Front: Аеропорт X обслужив значно більше пасажирів, ніж два інших аеропорти разом узяті.
-    Back: Airport X handled significantly more passengers than the other two airports combined.
+    Back: Airport X handled significantly more passengers than the other two airports combined
     Audio: l2-vocab_d1c84116fa23.mp3
   tags:
   - interview
@@ -2618,9 +2618,9 @@
   - interview
 - id: 1786113475667
   fields:
-    Front: Кількість студентів, які навчаються за кордоном з країни А, була приблизно вдвічі більшою,
+    Front: Кількість студентів, які навчаються за кордоном з країни А, була (грубо|приблизно) вдвічі більшою,
       ніж з країни С.
-    Back: The number of students studying abroad from Country A was roughly double that from Country C.
+    Back: The number of students studying abroad from Country A was roughly double that from Country C
     Audio: l2-vocab_e0627b506327.mp3
   tags:
   - interview
