@@ -633,55 +633,55 @@
 - id: 1785242210732
   fields:
     Front: Він має поговорити з інспектором.
-    Back: He's got to speak with the inspector.
+    Back: He's got to speak with the inspector
     Audio: test-english_251ef8cbbf5a.mp3
   tags:
   - interview
 - id: 1785242210757
   fields:
     Front: Вони мають виїхати до наступного місяця.
-    Back: They've got to move out by next month.
+    Back: They've got to move out by next month
     Audio: test-english_867c07c4460b.mp3
   tags:
   - interview
 - id: 1785242210782
   fields:
     Front: Я маю відповісти до закінчення терміну.
-    Back: I've got to reply before the deadline.
+    Back: I've got to reply before the deadline
     Audio: test-english_03821daff77f.mp3
   tags:
   - interview
 - id: 1785242210806
   fields:
     Front: Ви маєте подивитись цей документальний фільм.
-    Back: You've got to see this documentary.
+    Back: You've got to see this documentary
     Audio: test-english_217128872dcd.mp3
   tags:
   - interview
 - id: 1785242210832
   fields:
     Front: Я працюю тут майже вісім років.
-    Back: I've worked here for nearly eight years.
+    Back: I've worked here for nearly eight years
     Audio: test-english_59b5897286ff.mp3
   tags:
   - interview
 - id: 1785242210857
   fields:
     Front: Вона весь день веде переговори.
-    Back: She's been negotiating all afternoon.
+    Back: She's been negotiating all afternoon
     Audio: test-english_c56d39cb6d76.mp3
   tags:
   - interview
 - id: 1785242210882
   fields:
-    Front: Вони вже домовилися.
-    Back: They've already reached an agreement.
+    Front: Вони вже досягли домовленості
+    Back: They've already reached an agreement
     Audio: test-english_70cc6694e200.mp3
   tags:
   - interview
 - id: 1785242210907
   fields:
-    Front: Ви коли-небудь були свідком судового процесу?
+    Front: Ви коли-небудь (були свідком|був присутній|спостерігав) судового процесу?
     Back: Have you ever witnessed a trial?
     Audio: test-english_876e15b07c9b.mp3
   tags:
@@ -689,56 +689,56 @@
 - id: 1785242210932
   fields:
     Front: Він не усвідомлював наслідків.
-    Back: He hadn't realised the consequences.
+    Back: He hadn't realised the consequences
     Audio: test-english_d185e491f38c.mp3
   tags:
   - interview
 - id: 1785242210957
   fields:
     Front: Вона чекала більше години.
-    Back: She had been waiting for over an hour.
+    Back: She had been waiting for over an hour
     Audio: test-english_50b9a1d564d3.mp3
   tags:
   - interview
 - id: 1785242210982
   fields:
-    Front: До п’ятниці ми завершимо аудит.
-    Back: We'll have completed the audit by Friday.
+    Front: ми завершимо аудит До п’ятниці
+    Back: We'll have completed the audit by Friday
     Audio: test-english_7a4635ba95c7.mp3
   tags:
   - interview
 - id: 1785242211007
   fields:
     Front: До червня я проживу тут п'ять років.
-    Back: By June, I'll have lived here for five years.
+    Back: By June, I'll have lived here for five years
     Audio: test-english_528c1f2b0801.mp3
   tags:
   - interview
 - id: 1785242211032
   fields:
     Front: Вона буде викладати двадцять років.
-    Back: She'll have been teaching for twenty years.
+    Back: She'll have been teaching for twenty years
     Audio: test-english_f6498027f1dc.mp3
   tags:
   - interview
 - id: 1785242211057
   fields:
     Front: Скоро вони закінчать розслідування.
-    Back: They'll have finished the investigation soon.
+    Back: They'll have finished the investigation soon
     Audio: test-english_3021e1fc6490.mp3
   tags:
   - interview
 - id: 1785242211080
   fields:
     Front: Я радий, що приєднався до команди.
-    Back: I'm delighted to have joined the team.
+    Back: I'm delighted to have joined the team
     Audio: test-english_e84ca65450e6.mp3
   tags:
   - interview
 - id: 1785242211110
   fields:
     Front: Здається, він неправильно зрозумів інструкцію.
-    Back: He seems to have misunderstood the instructions.
+    Back: He seems to have misunderstood the instructions
     Audio: test-english_ebbd52602b0f.mp3
   tags:
   - interview

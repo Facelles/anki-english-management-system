@@ -87,7 +87,7 @@
 - id: 1772715543040
   fields:
     Front: Книги часто заохочують читачів ставити запитання та мислити критично.
-    Back: Books often encourage readers to ask questions and think critically.
+    Back: Books often encourage readers to ask questions and think critically
     Audio: L2_0015-Books_often.mp3
   tags: []
 - id: 1772715543041
@@ -238,19 +238,19 @@
 - id: 1774435692587
   fields:
     Front: Волонтерство — це вид діяльності, який (приносить користь) обом як суспільству, так і (людині|індивіду)
-    Back: Volunteering is a kind of activity that benefits both society and the individual.
+    Back: Volunteering is a kind of activity that benefits both society and the individual
     Audio: L2_0040-Volunteering_is.mp3
   tags: []
 - id: 1774435692588
   fields:
     Front: Це один із прикладів того, як технології (змінюють|трансформують) сучасну освіту (PrCont)
-    Back: This is one of the examples of how technology is transforming modern education.
+    Back: This is one of the examples of how technology is transforming modern education
     Audio: L2_0041-This_is.mp3
   tags: []
 - id: 1774435692589
   fields:
     Front: Це тип проблеми, який потребує довгострокового вирішення від уряду
-    Back: This is a type of problem that requires a long-term solution from the government.
+    Back: This is a type of problem that requires a long-term solution from the government
     Audio: L2_0042-This_is.mp3
   tags: []
 - id: 1774435692590
@@ -407,7 +407,7 @@
     Front: Пандемія COVID-19, а також пов'язані обмеження, суттєво (видозмінювати|змінила) глобальні економічні
       процеси <b>[PresPerf]</b>
     Back: The COVID-19 pandemic, as well as the associated restrictions, has significantly transformed
-      global economic processes.
+      global economic processes
     Audio: L2_0064-The_COVID_19.mp3
   tags: []
 - id: 1774435692612
@@ -478,7 +478,7 @@
   fields:
     Front: Жоден із запропонованих методів не забезпечує повного (вирішення ~яке вирішує проблему~) для
       проблеми низької грамотності
-    Back: Neither of the proposed methods provides a complete solution to the problem of low literacy.
+    Back: Neither of the proposed methods provides a complete solution to the problem of low literacy
     Audio: L2_0074-Neither_of.mp3
   tags: []
 - id: 1774435692622
@@ -546,7 +546,7 @@
 - id: 1774435692632
   fields:
     Front: Фізика допомагає пояснити механізми, що лежать в основі природних катастроф, таких як цунамі
-    Back: Physics helps explain the mechanisms underlying natural disasters such as tsunamis.
+    Back: Physics helps explain the mechanisms underlying natural disasters such as tsunamis
     Audio: L2_0085-Physics_helps.mp3
   tags: []
 - id: 1774435692633
@@ -558,7 +558,7 @@
 - id: 1774435692634
   fields:
     Front: Новини про зміни в регулюванні криптовалют впливають на поведінку інвесторів
-    Back: The news about changes in cryptocurrency regulation affects investor behaviour.
+    Back: The news about changes in cryptocurrency regulation affects investor behaviour
     Audio: L2_0087-The_news.mp3
   tags: []
 - id: 1774435692635
@@ -2090,7 +2090,7 @@
     Front: Деякі люди стверджують, що волонтерство – це просто прояв доброти, тоді як інші бачать це як
       можливість для особистісного зростання.
     Back: Some people argue that volunteering is simply an act of kindness, whereas others see it as an
-      opportunity for personal growth.
+      opportunity for personal growth
     Audio: l2-vocab_00ef37350de6.mp3
   tags: []
 - id: 1784071344814
@@ -2646,7 +2646,7 @@
     Front: Загалом побутове використання води залишалося відносно незначним порівняно з сільськогосподарським
       і промисловим використанням.
     Back: On the whole, domestic water use remained relatively minor compared with agricultural and industrial
-      use.
+      use
     Audio: l2-vocab_933c6dd38067.mp3
   tags:
   - interview
@@ -2655,7 +2655,7 @@
     Front: Загалом кількість власників мобільних телефонів різко зросла в усіх п’яти країнах за вказаний
       період.
     Back: In general, mobile phone ownership increased dramatically across all five countries over the
-      period shown.
+      period shown
     Audio: l2-vocab_cba3f6861739.mp3
   tags:
   - interview
@@ -2663,61 +2663,62 @@
   fields:
     Front: Загалом школи з вищими балами з природничих наук також мали тенденцію реєструвати вищі бали
       з математики.
-    Back: Overall, schools with higher science scores also tended to record higher mathematics scores.
+    Back: Overall, schools with higher science scores also tended to record higher mathematics scores
     Audio: l2-vocab_3bd9fd71d958.mp3
   tags:
   - interview
 - id: 1786113475817
   fields:
-    Front: Підводячи підсумок, підприємства стабільно платять за енергію менше, ніж домогосподарства у
+    Front: Підводячи підсумок, підприємства стабільно платили за енергію менше, ніж домогосподарства у
       трьох країнах.
     Back: To summarise, businesses consistently paid less for energy than households across the three
-      countries.
+      countries
     Audio: l2-vocab_ce2bb1314ee3.mp3
   tags:
   - interview
 - id: 1786113475844
   fields:
-    Front: Загалом у кожному дослідженому місті переробка пластику відставала від переробки паперу та
-      скла.
-    Back: Overall, plastic recycling lagged behind both paper and glass recycling in every city surveyed.
+    Front: Загалом, переробка пластику відставала від обох паперу, так і від скла у кожному обстеженому
+      місті
+    Back: Overall, plastic recycling lagged behind both paper and glass recycling in every city surveyed
     Audio: l2-vocab_8449ec3d123a.mp3
   tags:
   - interview
 - id: 1786113475867
   fields:
-    Front: Таким чином, безпека дорожнього руху покращилася в більшості регіонів, за одним помітним винятком.
-    Back: In summary, road safety appeared to be improving in most regions, with one notable exception.
+    Front: Підсумовуючи, безпека на дорогах, здавалося, покращувалася у більшості регіонів, з одним помітним
+      винятком
+    Back: In summary, road safety appeared to be improving in most regions, with one notable exception
     Audio: l2-vocab_cbb85199bd17.mp3
   tags:
   - interview
 - id: 1786113475895
   fields:
     Front: Загалом у великих містах було зафіксовано значно більше відвідувань бібліотек, ніж у менших.
-    Back: On balance, larger towns recorded considerably more library visits than smaller ones.
+    Back: On balance, larger towns recorded considerably more library visits than smaller ones
     Audio: l2-vocab_f743610d2922.mp3
   tags:
   - interview
 - id: 1786113475916
   fields:
     Front: Загалом витрати в ресторанах продемонстрували чітку тенденцію до зростання незалежно від країни.
-    Back: Overall, restaurant spending showed a clear upward trend regardless of country.
+    Back: Overall, restaurant spending showed a clear upward trend regardless of country
     Audio: l2-vocab_0178fc434c17.mp3
   tags:
   - interview
 - id: 1786113475942
   fields:
-    Front: У сукупності ці цифри свідчать про те, що трафік аеропорту був значною мірою зосереджений в
-      одному транспортному вузлі.
+    Front: (У сукупності|якщо розглядати разом) цифри свідчать про те, що аеропортовий трафік був значно
+      сконцентрований в одному вузлі
     Back: Taken together, the figures suggest that airport traffic was heavily concentrated at a single
-      hub.
+      hub
     Audio: l2-vocab_1146970bede6.mp3
   tags:
   - interview
 - id: 1786113475971
   fields:
-    Front: Загалом можна очікувати, що жінки житимуть довше за чоловіків у кожній наведеній країні.
-    Back: Overall, women could be expected to live longer than men in every country shown.
+    Front: Загалом, жінки, як можна було очікувати, живуть довше за чоловіків у кожній показаній країні
+    Back: Overall, women could be expected to live longer than men in every country shown
     Audio: l2-vocab_409180c8e9a9.mp3
   tags:
   - interview
@@ -2725,7 +2726,7 @@
   fields:
     Front: Підсумовуючи, навчання за кордоном було значно більш поширеним серед студентів із заможніших
       країн.
-    Back: In conclusion, studying abroad was considerably more common among students from wealthier countries.
+    Back: In conclusion, studying abroad was considerably more common among students from wealthier countries
     Audio: l2-vocab_64cec3ab4b8c.mp3
   tags:
   - interview

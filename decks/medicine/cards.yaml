@@ -804,20 +804,20 @@
   tags: []
 - id: 1786531406232
   fields:
-    Front: Моє плече задерев’яніло, оскільки я незручно спав.
-    Back: My shoulder has been stiff since I slept awkwardly.
+    Front: Моє плече напружене з того часу, як я незручно поспав
+    Back: My shoulder has been stiff since I slept awkwardly
     Audio: medicine_86bd6aaf77cd.mp3
   tags: []
 - id: 1786531406256
   fields:
     Front: Мені боляче, коли я піднімаю руку над головою.
-    Back: It hurts when I raise my arm above my head.
+    Back: It hurts when I raise my arm above my head
     Audio: medicine_3e62b9780727.mp3
   tags: []
 - id: 1786531406283
   fields:
     Front: Здається, я потягнув м’яз литки.
-    Back: I think I've pulled a muscle in my calf.
+    Back: I think I've pulled a muscle in my calf
     Audio: medicine_07ac75f7d200.mp3
   tags: []
 - id: 1786531406306
@@ -834,8 +834,8 @@
   tags: []
 - id: 1786531406357
   fields:
-    Front: У мене вже тиждень болить горло і кашель.
-    Back: I've had a sore throat and a cough for a week now.
+    Front: У мене болить горло і кашель вже тиждень
+    Back: I've had a sore throat and a cough for a week now
     Audio: medicine_26b2fb86c191.mp3
   tags: []
 - id: 1786531406381
@@ -847,13 +847,13 @@
 - id: 1786531406405
   fields:
     Front: Я постійно втрачаю голос.
-    Back: I keep losing my voice.
+    Back: I keep losing my voice
     Audio: medicine_5f20f1a28479.mp3
   tags: []
 - id: 1786531406429
   fields:
     Front: У мене лоскотливий кашель, який не проходить.
-    Back: I've got a tickly cough that won't go away.
+    Back: I've got a tickly cough that won't go away
     Audio: medicine_f7cafc3668f2.mp3
   tags: []
 - id: 1786531406456
@@ -864,20 +864,20 @@
   tags: []
 - id: 1786531406481
   fields:
-    Front: З вчорашнього вечора у мене озноб і температура.
-    Back: I've had chills and a fever since last night.
+    Front: у мене озноб і температура З вчорашнього вечора&nbsp;
+    Back: I've had chills and a fever since last night
     Audio: medicine_43b7b75ebd71.mp3
   tags: []
 - id: 1786531406507
   fields:
     Front: Все тіло болить.
-    Back: My whole body aches.
+    Back: My whole body aches
     Audio: medicine_0758f4d9b922.mp3
   tags: []
 - id: 1786531406532
   fields:
-    Front: Зараз я нічого не відчуваю ні на смак, ні на запах.
-    Back: I can't taste or smell anything at the moment.
+    Front: я не відчуваю ні на смак, ні на запах нічого в даний момент
+    Back: I can't taste or smell anything at the moment
     Audio: medicine_2d7156843419.mp3
   tags: []
 - id: 1786531406557
@@ -889,7 +889,7 @@
 - id: 1786531406582
   fields:
     Front: Я відчуваю себе виснаженим навіть після повного сну.
-    Back: I feel exhausted even after a full night's sleep.
+    Back: I feel exhausted even after a full night's sleep
     Audio: medicine_a5031ad54913.mp3
   tags: []
 - id: 1786531406607

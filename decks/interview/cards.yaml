@@ -833,31 +833,32 @@
 - id: 1786791394570
   fields:
     Front: Наскрізні тести повільніші, тому ми зберігаємо їх лише для критичних потоків користувачів.
-    Back: End-to-end tests are slower, so we keep them for critical user flows only.
+    Back: End-to-end tests are slower, so we keep them for critical user flows only
     Audio: interview_7df7c545a86e.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394596
   fields:
-    Front: Ми використовуємо позначки функцій, щоб надсилати код, не відкриваючи його кожному користувачеві.
-    Back: We use feature flags to ship code without exposing it to every user.
+    Front: Ми використовуємо фічер-флаги, щоб деплоїти код не відкриваючи його для кожного користувача
+    Back: We use feature flags to ship code without exposing it to every user
     Audio: interview_6172f68013aa.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394620
   fields:
-    Front: Коли трапляється інцидент, я спершу зосереджуюсь на пом’якшенні, а потім на першопричині.
-    Back: When an incident happens, I focus on mitigation first and root cause after.
+    Front: Коли трапляється інцидент, я зосереджуюсь на (усуненні наслідків|пом’якшенні) спершу, а на
+      першопричині потім.
+    Back: When an incident happens, I focus on mitigation first and root cause after
     Audio: interview_51ea62f874bb.mp3
     State: ''
   tags:
   - interview
 - id: 1786791394645
   fields:
-    Front: Після кожного інциденту ми робимо бездоганний розтин, щоб зафіксувати те, що ми дізналися.
-    Back: We do a blameless postmortem after every incident to capture what we learned.
+    Front: Ми проводимо безоціночний постмортем після кожного інциденту, щоб зафіксувати те, що ми дізналися
+    Back: We do a blameless postmortem after every incident to capture what we learned
     Audio: interview_4ce54bd65a25.mp3
     State: ''
   tags:
@@ -865,7 +866,7 @@
 - id: 1786791394670
   fields:
     Front: Моніторинг сповіщає нас, перш ніж користувачі помітять щось не так.
-    Back: Monitoring alerts us before users notice something is wrong.
+    Back: Monitoring alerts us before users notice something is wrong
     Audio: interview_a4bb7edc02f7.mp3
     State: ''
   tags:
@@ -873,7 +874,7 @@
 - id: 1786791394695
   fields:
     Front: Я краще виявлю помилку в CI, ніж у виробництві.
-    Back: I'd rather catch a bug in CI than in production.
+    Back: I'd rather catch a bug in CI than in production
     Audio: interview_bdd8d4083a7d.mp3
     State: ''
   tags:
@@ -881,7 +882,7 @@
 - id: 1786791394721
   fields:
     Front: Розгортання автоматизовані – злиття з основним ініціює поетапне розгортання.
-    Back: Deployments are automated - a merge to main triggers a staged rollout.
+    Back: Deployments are automated - a merge to main triggers a staged rollout
     Audio: interview_0723cceaed46.mp3
     State: ''
   tags:
@@ -889,7 +890,7 @@
 - id: 1786791394745
   fields:
     Front: Відкат повинен бути таким же легким і нудним, як і розгортання.
-    Back: Rolling back should be as easy and boring as deploying.
+    Back: Rolling back should be as easy and boring as deploying
     Audio: interview_97c813059f7f.mp3
     State: ''
   tags:
@@ -897,7 +898,7 @@
 - id: 1786791394770
   fields:
     Front: Мій термін попередження становить один місяць, але я можу бути гнучким, якщо потрібно.
-    Back: My notice period is one month, but I could be flexible if needed.
+    Back: My notice period is one month, but I could be flexible if needed
     Audio: interview_0c59d4bed15e.mp3
     State: ''
   tags:
@@ -905,7 +906,7 @@
 - id: 1786791394795
   fields:
     Front: Я відкритий для гібриду, але я вважаю за краще принаймні кілька днів віддалено.
-    Back: I'm open to hybrid, but I'd prefer at least a few days remote.
+    Back: I'm open to hybrid, but I'd prefer at least a few days remote
     Audio: interview_d53437c891ec.mp3
     State: ''
   tags:
@@ -929,7 +930,7 @@
 - id: 1786791394871
   fields:
     Front: Я хотів би знати, як виглядає зростання в цій ролі через рік.
-    Back: I'd love to know what growth looks like in this role after a year.
+    Back: I'd love to know what growth looks like in this role after a year
     Audio: interview_c42b65e7f4c0.mp3
     State: ''
   tags:
@@ -937,7 +938,7 @@
 - id: 1786791394895
   fields:
     Front: Дякую за детальний огляд - це дає мені набагато чіткішу картину.
-    Back: Thanks for the detailed overview - it gives me a much clearer picture.
+    Back: Thanks for the detailed overview - it gives me a much clearer picture
     Audio: interview_d0170ab2a572.mp3
     State: ''
   tags:
@@ -945,7 +946,7 @@
 - id: 1786791394920
   fields:
     Front: Вибачте, можете повторити запитання? На секунду обірвався зв'язок.
-    Back: Sorry, could you repeat the question? The connection dropped for a second.
+    Back: Sorry, could you repeat the question? The connection dropped for a second
     Audio: interview_6bdccf608a73.mp3
     State: ''
   tags:
