@@ -913,43 +913,43 @@
 - id: 1786531406682
   fields:
     Front: Цей кашель триває вже більше трьох тижнів.
-    Back: This cough has lasted more than three weeks now.
+    Back: This cough has lasted more than three weeks now
     Audio: medicine_58b8dc88932f.mp3
   tags: []
 - id: 1786531406706
   fields:
     Front: Останні кілька днів я відчуваю роздуття.
-    Back: I've been feeling bloated for the past few days.
+    Back: I've been feeling bloated for the past few days
     Audio: medicine_bc5dec67bf39.mp3
   tags: []
 - id: 1786531406731
   fields:
-    Front: Після їжі я відчуваю печіння за грудиною.
-    Back: I get a burning feeling behind my breastbone after meals.
+    Front: я відчуваю печіння за грудиною Після їжі&nbsp;
+    Back: I get a burning feeling behind my breastbone after meals
     Audio: medicine_c3d2bba760c3.mp3
   tags: []
 - id: 1786531406757
   fields:
     Front: Деякі продукти, здається, викликають це.
-    Back: Certain foods seem to set it off.
+    Back: Certain foods seem to set it off
     Audio: medicine_87e3a82ba472.mp3
   tags: []
 - id: 1786531406782
   fields:
-    Front: Останнім часом у мене впав апетит.
-    Back: My appetite has dropped recently.
+    Front: Мій апетит впав Останнім часом
+    Back: My appetite has dropped recently
     Audio: medicine_de87c1355515.mp3
   tags: []
 - id: 1786531406808
   fields:
     Front: Я трохи схуд, навіть не намагаючись.
-    Back: I've lost some weight without trying to.
+    Back: I've lost some weight without trying to
     Audio: medicine_5afdb7b3e793.mp3
   tags: []
 - id: 1786531406833
   fields:
     Front: Мій стілець останнім часом змінив колір.
-    Back: My stools have changed colour lately.
+    Back: My stools have changed colour lately
     Audio: medicine_4117cb2465c7.mp3
   tags: []
 - id: 1786531406857
@@ -967,7 +967,7 @@
 - id: 1786531406907
   fields:
     Front: Я хотів би на деякий час відмовитися від молочних продуктів.
-    Back: I'd like to try cutting out dairy for a while.
+    Back: I'd like to try cutting out dairy for a while
     Audio: medicine_83144dccdba8.mp3
   tags: []
 - id: 1786531406931
@@ -979,19 +979,19 @@
 - id: 1786531406957
   fields:
     Front: Останнім часом у мене запори частіше, ніж зазвичай.
-    Back: I've been more constipated than usual lately.
+    Back: I've been more constipated than usual lately
     Audio: medicine_e16d86cec5af.mp3
   tags: []
 - id: 1786531406983
   fields:
     Front: У мене виникають гази та судоми після певних прийомів їжі.
-    Back: I get gas and cramping after certain meals.
+    Back: I get gas and cramping after certain meals
     Audio: medicine_9d748ada0a72.mp3
   tags: []
 - id: 1786531407006
   fields:
     Front: Біль посилюється, якщо я сиджу занадто довго.
-    Back: The pain flares up if I sit for too long.
+    Back: The pain flares up if I sit for too long
     Audio: medicine_d8b28c1f5625.mp3
   tags: []
 - id: 1786531407033

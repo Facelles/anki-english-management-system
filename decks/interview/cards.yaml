@@ -962,17 +962,17 @@
 - id: 1787266151073
   fields:
     Front: Дозвольте мені розповісти вам, як я думаю про принципи SOLID у повсякденному коді.
-    Back: Let me walk you through how I think about SOLID principles in day-to-day code.
+    Back: Let me walk you through how I think about SOLID principles in day-to-day code
     Audio: interview_dcdcf5856790.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151099
   fields:
-    Front: SOLID — це не те, що я вибираю зі списку — це скоріше набір звичок, які дозволяють легко змінити
-      код пізніше.
+    Front: SOLID — це не те, що я вибираю зі списку — це скоріше набір звичок, які (зберігають|підтримують)
+      код легrbv змінити пізніше.
     Back: SOLID isn't something I check off a list - it's more a set of habits that keep code easy to
-      change later.
+      change later
     Audio: interview_9060c76b2754.mp3
     State: ''
   tags:
@@ -980,17 +980,17 @@
 - id: 1787266151122
   fields:
     Front: Єдина відповідальність означає, що клас повинен мати лише одну причину для змін.
-    Back: Single responsibility means a class should only have one reason to change.
+    Back: Single responsibility means a class should only have one reason to change
     Audio: interview_e752b4683d89.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151149
   fields:
-    Front: Якщо я знаходжу клас, який обробляє і бізнес-логіку, і форматування, це зазвичай свідчить про
-      те, що він робить занадто багато.
+    Front: Якщо я знаходжу клас, який обробляє і бізнес-логіку, і форматування, це зазвичай знак, він
+      робить занадто багато.
     Back: If I find a class handling both business logic and formatting, that's usually a sign it's doing
-      too much.
+      too much
     Audio: interview_8ef09fdc21be.mp3
     State: ''
   tags:
@@ -998,16 +998,16 @@
 - id: 1787266151172
   fields:
     Front: 'Я поділив такий клас на два: один обчислює дані, інший представляє їх.'
-    Back: I split that kind of class into two - one that calculates the data, one that presents it.
+    Back: I split that kind of class into two - one that calculates the data, one that presents it
     Audio: interview_a0798035470d.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151198
   fields:
-    Front: Перевага полягає в тому, що зміна форматування не загрожує порушенням логіки обчислень і навпаки.
+    Front: Перевага в тому, що зміна форматування не ризикує зламати логіку обчислень — і навпаки
     Back: The benefit is that a change in formatting doesn't risk breaking the calculation logic and vice
-      versa.
+      versa
     Audio: interview_ebe9c56fc3fc.mp3
     State: ''
   tags:
@@ -1027,7 +1027,7 @@
     Front: Принцип «відкрито-закрито» означає, що ви повинні мати можливість розширити поведінку, не змінюючи
       існуючий код.
     Back: Open-closed principle means you should be able to extend behavior without modifying existing
-      code.
+      code
     Audio: interview_a51b1047c992.mp3
     State: ''
   tags:
@@ -1037,7 +1037,7 @@
     Front: Зазвичай я досягаю цього за допомогою інтерфейсів або композиції замість редагування класу,
       який уже працює.
     Back: I usually achieve that with interfaces or composition instead of editing a class that already
-      works.
+      works
     Audio: interview_0dce3ef14a98.mp3
     State: ''
   tags:
@@ -1047,7 +1047,7 @@
     Front: Замість того, щоб додавати інший оператор if для нового типу платежу, я додаю новий клас, який
       реалізує той самий інтерфейс.
     Back: Instead of adding another if statement for a new payment type, I add a new class that implements
-      the same interface.
+      the same interface
     Audio: interview_512284b6133c.mp3
     State: ''
   tags:
@@ -1057,17 +1057,17 @@
     Front: Таким чином існуюча логіка платежів залишається недоторканою та перевіреною, і лише новий клас
       потребує перегляду.
     Back: That way the existing payment logic stays untouched and tested, and only the new class needs
-      review.
+      review
     Audio: interview_0f59dd92709b.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151349
   fields:
-    Front: Ризик полягає в надмірному проектуванні наперед – я додаю цю гнучкість лише тоді, коли бачу
-      другу справу.
+    Front: Ризик — це надмірно ускладнити це заздалегідь — я додаю таку гнучкість лише тоді, коли справді
+      бачу другий випадок, що наближається"
     Back: The risk is over-engineering it upfront - I only add that flexibility once I actually see a
-      second case coming.
+      second case coming
     Audio: interview_d33b9ac01c14.mp3
     State: ''
   tags:
@@ -1077,7 +1077,7 @@
     Front: Заміна Liskov означає, що підклас має бути придатним для використання скрізь, де очікується
       базовий клас, без несподіваної поведінки.
     Back: Liskov substitution means a subclass should be usable wherever the base class is expected, without
-      surprising behavior.
+      surprising behavior
     Audio: interview_c3da871928f6.mp3
     State: ''
   tags:
@@ -1087,7 +1087,7 @@
     Front: Я бачив помилки, коли підклас тихо змінював те, що повертає метод, що порушувало роботу кожного
       абонента, який покладався на оригінальний контракт.
     Back: I've seen bugs where a subclass quietly changed what a method returned, which broke every caller
-      that relied on the original contract.
+      that relied on the original contract
     Audio: interview_3cf9af0ec116.mp3
     State: ''
   tags:
@@ -1097,7 +1097,7 @@
     Front: Класичний приклад — квадрат, успадкований від прямокутника — зміна розміру однієї сторони порушує
       припущення про незалежність ширини та висоти.
     Back: A classic example is a square inheriting from a rectangle - resizing one side breaks the assumption
-      that width and height are independent.
+      that width and height are independent
     Audio: interview_cfde65082238.mp3
     State: ''
   tags:
@@ -1107,7 +1107,7 @@
     Front: Коли я ловлю себе на тому, що пишу додаткові перевірки типу для одного конкретного підкласу,
       це зазвичай означає, що ієрархія порушує цей принцип.
     Back: When I catch myself writing extra type checks for one specific subclass, that's usually a sign
-      the hierarchy violates this principle.
+      the hierarchy violates this principle
     Audio: interview_7ad5611b8f8a.mp3
     State: ''
   tags:
@@ -1117,7 +1117,7 @@
     Front: Відокремлення інтерфейсу означає, що клієнти не повинні бути змушені залежати від методів,
       які вони насправді не використовують.
     Back: Interface segregation means clients shouldn't be forced to depend on methods they don't actually
-      use.
+      use
     Audio: interview_76205b4eda27.mp3
     State: ''
   tags:
@@ -1127,7 +1127,7 @@
     Front: Я віддаю перевагу кільком маленьким цілеспрямованим інтерфейсам над одним великим інтерфейсом,
       який намагається охопити кожен варіант використання.
     Back: I prefer several small, focused interfaces over one large interface that tries to cover every
-      use case.
+      use case
     Audio: interview_5e83641c05d7.mp3
     State: ''
   tags:
@@ -1137,7 +1137,7 @@
     Front: Інтерфейс принтера з методами сканування та факсу змушує простий клас принтера реалізувати
       речі, які він не підтримує.
     Back: A printer interface with scan and fax methods forces a simple printer class to implement things
-      it doesn't support.
+      it doesn't support
     Audio: interview_65144f95bc6c.mp3
     State: ''
   tags:
@@ -1147,7 +1147,7 @@
     Front: Поділ його на окремі інтерфейси означає, що кожна реалізація повинна задовольняти лише те,
       що вона насправді робить.
     Back: Splitting it into separate interfaces means each implementation only needs to satisfy what it
-      actually does.
+      actually does
     Audio: interview_11c8cb0a9c2e.mp3
     State: ''
   tags:

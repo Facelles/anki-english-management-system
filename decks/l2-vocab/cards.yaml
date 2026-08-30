@@ -189,7 +189,7 @@
 - id: 1772715543057
   fields:
     Front: Соціальні мережі можуть підвищувати залученість молоді з суспільними проблемами.
-    Back: Social media can increase young people's engagement with social issues.
+    Back: Social media can increase young people's engagement with social issues
     Audio: L2_0032-Social_media.mp3
   tags: []
 - id: 1772715543058
@@ -232,7 +232,7 @@
   fields:
     Front: Це тип інвестицій, який може (принести|генерувати) високий прибуток, але спричиняє (значний|значущий)
       ризик
-    Back: This is a type of investment that can generate high returns but involves significant risk.
+    Back: This is a type of investment that can generate high returns but involves significant risk
     Audio: L2_0039-This_is.mp3
   tags: []
 - id: 1774435692587
@@ -271,7 +271,7 @@
     Front: Двадцять відсотків національного бюджету — це (надзвичайно|виключно) велика (пропорція|частка),
       яка потребує (обережного|ретельного) (контролю|спостереження)
     Back: Twenty percent of the national budget is an exceptionally large proportion that requires careful
-      monitoring.
+      monitoring
     Audio: L2_0045-Twenty_percent.mp3
   tags: []
 - id: 1774435692593
@@ -341,7 +341,7 @@
   fields:
     Front: Інвестиція в біткоїн або інші криптовалюти є часто (~є~ розцінюється|вважається) як високоризикова
       стратегія
-    Back: An investment in Bitcoin or other cryptocurrencies is often regarded as a high-risk strategy.
+    Back: An investment in Bitcoin or other cryptocurrencies is often regarded as a high-risk strategy
     Audio: L2_0055-An_investment.mp3
   tags: []
 - id: 1774435692603
@@ -516,7 +516,7 @@
 - id: 1774435692627
   fields:
     Front: Кожен визнає, що пандемія COVID-19 суттєво видозмінила глобальну економіку <b>[PrePerf]</b>
-    Back: Everybody acknowledges that the COVID-19 pandemic has significantly altered the global economy.
+    Back: Everybody acknowledges that the COVID-19 pandemic has significantly altered the global economy
     Audio: L2_0080-Everybody_acknowledges.mp3
   tags: []
 - id: 1774435692628
@@ -668,7 +668,7 @@
 - id: 1774435692652
   fields:
     Front: Команда не досягли згоди (в|щодо) стратегії [PrPerf]
-    Back: The team have not reached an agreement on the strategy.
+    Back: The team have not reached an agreement on the strategy
     Audio: L2_0105-The_team.mp3
   tags: []
 - id: 1774435692653
@@ -2052,7 +2052,7 @@
   fields:
     Front: Тривають дискусії про те, чи технологічний прогрес покращує чи погіршує якість нашого життя.
     Back: There is an ongoing debate about whether technological progress is improving or damaging our
-      quality of life.
+      quality of life
     Audio: l2-vocab_ec263188a7b5.mp3
   tags: []
 - id: 1784071344689
@@ -2060,7 +2060,7 @@
     Front: Більшість людей погодиться, що підтримання здорового способу життя важливе; однак набагато
       менше людей насправді досягають цього
     Back: Most people would agree that maintaining a healthy lifestyle is important; however, far fewer
-      actually achieve it.
+      actually achieve it
     Audio: l2-vocab_a1e77b20fb41.mp3
   tags: []
 - id: 1784071344715
@@ -2121,7 +2121,7 @@
     Front: Для багатьох людей досягнення здорового балансу між роботою та особистим життям стало одним
       із найбільших викликів сучасного життя.
     Back: For many people, achieving a healthy work-life balance has become one of the greatest challenges
-      of modern life.
+      of modern life
     Audio: l2-vocab_4008db9cb369.mp3
   tags: []
 - id: 1784071344914
@@ -2157,7 +2157,7 @@
     Front: Громадська думка залишається розділеною щодо ролі, яку повинні відігравати уряди у вирішенні
       соціальних та екологічних проблем.
     Back: Public opinion remains divided over the role that governments should play in addressing social
-      and environmental issues.
+      and environmental issues
     Audio: l2-vocab_daedb881e2ec.mp3
   tags: []
 - id: 1784071345039
@@ -2281,7 +2281,7 @@
     Front: Кількість випускників в інженерії майже подвоїлася за десятирічний період, тоді як кількість
       випускників мистецтв дещо зменшилася.
     Back: The number of graduates in engineering nearly doubled over the ten-year period, whereas the
-      number in the arts fell slightly.
+      number in the arts fell slightly
     Audio: l2-vocab_346a5dabf333.mp3
   tags: []
 - id: 1786113474613
@@ -2664,176 +2664,152 @@
 - id: 1786113476023
   fields:
     Front: Загалом молоде покоління набагато більше покладається на соціальні мережі, ніж старше.
-    Back: Overall, younger generations relied far more heavily on social media than older ones.
+    Back: Overall, younger generations relied far more heavily on social media than older ones
     Audio: l2-vocab_c2559ea2940e.mp3
   tags: []
 - id: 1787666934364
   fields:
-    Front: На користь такої точки зору є кілька аргументів.
-    Back: There are several arguments in favour of this view.
+    Front: є кілька аргументів На користь такої точки зору
+    Back: There are several arguments in favour of this view
     Audio: l2-vocab_74bf711204b2.mp3
-    State: ''
   tags: []
 - id: 1787666934388
   fields:
-    Front: Проте противники цієї точки зору вважають, що ризики переважують переваги.
-    Back: Opponents of this view, however, believe that the risks outweigh the benefits.
+    Front: противники цієї точки зору, Проте,&nbsp;вважають, що ризики переважують переваги.
+    Back: Opponents of this view, however, believe that the risks outweigh the benefits
     Audio: l2-vocab_20d2e75f43e2.mp3
-    State: ''
   tags: []
 - id: 1787666934416
   fields:
     Front: Ті, хто підтримує цю ідею, стверджують, що вона приносить явну економічну вигоду.
-    Back: Those who support this idea argue that it brings clear economic benefits.
+    Back: Those who support this idea argue that it brings clear economic benefits
     Audio: l2-vocab_f62d996bb528.mp3
-    State: ''
   tags: []
 - id: 1787666934438
   fields:
     Front: Обидві сторони аргументу мають певну користь.
-    Back: Both sides of the argument have some merit.
+    Back: Both sides of the argument have some merit
     Audio: l2-vocab_9ac848387023.mp3
-    State: ''
   tags: []
 - id: 1787666934463
   fields:
     Front: Однією з основних переваг цього підходу є те, що він економить час і гроші.
-    Back: One major advantage of this approach is that it saves both time and money.
+    Back: One major advantage of this approach is that it saves both time and money
     Audio: l2-vocab_988bafa2b28e.mp3
-    State: ''
   tags: []
 - id: 1787666934488
   fields:
     Front: Додатковою перевагою є те, що це зменшує тиск на державні служби.
-    Back: A further benefit is that it reduces pressure on public services.
+    Back: A further benefit is that it reduces pressure on public services
     Audio: l2-vocab_8512f081db49.mp3
-    State: ''
   tags: []
 - id: 1787666934513
   fields:
     Front: Однак цей підхід не позбавлений недоліків.
-    Back: However, this approach is not without its drawbacks.
+    Back: However, this approach is not without its drawbacks
     Audio: l2-vocab_574c3c949aec.mp3
-    State: ''
   tags: []
 - id: 1787666934538
   fields:
     Front: Основним недоліком є ​​те, що це може бути непомірно дорогим для невеликих підприємств.
-    Back: The main disadvantage is that it can be prohibitively expensive for smaller businesses.
+    Back: The main disadvantage is that it can be prohibitively expensive for smaller businesses
     Audio: l2-vocab_ed0a401471fc.mp3
-    State: ''
   tags: []
 - id: 1787666934563
   fields:
     Front: Загалом переваги переважують недоліки.
-    Back: On balance, the advantages appear to outweigh the disadvantages.
+    Back: On balance, the advantages appear to outweigh the disadvantages
     Audio: l2-vocab_d60f22f1ae6b.mp3
-    State: ''
   tags: []
 - id: 1787666934588
   fields:
     Front: Однією з найактуальніших проблем сучасних міст є затори.
-    Back: One of the most pressing problems facing modern cities is traffic congestion.
+    Back: One of the most pressing problems facing modern cities is traffic congestion
     Audio: l2-vocab_9f4ecc19995c.mp3
-    State: ''
   tags: []
 - id: 1787666934612
   fields:
     Front: Цій зростаючій проблемі сприяла низка факторів.
     Back: A number of factors have contributed to this growing problem.
     Audio: l2-vocab_9260357f1d06.mp3
-    State: ''
   tags: []
 - id: 1787666934638
   fields:
     Front: Одним із можливих рішень було б посилити інвестиції в громадський транспорт.
     Back: One possible solution would be to invest more heavily in public transport.
     Audio: l2-vocab_69e8e79803f8.mp3
-    State: ''
   tags: []
 - id: 1787666934663
   fields:
     Front: Іншим дієвим заходом було б запровадження жорсткіших правил.
     Back: Another effective measure would be to introduce stricter regulations.
     Audio: l2-vocab_7406a0b33f17.mp3
-    State: ''
   tags: []
 - id: 1787666934688
   fields:
     Front: Якби ці кроки були вжиті, проблему можна було б значно зменшити.
     Back: If these steps were taken, the problem could be significantly reduced.
     Audio: l2-vocab_d6c61eb1f924.mp3
-    State: ''
   tags: []
 - id: 1787666934713
   fields:
     Front: Підсумовуючи, вигоди від цієї політики явно переважують витрати.
     Back: In conclusion, the benefits of this policy clearly outweigh the costs.
     Audio: l2-vocab_3cde4bd02d4f.mp3
-    State: ''
   tags: []
 - id: 1787666934738
   fields:
     Front: Цю тенденцію можна пояснити рядом взаємопов'язаних факторів.
     Back: This trend may be explained by a number of interrelated factors.
     Audio: l2-vocab_a646a0ea1a42.mp3
-    State: ''
   tags: []
 - id: 1787666934764
   fields:
     Front: Така політика може зменшити нерівність, хоча докази залишаються неоднозначними.
     Back: Such a policy might reduce inequality, though the evidence remains mixed.
     Audio: l2-vocab_2c49808eeee5.mp3
-    State: ''
   tags: []
 - id: 1787666934789
   fields:
     Front: Можна стверджувати, що технології принесли більше шкоди, ніж користі.
     Back: It could be argued that technology has done more harm than good.
     Audio: l2-vocab_0e1c296d371c.mp3
-    State: ''
   tags: []
 - id: 1787666934814
   fields:
     Front: Можливо, переваги глобалізації не розподіляються порівну.
     Back: Arguably, the benefits of globalisation have not been shared equally.
     Audio: l2-vocab_8da2ac3e889a.mp3
-    State: ''
   tags: []
 - id: 1787666934839
   fields:
     Front: Громадські роботи все частіше використовуються як альтернатива в'язниці.
     Back: Community service is increasingly used as an alternative to prison.
     Audio: l2-vocab_f8c51c4ddec9.mp3
-    State: ''
   tags: []
 - id: 1787666934863
   fields:
     Front: Програми реабілітації спрямовані на зниження ймовірності повторного вчинення злочину.
     Back: Rehabilitation programmes aim to reduce the likelihood of reoffending.
     Audio: l2-vocab_f2511991d758.mp3
-    State: ''
   tags: []
 - id: 1787666934888
   fields:
     Front: Правопорушники можуть бути умовно-достроково звільнені після відбуття частини покарання.
     Back: Offenders may be released on parole once they have served part of their sentence.
     Audio: l2-vocab_43f6e1f5f9a3.mp3
-    State: ''
   tags: []
 - id: 1787666934914
   fields:
     Front: Дрібна злочинність має тенденцію до зростання в періоди економічних труднощів.
     Back: Petty crime tends to increase during periods of economic hardship.
     Audio: l2-vocab_9333c11e2657.mp3
-    State: ''
   tags: []
 - id: 1787666934939
   fields:
     Front: Смертна кара залишається законною в ряді країн світу.
     Back: Capital punishment remains legal in a number of countries around the world.
     Audio: l2-vocab_a0e9a02fe7c4.mp3
-    State: ''
   tags: []
 - id: 1787666934964
   fields:
@@ -2841,215 +2817,184 @@
       клієнтів.
     Back: The company suffered a major data breach that exposed millions of customer records.
     Audio: l2-vocab_b59753ea2f6d.mp3
-    State: ''
   tags: []
 - id: 1787666934988
   fields:
     Front: Багато людей не знають, скільки особистих даних про них збирають в Інтернеті.
     Back: Many people are unaware of how much personal data is collected about them online.
     Audio: l2-vocab_66d4a5c93e01.mp3
-    State: ''
   tags: []
 - id: 1787666935013
   fields:
     Front: Уряди посилили стеження в ім’я національної безпеки.
     Back: Governments have increased surveillance in the name of national security.
     Audio: l2-vocab_9b74afad2025.mp3
-    State: ''
   tags: []
 - id: 1787666935039
   fields:
     Front: Кожен веб-сайт, який ми відвідуємо, збільшує наш цифровий слід.
     Back: Every website we visit adds to our digital footprint.
     Audio: l2-vocab_675b2ce5f8bd.mp3
-    State: ''
   tags: []
 - id: 1787666935063
   fields:
     Front: Суворі закони про захист даних необхідні в епоху цифрових технологій.
     Back: Strong data protection laws are essential in the digital age.
     Audio: l2-vocab_b9577777c934.mp3
-    State: ''
   tags: []
 - id: 1787666935087
   fields:
     Front: Компанії регулярно відстежують поведінку користувачів, щоб ефективніше націлювати рекламу.
     Back: Companies routinely track user behaviour to target advertising more effectively.
     Audio: l2-vocab_462102d290ae.mp3
-    State: ''
   tags: []
 - id: 1787666935113
   fields:
     Front: Конфіденційну інформацію слід завжди захищати від несанкціонованого доступу.
     Back: Sensitive information should always be safeguarded against unauthorised access.
     Audio: l2-vocab_d85b4ffb5d3b.mp3
-    State: ''
   tags: []
 - id: 1787666935138
   fields:
     Front: Деякі критики стверджують, що ця технологія занадто інвазивна.
     Back: Some critics argue that this technology is far too invasive.
     Audio: l2-vocab_7621635782d4.mp3
-    State: ''
   tags: []
 - id: 1787666935163
   fields:
     Front: Користувачів рідко запитують про інформовану згоду, перш ніж їхні дані будуть надані.
     Back: Users are rarely asked for informed consent before their data is shared.
     Audio: l2-vocab_f4a19461fa24.mp3
-    State: ''
   tags: []
 - id: 1787666935188
   fields:
     Front: Зручність часто досягається ціною особистої конфіденційності.
     Back: Convenience often comes at the cost of personal privacy.
     Audio: l2-vocab_4439f2541bab.mp3
-    State: ''
   tags: []
 - id: 1787666935213
   fields:
     Front: Розростання міст призвело до втрати великих площ сільськогосподарських угідь.
     Back: Urban sprawl has led to the loss of large areas of farmland.
     Audio: l2-vocab_41870b76c1d4.mp3
-    State: ''
   tags: []
 - id: 1787666935238
   fields:
     Front: Швидке зростання населення створює навантаження на місцеву інфраструктуру.
     Back: Rapid population growth puts a strain on the local infrastructure.
     Audio: l2-vocab_e44ebfc41ae0.mp3
-    State: ''
   tags: []
 - id: 1787666935263
   fields:
     Front: Місцева влада намагається пом'якшити перенаселеність, будуючи нове житло.
     Back: Local authorities are trying to alleviate overcrowding by building new housing.
     Audio: l2-vocab_b22125b3c582.mp3
-    State: ''
   tags: []
 - id: 1787666935288
   fields:
     Front: Загалом, здається, що поєднання обох підходів було б найбільш ефективним.
     Back: On balance, it seems that a combination of both approaches would be most effective.
     Audio: l2-vocab_60e1d72e3380.mp3
-    State: ''
   tags: []
 - id: 1787666935313
   fields:
     Front: Гострий дефіцит житла підняв ціни за межі досяжності для багатьох сімей.
     Back: A severe housing shortage has pushed prices beyond the reach of many families.
     Audio: l2-vocab_fb79c09f2d47.mp3
-    State: ''
   tags: []
 - id: 1787666935338
   fields:
     Front: Щороку мільйони людей мігрують до міст у пошуках роботи.
     Back: Millions of people migrate to cities every year in search of work.
     Audio: l2-vocab_973e2e171186.mp3
-    State: ''
   tags: []
 - id: 1787666935364
   fields:
     Front: У великих містах все важче знайти доступне житло.
     Back: Affordable housing has become increasingly difficult to find in major cities.
     Audio: l2-vocab_3adc16efbb61.mp3
-    State: ''
   tags: []
 - id: 1787666935387
   fields:
     Front: Оскільки міста продовжують розширюватися, зелені насадження неухильно зникають.
     Back: As cities continue to expand, green spaces are steadily disappearing.
     Audio: l2-vocab_49f3e05cf42c.mp3
-    State: ''
   tags: []
 - id: 1787666935413
   fields:
     Front: Рівень рецидивів часто вищий серед тих, хто отримав короткі терміни ув'язнення.
     Back: Reoffending rates are often higher among those who receive short prison sentences.
     Audio: l2-vocab_9a488571d5de.mp3
-    State: ''
   tags: []
 - id: 1787666935438
   fields:
     Front: Уряди повинні боротися з корінними причинами злочинності, а не просто карати правопорушників.
     Back: Governments should address the root causes of crime rather than simply punishing offenders.
     Audio: l2-vocab_c517a12651e0.mp3
-    State: ''
   tags: []
 - id: 1787666935464
   fields:
     Front: Перенаселеність стає все більшою проблемою в багатьох найбільших містах світу.
     Back: Overcrowding is a growing problem in many of the world's largest cities.
     Audio: l2-vocab_623116a95faa.mp3
-    State: ''
   tags: []
 - id: 1787666935489
   fields:
     Front: Старіюча інфраструктура намагається впоратися зі швидким зростанням населення.
     Back: Ageing infrastructure struggles to cope with rapidly growing populations.
     Audio: l2-vocab_c221f10d83d5.mp3
-    State: ''
   tags: []
 - id: 1787666935513
   fields:
     Front: Відтік із села залишив багато сіл майже порожніми.
     Back: The rural exodus has left many villages almost empty.
     Audio: l2-vocab_22bd03c18483.mp3
-    State: ''
   tags: []
 - id: 1787666935539
   fields:
     Front: З іншого боку, багато хто дотримується протилежної думки.
     Back: On the other hand, many people hold the opposite opinion.
     Audio: l2-vocab_577f502c2e1b.mp3
-    State: ''
   tags: []
 - id: 1787666935562
   fields:
     Front: З огляду на все, я вважаю, що необхідні більш жорсткі заходи.
     Back: Taking everything into account, I believe stricter measures are necessary.
     Audio: l2-vocab_b4e5377010b6.mp3
-    State: ''
   tags: []
 - id: 1787666935589
   fields:
     Front: Підсумовуючи, уряди та окремі особи повинні працювати разом, щоб вирішити цю проблему.
     Back: To conclude, governments and individuals must work together to address this issue.
     Audio: l2-vocab_8e218430f05b.mp3
-    State: ''
   tags: []
 - id: 1787666935614
   fields:
     Front: Загалом зрозуміло, що потрібно вжити подальших заходів.
     Back: Overall, it is clear that further action needs to be taken.
     Audio: l2-vocab_49d020521a38.mp3
-    State: ''
   tags: []
 - id: 1787666935639
   fields:
     Front: Цей підхід, як правило, більш ефективний у міській, ніж у сільській місцевості.
     Back: This approach tends to be more effective in urban rather than rural areas.
     Audio: l2-vocab_7162642ff013.mp3
-    State: ''
   tags: []
 - id: 1787666935664
   fields:
     Front: За останнє десятиліття рівень злочинності значно впав.
     Back: The crime rate has fallen significantly over the past decade.
     Audio: l2-vocab_2ede16b59ee7.mp3
-    State: ''
   tags: []
 - id: 1787666935688
   fields:
     Front: Злочинність неповнолітніх залишається серйозною проблемою в багатьох містах.
     Back: Juvenile delinquency remains a serious concern in many cities.
     Audio: l2-vocab_1c3c63b70609.mp3
-    State: ''
   tags: []
 - id: 1787666935713
   fields:
     Front: Суворі вироки іноді розглядаються як ефективний засіб стримування злочинів.
     Back: Harsh sentences are sometimes seen as an effective deterrent to crime.
     Audio: l2-vocab_76da559172da.mp3
-    State: ''
   tags: []

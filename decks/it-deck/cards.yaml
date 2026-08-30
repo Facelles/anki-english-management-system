@@ -4703,7 +4703,7 @@
   tags: []
 - id: 1777250394560
   fields:
-    Front: Ми вже були відставали від графіка до цього [PrPer]
+    Front: Ми вже були відставали від графіка до цього [PastPer]
     Back: We had already been behind schedule before this
     Audio: IT_0792-We_had.mp3
   tags: []
@@ -6473,7 +6473,7 @@
 - id: 1787266154298
   fields:
     Front: Дозвольте мені перевірити це за допомогою QA, перш ніж позначити це як виправлене.
-    Back: Let me verify this with QA before I mark it as fixed.
+    Back: Let me verify this with QA before I mark it as fixed
     Audio: it-deck_2b6f0ed411c3.mp3
   tags: []
 - id: 1787266154323
@@ -6485,19 +6485,19 @@
 - id: 1787266154347
   fields:
     Front: Я ще не підтвердив, чи це також впливає на мобільний додаток.
-    Back: I haven't confirmed yet whether this affects the mobile app too.
+    Back: I haven't confirmed yet whether this affects the mobile app too
     Audio: it-deck_91cef9f9f404.mp3
   tags: []
 - id: 1787266154373
   fields:
     Front: Менеджер попросив нас підтвердити першопричину перед випуском.
-    Back: The manager asked us to confirm the root cause before the release.
+    Back: The manager asked us to confirm the root cause before the release
     Audio: it-deck_36f7aed3e0b9.mp3
   tags: []
 - id: 1787266154397
   fields:
     Front: Коли QA підтвердить виправлення, ми закриємо запит.
-    Back: Once QA confirms the fix, we'll close the ticket.
+    Back: Once QA confirms the fix, we'll close the ticket
     Audio: it-deck_f05b4da21dbe.mp3
   tags: []
 - id: 1787266154422
@@ -6509,31 +6509,31 @@
 - id: 1787266154447
   fields:
     Front: Помилка не зникає навіть після очищення кешу.
-    Back: The error still persists even after clearing the cache.
+    Back: The error still persists even after clearing the cache
     Audio: it-deck_164fa19e7014.mp3
   tags: []
 - id: 1787266154473
   fields:
     Front: Повідомте мене, якщо проблема все ще відтворюється на вашій машині.
-    Back: Let me know if the issue is still reproducing on your machine.
+    Back: Let me know if the issue is still reproducing on your machine
     Audio: it-deck_002e2192b379.mp3
   tags: []
 - id: 1787266154498
   fields:
     Front: Згідно з журналами, проблема перестала виникати після вчорашнього патча.
-    Back: According to the logs, the problem stopped happening after yesterday's patch.
+    Back: According to the logs, the problem stopped happening after yesterday's patch
     Audio: it-deck_4762a0f6ff87.mp3
   tags: []
 - id: 1787266154523
   fields:
     Front: Якщо це блокує випуск, ми маємо передати його керівнику групи.
-    Back: If this blocks the release, we should escalate it to the team lead.
+    Back: If this blocks the release, we should escalate it to the team lead
     Audio: it-deck_edf168b68822.mp3
   tags: []
 - id: 1787266154547
   fields:
     Front: Я посилив квиток, тому що два дні його ніхто не забирав.
-    Back: I escalated the ticket because nobody picked it up for two days.
+    Back: I escalated the ticket because nobody picked it up for two days
     Audio: it-deck_c00ecbb5e5aa.mp3
   tags: []
 - id: 1787266154572
