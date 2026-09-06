@@ -249,12 +249,14 @@
 | resume | відновлювати, продовжувати, поновлювати |
 | sophisticated | складний, витончений, досконалий |
 | ...get this straight | зрозуміти, прояснити, розібратися |
-| drawback | 
-| out of the box |
-| violate |
-| hierarchy |
-| ramp up(onbourding) |
-| satisfy |
+| drawback | недолік, мінус, слабке місце |
+| out of the box | готовий до використання, без додаткових налаштувань |
+| violate | порушувати, нехтувати, зневажати |
+| hierarchy | ієрархія, структура, ранжування |
+| ramp up(onbourding) | збільшувати, нарощувати, підвищувати |
+| satisfy | задовольняти, виконувати |
+| happen to coincide | випадково збігатися |
+| genuinely | щиро, по-справжньому, справді |
 
 
 Conditional З інверсією

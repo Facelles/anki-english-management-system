@@ -6539,13 +6539,13 @@
 - id: 1787266154572
   fields:
     Front: Це ще недостатньо терміново для ескалації – давайте спочатку відстежимо це.
-    Back: This isn't urgent enough to escalate yet - let's monitor it first.
+    Back: This isn't urgent enough to escalate yet - let's monitor it first
     Audio: it-deck_6b4bc7e43159.mp3
   tags: []
 - id: 1787266154598
   fields:
     Front: Чи можете ви передати це команді інфраструктури? Це поза нашими можливостями.
-    Back: Could you escalate this to the infrastructure team? It's outside our scope.
+    Back: Could you escalate this to the infrastructure team? It's outside our scope
     Audio: it-deck_1bcc0bb63820.mp3
   tags: []
 - id: 1787266154623

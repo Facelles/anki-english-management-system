@@ -661,7 +661,7 @@
 - id: 1786791394044
   fields:
     Front: Зрештою ми погодилися на менший масштаб, який все ще приносив реальну цінність.
-    Back: In the end we agreed on a smaller scope that still delivered real value.
+    Back: In the end we agreed on a smaller scope that still delivered real value
     Audio: interview_a6c7d2c76ae4.mp3
     State: ''
   tags:
@@ -1157,7 +1157,7 @@
     Front: Інверсія залежностей означає, що модулі високого рівня не повинні залежати безпосередньо від
       деталей реалізації низького рівня.
     Back: Dependency inversion means high-level modules shouldn't depend directly on low-level implementation
-      details.
+      details
     Audio: interview_4752f769837b.mp3
     State: ''
   tags:
@@ -1167,33 +1167,34 @@
     Front: Обидві сторони повинні залежати від абстракції, тому конкретна реалізація може змінюватися,
       не торкаючись бізнес-логіки.
     Back: Both sides should depend on an abstraction, so the concrete implementation can change without
-      touching the business logic.
+      touching the business logic
     Audio: interview_6379e6a652b5.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151622
   fields:
-    Front: На практиці я вставляю залежності через конструктор замість того, щоб створювати їх у класі.
+    Front: На практиці я вставляю залежності через конструктор замість того, щоб створювати їх в середині
+      класу
     Back: In practice, I inject dependencies through the constructor instead of instantiating them inside
-      the class.
+      the class
     Audio: interview_35cdfdb22ef6.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151647
   fields:
-    Front: Це дозволяє легко замінити реальну базу даних на макет у тестах, не змінюючи робочий код.
+    Front: Це дозволяє легко замінити реальну базу даних на мок у тестах без змін чого-небуть продакшн-коду
     Back: That makes it easy to swap a real database for a mock in tests without changing any production
-      code.
+      code
     Audio: interview_55104ddd16b6.mp3
     State: ''
   tags:
   - interview
 - id: 1787266151673
   fields:
-    Front: DRY — це уникнення дублювання знань, а не просто уникнення повторюваних рядків коду.
-    Back: DRY is about avoiding duplicated knowledge, not just avoiding duplicated lines of code.
+    Front: DRY — це про уникнення дублюваних знань, а не просто уникнення дублюваних&nbsp;рядків коду.
+    Back: DRY is about avoiding duplicated knowledge, not just avoiding duplicated lines of code
     Audio: interview_785734b860ac.mp3
     State: ''
   tags:
@@ -1221,7 +1222,7 @@
     Front: Іноді невелике дублювання справді краще, ніж нав’язування неправильної абстракції двом речам,
       які лише виглядають схожими.
     Back: Sometimes a little duplication is genuinely better than forcing the wrong abstraction onto two
-      things that only look similar.
+      things that only look similar
     Audio: interview_092d02523c1c.mp3
     State: ''
   tags:
@@ -1229,7 +1230,7 @@
 - id: 1787266151772
   fields:
     Front: Зазвичай я чекаю, доки побачу ту саму логіку втретє, перш ніж видобути її в спільну функцію.
-    Back: I usually wait until I see the same logic a third time before I extract it into a shared function.
+    Back: I usually wait until I see the same logic a third time before I extract it into a shared function
     Audio: interview_5e2a74cea278.mp3
     State: ''
   tags:
@@ -1238,7 +1239,7 @@
   fields:
     Front: KISS означає вибір найпростішого рішення, яке фактично вирішить проблему, яка стоїть перед
       вами.
-    Back: KISS means choosing the simplest solution that actually solves the problem in front of you.
+    Back: KISS means choosing the simplest solution that actually solves the problem in front of you
     Audio: interview_bb5c9d274875.mp3
     State: ''
   tags:
@@ -1248,7 +1249,7 @@
     Front: Я бачив прості функції CRUD, створені за допомогою рівнів абстракції, які потрібні лише для
       набагато складніших систем.
     Back: I've seen simple CRUD features built with layers of abstraction that were only needed for far
-      more complex systems.
+      more complex systems
     Audio: interview_873ad4d5b2a3.mp3
     State: ''
   tags:
@@ -1256,7 +1257,7 @@
 - id: 1787266151847
   fields:
     Front: Складність, яка не окупається, просто сповільнює кожну майбутню зміну цього коду.
-    Back: Complexity that isn't paying for itself just slows down every future change to that code.
+    Back: Complexity that isn't paying for itself just slows down every future change to that code
     Audio: interview_dfa6ca9034b8.mp3
     State: ''
   tags:
@@ -1264,7 +1265,7 @@
 - id: 1787266151872
   fields:
     Front: YAGNI нагадує мені не створювати гнучкості для вимог, яких ще немає.
-    Back: YAGNI reminds me not to build flexibility for requirements that don't exist yet.
+    Back: YAGNI reminds me not to build flexibility for requirements that don't exist yet
     Audio: interview_81918a1f8cbd.mp3
     State: ''
   tags:

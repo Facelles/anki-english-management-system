@@ -263,7 +263,7 @@
   fields:
     Front: Десять років — це (значний ~за масштабом~) період часу, протягом якого (суттєві|значущі) соціальні
       зміни можуть відбутися
-    Back: Ten years is a substantial period of time during which significant social changes can occur.
+    Back: Ten years is a substantial period of time during which significant social changes can occur
     Audio: L2_0044-Ten_years.mp3
   tags: []
 - id: 1774435692592
@@ -369,14 +369,14 @@
     Front: Уряд, разом із міжнародними організаціями, відіграє ключову роль у (подоланні|вирішенні проблеми)
       наслідків пандемії COVID-19
     Back: The government, together with international organisations, plays a crucial role in addressing
-      the consequences of the COVID-19 pandemic.
+      the consequences of the COVID-19 pandemic
     Audio: L2_0059-The_government_.mp3
   tags: []
 - id: 1774435692607
   fields:
     Front: Переробка відходів, а також зменшення споживання ресурсів, є (~без цього неможливо~ необхідною)
       для сталого розвитку
-    Back: Recycling, as well as reducing resource consumption, is essential for sustainable development.
+    Back: Recycling, as well as reducing resource consumption, is essential for sustainable development
     Audio: L2_0060-Recycling__as.mp3
   tags: []
 - id: 1774435692608
@@ -384,14 +384,14 @@
     Front: Фукусімська катастрофа, разом із (той, що стався пізніше|подальшим) витоком радіації, має довготривалий
       вплив на навколишнє середовище
     Back: The Fukushima disaster, along with the subsequent radiation leak, has a long-lasting impact
-      on the environment.
+      on the environment
     Audio: L2_0061-The_Fukushima.mp3
   tags: []
 - id: 1774435692609
   fields:
     Front: Інвестиційна стратегія, разом із належним управлінням ризиками, (обумовлює|визначає) довгостроковий
       фінансовий (результат ~з відтінком наслідків~)
-    Back: An investment strategy, along with proper risk management, determines long-term financial outcomes.
+    Back: An investment strategy, along with proper risk management, determines long-term financial outcomes
     Audio: L2_0062-An_investment.mp3
   tags: []
 - id: 1774435692610
@@ -399,7 +399,7 @@
     Front: Волонтерство, разом із соціальною відповідальністю, (робить внесок|сприяє) в (розвиток|формуванню)
       активного громадянського суспільства
     Back: Volunteering, together with social responsibility, contributes to the development of an active
-      civil society.
+      civil society
     Audio: L2_0063-Volunteering__together.mp3
   tags: []
 - id: 1774435692611
@@ -429,7 +429,7 @@
 - id: 1774435692614
   fields:
     Front: Кожен із волонтерів на острові відіграє (життєво важливу) роль у підтримці місцевої громади
-    Back: Each of the volunteers on the island plays a vital role in supporting the local community.
+    Back: Each of the volunteers on the island plays a vital role in supporting the local community
     Audio: L2_0067-Each_of.mp3
   tags: []
 - id: 1774435692615
@@ -650,7 +650,7 @@
 - id: 1774435692649
   fields:
     Front: Дослідницька група аналізує причини кризи читання [PrCont]
-    Back: The research group is analysing the causes of the reading crisis.
+    Back: The research group is analysing the causes of the reading crisis
     Audio: L2_0102-The_research.mp3
   tags: []
 - id: 1774435692650
@@ -2202,7 +2202,7 @@
 - id: 1786113474312
   fields:
     Front: Згідно з таблицею, витрати на транспорт суттєво відрізнялися між досліджуваними країнами.
-    Back: According to the table, spending on transport varied considerably between the countries surveyed.
+    Back: According to the table, spending on transport varied considerably between the countries surveyed
     Audio: l2-vocab_0a9c8ebb1252.mp3
   tags: []
 - id: 1786113474338
@@ -2717,7 +2717,7 @@
   tags: []
 - id: 1787666934563
   fields:
-    Front: Загалом переваги переважують недоліки.
+    Front: Загалом,&nbsp;переваги, здається, переважають недоліки
     Back: On balance, the advantages appear to outweigh the disadvantages
     Audio: l2-vocab_d60f22f1ae6b.mp3
   tags: []
@@ -2729,32 +2729,32 @@
   tags: []
 - id: 1787666934612
   fields:
-    Front: Цій зростаючій проблемі сприяла низка факторів.
-    Back: A number of factors have contributed to this growing problem.
+    Front: низка факторів сприяла Цій зростаючій проблемі
+    Back: A number of factors have contributed to this growing problem
     Audio: l2-vocab_9260357f1d06.mp3
   tags: []
 - id: 1787666934638
   fields:
     Front: Одним із можливих рішень було б посилити інвестиції в громадський транспорт.
-    Back: One possible solution would be to invest more heavily in public transport.
+    Back: One possible solution would be to invest more heavily in public transport
     Audio: l2-vocab_69e8e79803f8.mp3
   tags: []
 - id: 1787666934663
   fields:
     Front: Іншим дієвим заходом було б запровадження жорсткіших правил.
-    Back: Another effective measure would be to introduce stricter regulations.
+    Back: Another effective measure would be to introduce stricter regulations
     Audio: l2-vocab_7406a0b33f17.mp3
   tags: []
 - id: 1787666934688
   fields:
     Front: Якби ці кроки були вжиті, проблему можна було б значно зменшити.
-    Back: If these steps were taken, the problem could be significantly reduced.
+    Back: If these steps were taken, the problem could be significantly reduced
     Audio: l2-vocab_d6c61eb1f924.mp3
   tags: []
 - id: 1787666934713
   fields:
     Front: Підсумовуючи, вигоди від цієї політики явно переважують витрати.
-    Back: In conclusion, the benefits of this policy clearly outweigh the costs.
+    Back: In conclusion, the benefits of this policy clearly outweigh the costs
     Audio: l2-vocab_3cde4bd02d4f.mp3
   tags: []
 - id: 1787666934738

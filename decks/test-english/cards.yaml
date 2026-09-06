@@ -243,628 +243,1232 @@
     Front: Чи є у вас достатньо доказів на підтримку вашого твердження?
     Back: Do you have enough evidence to support your claim?
     Audio: test-english_f8bd8585215a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209333
   fields:
     Front: У неї вражаюча колекція вінтажних фотоапаратів.
     Back: She has an impressive collection of vintage cameras
     Audio: test-english_f260a8438152.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209356
   fields:
     Front: У мене&nbsp;<strong>нестерпний/страшенний головний біль</strong>&nbsp;після наради
     Back: I have a splitting headache after the meeting
     Audio: test-english_fbe3aa22ad0f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209382
   fields:
     Front: Чи є у них вакансії на даний момент?
     Back: Do they have any vacancies at the moment?
     Audio: test-english_608c9a0efdb5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209407
   fields:
     Front: Він не дуже довіряє пропозиції.
     Back: He doesn't have much confidence in the proposal
     Audio: test-english_2976a4908c44.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209434
   fields:
     Front: У неї надзвичайна увага до деталей.
     Back: She has remarkable attention to detail
     Audio: test-english_839c085c8827.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209457
   fields:
     Front: Чи є у вас брати і сестри, які живуть за кордоном?
     Back: Do you have any siblings living abroad?
     Audio: test-english_2e0b72d00a8b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209482
   fields:
     Front: Компанія має достатнє фінансування для проекту.
     Back: The company has sufficient funding for the project
     Audio: test-english_2ef15b3bb460.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209507
   fields:
     Front: У мене є серйозна підозра, що щось не так.
     Back: I have a strong suspicion something is wrong
     Audio: test-english_83e9f0a9e59e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209530
   fields:
     Front: Ви хоч найменше уявляєте, що сталося?
     Back: Do you have the slightest idea what happened?
     Audio: test-english_0e543c87f3b9.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209557
   fields:
     Front: Я зазвичай швидко снідаю перед роботою.
     Back: I usually have a quick breakfast before work
     Audio: test-english_05ea1d90a81e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209582
   fields:
     Front: Ми сьогодні вечеряємо з нашими сусідами.
     Back: We're having dinner with our neighbours tonight
     Audio: test-english_cc35a2f23b92.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209607
   fields:
     Front: У неї була захоплююча розмова з хірургом.
     Back: She had a fascinating conversation with the surgeon
     Audio: test-english_ad126a3f99ec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209631
   fields:
     Front: Чи виникали труднощі з відновленням паспорта?
     Back: Did you have any difficulty renewing your passport?
     Audio: test-english_ae05468c4c48.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209657
   fields:
     Front: Ми провели незабутню відпустку в Шотландії.
     Back: We had an unforgettable holiday in Scotland
     Audio: test-english_20e73dc17bb1.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209682
   fields:
     Front: Вони посперечалися через спадщину.
     Back: They had an argument over inheritance
     Audio: test-english_1c5cea6732eb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209724
   fields:
     Front: У мене проблеми з доступом до банківського рахунку. [PrCont]
     Back: I'm having trouble accessing my bank account
     Audio: test-english_aa55c2f457b7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209756
   fields:
     Front: Ми мємо надзвичайно теплу погоду цього тижня [PrCont]
     Back: We're having exceptionally warm weather this week
     Audio: test-english_f6f7a5a64d24.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209782
   fields:
     Front: Вона мала несподівану можливість виступити на заході.
     Back: She had an unexpected opportunity to speak at the event
     Audio: test-english_c55f5840d380.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209808
   fields:
     Front: Чи вдалося вам знайти квартиру?
     Back: Have you had much success finding a flat?
     Audio: test-english_6321c8754312.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209833
   fields:
     Front: Всі відвідувачі повинні зареєструватися на рецепції.
     Back: All visitors have to register at reception
     Audio: test-english_18c75b6acb7e.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209857
   fields:
     Front: Вам доведеться надати додаткові документи.
     Back: You'll have to provide additional documents
     Audio: test-english_850f6cb14f7c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209881
   fields:
     Front: Нам обов'язково (бути присутніми) на брифінгу?
     Back: Do we have to attend the briefing?
     Audio: test-english_97c981c7dac8.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209907
   fields:
     Front: Мені не довелося пояснювати все двічі.
     Back: I didn't have to explain everything twice
     Audio: test-english_587ef3f7b4ba.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209932
   fields:
     Front: Вам не потрібно буде сплачувати судові витрати.
     Back: You won't have to pay any legal fees
     Audio: test-english_69cfbaa2805d.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209958
   fields:
     Front: Претенденти мають відповідати суворим вимогам.
     Back: Applicants have to meet strict requirements
     Audio: test-english_396d88c3e48b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242209982
   fields:
     Front: Чи повинні працівники носити засоби захисту?
     Back: Do employees have to wear protective equipment?
     Audio: test-english_bea081f85ce3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210006
   fields:
     Front: Нам не потрібно приймати рішення сьогодні.
     Back: We don't have to make a decision today
     Audio: test-english_253b3cd22fc5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210032
   fields:
     Front: Пасажирам довелося залишитися в літаку.
     Back: Passengers had to remain on the aircraft
     Audio: test-english_5481a9224958.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210056
   fields:
     Front: Ви повинні будете виправдати свої витрати.
     Back: You'll have to justify your expenses
     Audio: test-english_a348956da683.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210082
   fields:
     Front: Я буду мати мій паспорт поновленим наступного тижня [PreCont]
     Back: I'm having my passport renewed next week
     Audio: test-english_cff8011d6d06.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210105
   fields:
     Front: Вчора вона відремонтувала свій ноутбук.
     Back: She had her laptop repaired yesterday
     Audio: test-english_06e700f854c6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210131
   fields:
     Front: Ми перевірили дах перед купівлею будинку [PastPerf]
     Back: We had the roof inspected before buying the house
     Audio: test-english_c9572a1df9a6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210157
   fields:
     Front: В нього вкрали гаманець У метро [PastPerf pass]
     Back: He had his wallet stolen on the Underground
     Audio: test-english_9c06124360fe.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210181
   fields:
     Front: Їхній рейс скасували без попередження. [PastPerf]
     Back: They had their flight cancelled without notice
     Audio: test-english_2d9014fcdbd3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210207
   fields:
     Front: Цього місяця вона робить ремонт на кухні.
     Back: She's having her kitchen renovated this month.
     Audio: test-english_3e8f601e71b0.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210230
   fields:
     Front: Ви нещодавно перевіряли зір?
     Back: Have you had your eyes tested recently?
     Audio: test-english_4a0b258d3419.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210256
   fields:
     Front: Наш договір перевірить юрист.
     Back: We'll have the contract reviewed by a solicitor
     Audio: test-english_0968757a0a1f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210281
   fields:
     Front: Вчора мені замінили екран телефону.
     Back: I had my phone screen replaced yesterday
     Audio: test-english_81377f6801bd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210306
   fields:
     Front: Вони перевіряють будівлю на предмет безпеки.
     Back: They're having the building inspected for safety
     Audio: test-english_5df17e729cf7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210332
   fields:
     Front: У мене кілька зустрічей сьогодні вдень.
     Back: I've got several appointments this afternoon
     Audio: test-english_f6f2295e1a76.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210356
   fields:
     Front: У вас є якісь докази на підтримку цього? [PrPerf]
     Back: Have you got any evidence to support that?
     Audio: test-english_7f2b5e2f2cdd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210382
   fields:
     Front: У неї недостатньо досвіду для ролі.
     Back: She hasn't got enough experience for the role
     Audio: test-english_8f86c2c1941f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210406
   fields:
     Front: У нас є багато часу до посадки.
     Back: We've got plenty of time before boarding.
     Audio: test-english_ebb608a8efec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210432
   fields:
     Front: Вони мають дозвіл на вхід до сайту?
     Back: Have they got permission to enter the site?
     Audio: test-english_4ead39179b32.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210457
   fields:
     Front: Я поняття не маю, що він мав на увазі.
     Back: I haven't got a clue what he meant
     Audio: test-english_66d0777930d7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210482
   fields:
     Front: У неї чудова репутація.
     Back: She's got an excellent reputation
     Audio: test-english_8fcd00c10109.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210507
   fields:
     Front: У нас немає причин хвилюватися.
     Back: We've got no reason to worry
     Audio: test-english_34abedccaa30.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210530
   fields:
     Front: Ваш брат має водійські права?
     Back: Has your brother got a driving licence?
     Audio: test-english_65da41dcd7cd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210555
   fields:
     Front: У них є три собаки-рятувальники.
     Back: They've got three rescue dogs
     Audio: test-english_b11ca669cf8c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210582
   fields:
     Front: Я маю подати звіт до обіду.
     Back: I've got to submit the report by noon
     Audio: test-english_f328feb91017.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210607
   fields:
     Front: Ми повинні встигнути на останній поїзд.
     Back: We've got to catch the last train
     Audio: test-english_f4545f52d7e5.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210631
   fields:
     Front: Завтра вона має (присутній|бути) на суді.
     Back: She's got to attend court tomorrow
     Audio: test-english_23067b08f1d4.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210657
   fields:
     Front: Ви, мабуть, жартуєте.
     Back: You've got to be joking
     Audio: test-english_a47488e923cb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210682
   fields:
     Front: Я маю повернути ці книги сьогодні.
     Back: I've got to return these books today
     Audio: test-english_aefb96367d0c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210707
   fields:
     Front: Ми повинні вирішити це до п’ятниці.
     Back: We've got to resolve this before Friday
     Audio: test-english_37427a818290.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210732
   fields:
     Front: Він має поговорити з інспектором.
     Back: He's got to speak with the inspector
     Audio: test-english_251ef8cbbf5a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210757
   fields:
     Front: Вони мають виїхати до наступного місяця.
     Back: They've got to move out by next month
     Audio: test-english_867c07c4460b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210782
   fields:
     Front: Я маю відповісти до закінчення терміну.
     Back: I've got to reply before the deadline
     Audio: test-english_03821daff77f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210806
   fields:
     Front: Ви маєте подивитись цей документальний фільм.
     Back: You've got to see this documentary
     Audio: test-english_217128872dcd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210832
   fields:
     Front: Я працюю тут майже вісім років.
     Back: I've worked here for nearly eight years
     Audio: test-english_59b5897286ff.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210857
   fields:
     Front: Вона весь день веде переговори.
     Back: She's been negotiating all afternoon
     Audio: test-english_c56d39cb6d76.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210882
   fields:
     Front: Вони вже досягли домовленості
     Back: They've already reached an agreement
     Audio: test-english_70cc6694e200.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210907
   fields:
     Front: Ви коли-небудь (були свідком|був присутній|спостерігав) судового процесу?
     Back: Have you ever witnessed a trial?
     Audio: test-english_876e15b07c9b.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210932
   fields:
     Front: Він не усвідомлював наслідків.
     Back: He hadn't realised the consequences
     Audio: test-english_d185e491f38c.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210957
   fields:
     Front: Вона чекала більше години.
     Back: She had been waiting for over an hour
     Audio: test-english_50b9a1d564d3.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242210982
   fields:
     Front: ми завершимо аудит До п’ятниці
     Back: We'll have completed the audit by Friday
     Audio: test-english_7a4635ba95c7.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211007
   fields:
     Front: До червня я проживу тут п'ять років.
     Back: By June, I'll have lived here for five years
     Audio: test-english_528c1f2b0801.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211032
   fields:
     Front: Вона буде викладати двадцять років.
     Back: She'll have been teaching for twenty years
     Audio: test-english_f6498027f1dc.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211057
   fields:
     Front: Скоро вони закінчать розслідування.
     Back: They'll have finished the investigation soon
     Audio: test-english_3021e1fc6490.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211080
   fields:
     Front: Я радий, що приєднався до команди.
     Back: I'm delighted to have joined the team
     Audio: test-english_e84ca65450e6.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211110
   fields:
     Front: Здається, він неправильно зрозумів інструкцію.
     Back: He seems to have misunderstood the instructions
     Audio: test-english_ebbd52602b0f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211135
   fields:
     Front: Вона стверджувала, що бачила підозрюваного.
     Back: She claimed to have seen the suspect
     Audio: test-english_b84b3d665699.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211158
   fields:
     Front: Їм пощастило уникнути аварії.
     Back: They were fortunate to have avoided an accident
     Audio: test-english_987a702fc9cb.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211182
   fields:
     Front: Я відчув полегшення, коли завершив роботу над документами.
     Back: I'm relieved to have finished the paperwork
     Audio: test-english_884558ec739f.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211207
   fields:
     Front: Він зробив вигляд, що забув моє ім’я.
     Back: He pretended to have forgotten my name
     Audio: test-english_b48f484b9f10.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211234
   fields:
     Front: Здається, вона повністю видужала.
     Back: She appears to have recovered completely
     Audio: test-english_9a7435beb0ee.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211260
   fields:
     Front: Нам пощастило, що ми знайшли таке місце.
     Back: We're lucky to have found such a place
     Audio: test-english_8fa33df0d160.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211281
   fields:
     Front: Він був розчарований тим, що пропустив термін.
     Back: He was disappointed to have missed the deadline
     Audio: test-english_6196d1829ce2.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211307
   fields:
     Front: Вона пишалася тим, що представляла свою країну.
     Back: She was proud to have represented her country
     Audio: test-english_198f93655c39.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211331
   fields:
     Front: Мабуть, вона пропустила електронний лист.
     Back: She must have overlooked the email
     Audio: test-english_f659e51369d9.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211356
   fields:
     Front: Він не міг забути зустріч.
     Back: He can't have forgotten the meeting
     Audio: test-english_937d31f979cd.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211382
   fields:
     Front: Можливо, вони сіли не на той поїзд.
     Back: They may have taken the wrong train
     Audio: test-english_172377d3270a.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211407
   fields:
     Front: Ви повинні були перевірити цифри.
     Back: You should have checked the figures
     Audio: test-english_89e2910841e0.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211432
   fields:
     Front: Можливо, свідок неправильно зрозумів запитання.
     Back: The witness might have misunderstood the question
     Audio: test-english_ad93cebda076.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211456
   fields:
     Front: Вона могла уникнути помилки.
     Back: She could have avoided the mistake
     Audio: test-english_457acbc01ea4.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211482
   fields:
     Front: Мабуть, він упізнав твій голос.
     Back: He must have recognised your voice
     Audio: test-english_2514e03d6650.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211508
   fields:
     Front: Вони не могли вже дійти до Лондона.
     Back: They can't have reached London already
     Audio: test-english_1120cf613bee.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211530
   fields:
     Front: Можливо, я залишив ключі на роботі.
-    Back: I may have left my keys at work.
+    Back: I may have left my keys at work
     Audio: test-english_cb53bd27b8ec.mp3
-  tags:
-  - interview
+  tags: []
 - id: 1785242211557
   fields:
     Front: Мабуть, хтось повідомив про інцидент.
-    Back: Someone must have reported the incident.
+    Back: Someone must have reported the incident
     Audio: test-english_d8e8e37be452.mp3
-  tags:
-  - interview
+  tags: []
+- id: 1788731946509
+  fields:
+    Front: Хоча приміщення були невідповідними, команді вдалося завершити проект.
+    Back: Although the facilities were inadequate, the team managed to finish the project.
+    Audio: test-english_a9930fa13e83.mp3
+    State: ''
+  tags: []
+- id: 1788731946532
+  fields:
+    Front: Хоча ми запевняли їх, що обладнання відповідне, вони все одно звинувачували нас у затримці.
+    Back: Although we assured them the equipment was adequate, they still blamed us for the delay.
+    Audio: test-english_3a3fa3ae1bc4.mp3
+    State: ''
+  tags: []
+- id: 1788731946554
+  fields:
+    Front: Хоча обставини були заплутаними, їй вдалося зберегти спокій.
+    Back: Although the circumstances were confusing, she managed to stay calm.
+    Audio: test-english_b22c48a9abfb.mp3
+    State: ''
+  tags: []
+- id: 1788731946590
+  fields:
+    Front: Незважаючи на те, що новий керівник пообіцяв усунути неефективність, все більше працівників
+      усе ще розчаровані.
+    Back: Even though the new manager promised to eliminate inefficiency, more and more employees are
+      still frustrated.
+    Audio: test-english_44486853f777.mp3
+    State: ''
+  tags: []
+- id: 1788731946606
+  fields:
+    Front: Незважаючи на те, що готель виглядав шикарно, зручності були напрочуд недостатніми.
+    Back: Even though the hotel looked posh, the facilities were surprisingly inadequate.
+    Audio: test-english_47f9e5391a48.mp3
+    State: ''
+  tags: []
+- id: 1788731946636
+  fields:
+    Front: Незважаючи на те, що він був збентежений, він погодився нести тягар критики.
+    Back: Even though he was embarrassed, he agreed to bear the brunt of the criticism.
+    Audio: test-english_e1495ad7bf00.mp3
+    State: ''
+  tags: []
+- id: 1788731946664
+  fields:
+    Front: Нам не вистачило техніки. Однак нам вдалося придбати більше раніше терміну.
+    Back: We didn't have enough equipment. However, we managed to acquire more before the deadline.
+    Audio: test-english_6f8cb6383115.mp3
+    State: ''
+  tags: []
+- id: 1788731946685
+  fields:
+    Front: Обставини були невідповідними; однак команда відмовилася когось звинувачувати.
+    Back: The circumstances were inadequate; however, the team refused to blame anyone.
+    Audio: test-english_a550bd570708.mp3
+    State: ''
+  tags: []
+- id: 1788731946707
+  fields:
+    Front: Він припускав, що план провалиться. Проте зрештою все вийшло добре.
+    Back: He assumed the plan would fail. However, it worked out fine in the end.
+    Audio: test-english_d2702fd9bd3f.mp3
+    State: ''
+  tags: []
+- id: 1788731946732
+  fields:
+    Front: Ми були на межі скасування заходу, але все одно вирішили його провести.
+    Back: We were on the verge of cancelling the event, however, we decided to commit to it anyway.
+    Audio: test-english_fde02a02397f.mp3
+    State: ''
+  tags: []
+- id: 1788731946755
+  fields:
+    Front: Її дратували невідповідні умови, але вона нікому не скаржилася.
+    Back: She was annoyed by the inadequate facilities, yet she didn't complain to anyone.
+    Audio: test-english_ed514ab52b2c.mp3
+    State: ''
+  tags: []
+- id: 1788731946779
+  fields:
+    Front: Обладнання було застарілим, але інженерам вдалося досягти хороших результатів.
+    Back: The equipment was outdated, and yet the engineers managed to acquire good results.
+    Audio: test-english_191e36a1d3bc.mp3
+    State: ''
+  tags: []
+- id: 1788731946804
+  fields:
+    Front: Він припускав найгірше, але вирішив запевнити всіх, що ситуація покращиться.
+    Back: He assumed the worst, and yet he chose to assure everyone that things would improve.
+    Audio: test-english_a1007fd7240e.mp3
+    State: ''
+  tags: []
+- id: 1788731946831
+  fields:
+    Front: Незважаючи на невідповідне обладнання, працівникам вдалося забезпечити дотримання нових правил
+      безпеки.
+    Back: Despite the inadequate equipment, the workers managed to enforce the new safety rules.
+    Audio: test-english_5a6880f4262a.mp3
+    State: ''
+  tags: []
+- id: 1788731946854
+  fields:
+    Front: Незважаючи на страх, вона взяла на себе основний тягар переговорів.
+    Back: Despite being frightened, she committed to bearing the brunt of the negotiation.
+    Audio: test-english_298ea02a1f5e.mp3
+    State: ''
+  tags: []
+- id: 1788731946879
+  fields:
+    Front: У той час як старе обладнання було достатнім, нові машини повністю усувають неефективність.
+    Back: Whereas the old equipment was adequate, the new machines eliminate inefficiency completely.
+    Audio: test-english_0dd705fa86c5.mp3
+    State: ''
+  tags: []
+- id: 1788731946912
+  fields:
+    Front: Хоча він звинувачував обставини, вона воліла пам’ятати про власні помилки.
+    Back: While he blamed the circumstances, she preferred to bear in mind her own mistakes.
+    Audio: test-english_ffa8e25d10dc.mp3
+    State: ''
+  tags: []
+- id: 1788731946937
+  fields:
+    Front: Він придбав нове обладнання для усунення неефективності на заводі.
+    Back: He acquired new equipment to eliminate inefficiency in the factory.
+    Audio: test-english_1035c332d0bd.mp3
+    State: ''
+  tags: []
+- id: 1788731946958
+  fields:
+    Front: Компанія найняла більше персоналу для забезпечення дотримання нових стандартів безпеки.
+    Back: The company hired more staff to enforce the new safety standards.
+    Audio: test-english_cd29ec9d6e57.mp3
+    State: ''
+  tags: []
+- id: 1788731946979
+  fields:
+    Front: Вона вибачилася, щоб запевнити своїх колег, що не намагалася нікого звинуватити.
+    Back: She apologized to assure her colleagues that she wasn't trying to blame anyone.
+    Audio: test-english_abbc93fce0e6.mp3
+    State: ''
+  tags: []
+- id: 1788731947005
+  fields:
+    Front: Вони модернізували приміщення, щоб усунути неналежні умови праці.
+    Back: They upgraded the facilities in order to eliminate inadequate working conditions.
+    Audio: test-english_ae5901e7b14c.mp3
+    State: ''
+  tags: []
+- id: 1788731947029
+  fields:
+    Front: Уряд запровадив нові правила, щоб забезпечити адекватні умови безпеки.
+    Back: The government introduced new rules so as to enforce adequate safety circumstances.
+    Audio: test-english_af71b0aff754.mp3
+    State: ''
+  tags: []
+- id: 1788731947054
+  fields:
+    Front: Працював понаднормово, щоб його не звинувачували в неадекватних результатах.
+    Back: He worked overtime so as not to be blamed for the inadequate results.
+    Audio: test-english_4ec7da99135f.mp3
+    State: ''
+  tags: []
+- id: 1788731947079
+  fields:
+    Front: Ми найняли консультанта, щоб компанія усунула неефективність.
+    Back: We hired a consultant in order for the company to eliminate inefficiency.
+    Audio: test-english_81b6ff2f4ff5.mp3
+    State: ''
+  tags: []
+- id: 1788731947104
+  fields:
+    Front: Менеджер вів записи, щоб він міг запевнити правління, що приміщення належні.
+    Back: The manager kept records so that he could assure the board that facilities were adequate.
+    Audio: test-english_37ffc5d3c465.mp3
+    State: ''
+  tags: []
+- id: 1788731947130
+  fields:
+    Front: Вона збирала гроші, щоб придбати краще обладнання для майстерні.
+    Back: She saved money so that she could acquire better equipment for the workshop.
+    Audio: test-english_57e176c9ef3c.mp3
+    State: ''
+  tags: []
+- id: 1788731947155
+  fields:
+    Front: Вони спростили процес, щоб неефективність не стала більшою проблемою.
+    Back: They simplified the process so that inefficiency would not become a bigger issue.
+    Audio: test-english_3031ef203eee.mp3
+    State: ''
+  tags: []
+- id: 1788731947179
+  fields:
+    Front: Ми зібрали додаткове спорядження для подорожі.
+    Back: We packed extra equipment for the trip.
+    Audio: test-english_02d486a09144.mp3
+    State: ''
+  tags: []
+- id: 1788731947205
+  fields:
+    Front: Він вибачився за невідповідні умови, щоб уникнути подальшого збентеження.
+    Back: He apologized for the inadequate facilities to avoid further embarrassment.
+    Audio: test-english_ada5c3227ae8.mp3
+    State: ''
+  tags: []
+- id: 1788731947230
+  fields:
+    Front: Візьміть запасний зарядний пристрій на випадок, якщо акумулятор розрядиться.
+    Back: Take a spare charger in case the equipment runs out of battery.
+    Audio: test-english_4f784da67d23.mp3
+    State: ''
+  tags: []
+- id: 1788731947254
+  fields:
+    Front: Вона зберегла запасний план на випадок, якщо обставини раптово зміняться.
+    Back: She kept a backup plan in case the circumstances changed suddenly.
+    Audio: test-english_83a388f8a7c9.mp3
+    State: ''
+  tags: []
+- id: 1788731947279
+  fields:
+    Front: Я не буду згадувати про помилку, якщо він ще більше збентежиться.
+    Back: I won't mention the mistake in case it makes him more embarrassed.
+    Audio: test-english_df29f52462ef.mp3
+    State: ''
+  tags: []
+- id: 1788731947304
+  fields:
+    Front: Його звинуватили в тому, що обладнання було невідповідним.
+    Back: He was blamed because the equipment was inadequate.
+    Audio: test-english_a009b027ba5a.mp3
+    State: ''
+  tags: []
+- id: 1788731947329
+  fields:
+    Front: Оскільки заклади були на межі руйнування, керівник вирішив запровадити нові правила.
+    Back: Because the facilities were on the verge of collapse, the manager decided to enforce new rules.
+    Audio: test-english_c8f49e1c8772.mp3
+    State: ''
+  tags: []
+- id: 1788731947354
+  fields:
+    Front: Вона хвилювалася, бо припускала найгірше про обставини.
+    Back: She felt worried because she assumed the worst about the circumstances.
+    Audio: test-english_789639e0deb0.mp3
+    State: ''
+  tags: []
+- id: 1788731947380
+  fields:
+    Front: Оскільки обладнання було невідповідним, робітники вимагали нових приміщень.
+    Back: As the equipment was inadequate, the workers demanded new facilities.
+    Audio: test-english_75f95127aea7.mp3
+    State: ''
+  tags: []
+- id: 1788731947403
+  fields:
+    Front: Оскільки компанії не вдалося усунути неефективність, все більше клієнтів скаржилися.
+    Back: Since the company failed to eliminate inefficiency, more and more clients complained.
+    Audio: test-english_421710da0c12.mp3
+    State: ''
+  tags: []
+- id: 1788731947429
+  fields:
+    Front: Оскільки він взяв на себе відповідальність, ніхто не міг звинуватити його в результаті.
+    Back: As he assumed responsibility, no one could blame him for the outcome.
+    Audio: test-english_b99e2d62dd1f.mp3
+    State: ''
+  tags: []
+- id: 1788731947455
+  fields:
+    Front: Проект був відкладений через невідповідне обладнання.
+    Back: The project was delayed because of inadequate equipment.
+    Audio: test-english_fb0b16cd3c63.mp3
+    State: ''
+  tags: []
+- id: 1788731947479
+  fields:
+    Front: Він був розчарований через шикарні, але погано керовані приміщення.
+    Back: He was disappointed because of the posh but poorly managed facilities.
+    Audio: test-english_4731b281de07.mp3
+    State: ''
+  tags: []
+- id: 1788731947505
+  fields:
+    Front: Завод закрився через роки неефективності.
+    Back: The factory closed down due to years of inefficiency.
+    Audio: test-english_e723f7ac93ee.mp3
+    State: ''
+  tags: []
+- id: 1788731947529
+  fields:
+    Front: Через невідповідні зручності гості були збентежені та роздратовані.
+    Back: Owing to inadequate facilities, the guests were confused and annoyed.
+    Audio: test-english_84c9e35957f3.mp3
+    State: ''
+  tags: []
+- id: 1788731947555
+  fields:
+    Front: Через обставини керівникові довелося нести основний тягар критики.
+    Back: On account of the circumstances, the manager had to bear the brunt of the criticism.
+    Audio: test-english_2751bb5adcdd.mp3
+    State: ''
+  tags: []
+- id: 1788731947580
+  fields:
+    Front: Обладнання було невідповідним, тому команда вирішила придбати нові інструменти.
+    Back: The equipment was inadequate, so the team decided to acquire new tools.
+    Audio: test-english_146007a143fa.mp3
+    State: ''
+  tags: []
+- id: 1788731947604
+  fields:
+    Front: Він забагато припускав, тож колеги почали звинувачувати його в запізненні.
+    Back: He assumed too much, so his colleagues began to blame him for the delay.
+    Audio: test-english_013bf8aad7bd.mp3
+    State: ''
+  tags: []
+- id: 1788731947629
+  fields:
+    Front: Облаштування було шикарним, тому гості не заперечували над високою ціною.
+    Back: The facilities were posh, so the guests didn't mind the high price.
+    Audio: test-english_299fd8fea81c.mp3
+    State: ''
+  tags: []
+- id: 1788731947654
+  fields:
+    Front: Обставини були неадекватні. З цієї причини правління вирішило запровадити нову політику.
+    Back: The circumstances were inadequate. For this reason, the board decided to enforce new policies.
+    Audio: test-english_208af4894e30.mp3
+    State: ''
+  tags: []
+- id: 1788731947679
+  fields:
+    Front: Техніка постійно виходила з ладу. З цієї причини їм довелося терміново купувати заміну.
+    Back: The equipment kept failing. For this reason, they had to acquire a replacement urgently.
+    Audio: test-english_dd99ba22afb3.mp3
+    State: ''
+  tags: []
+- id: 1788731947705
+  fields:
+    Front: Компанія ліквідувала декілька неефективних процесів. В результаті все більше і більше клієнтів
+      відчували себе впевнено.
+    Back: The company eliminated several inefficient processes. As a result, more and more clients felt
+      assured.
+    Audio: test-english_34a9d2f7786f.mp3
+    State: ''
+  tags: []
+- id: 1788731947729
+  fields:
+    Front: Він не врахував обставин. Отже, його звинуватили в помилці.
+    Back: He didn't bear in mind the circumstances. Consequently, he was blamed for the mistake.
+    Audio: test-english_a3a5af7efe67.mp3
+    State: ''
+  tags: []
+- id: 1788731947755
+  fields:
+    Front: Було оновлено приміщення. Тому персонал менше соромився приймати гостей.
+    Back: The facilities were upgraded. Therefore, the staff felt less embarrassed about hosting guests.
+    Audio: test-english_d774dd22d5a1.mp3
+    State: ''
+  tags: []
+- id: 1788731947779
+  fields:
+    Front: Міст закрили на ремонт. Отже, пасажирам щоранку доводилося їхати довгим об’їздом.
+    Back: The bridge was closed for repairs. Consequently, commuters had to take a long detour every morning.
+    Audio: test-english_5e465b09c29d.mp3
+    State: ''
+  tags: []
+- id: 1788731947804
+  fields:
+    Front: Вона пропускала кожне тренування перед марафоном. В результаті їй було важко завершити гонку.
+    Back: She skipped every training session before the marathon. Consequently, she struggled to finish
+      the race.
+    Audio: test-english_82c47f9e90c1.mp3
+    State: ''
+  tags: []
+- id: 1788731947829
+  fields:
+    Front: Проливний дощ тижнями затоплював поля. У результаті врожай виявився значно меншим за очікуваний.
+    Back: Heavy rain flooded the fields for weeks. As a result, the harvest was much smaller than expected.
+    Audio: test-english_3bdf11736c53.mp3
+    State: ''
+  tags: []
+- id: 1788731947854
+  fields:
+    Front: На розминці підвернув щиколотку. У підсумку йому довелося знятися з турніру.
+    Back: He twisted his ankle during warm-up. As a result, he had to withdraw from the tournament.
+    Audio: test-english_279ba848bf39.mp3
+    State: ''
+  tags: []
+- id: 1788731947879
+  fields:
+    Front: Авіакомпанія перебронювала рейс. У результаті кілька пасажирів потрапили до іншого.
+    Back: The airline overbooked the flight. As a result, several passengers were bumped to a later one.
+    Audio: test-english_97e5b9adda13.mp3
+    State: ''
+  tags: []
+- id: 1788731947903
+  fields:
+    Front: Село втратило єдине автобусне сполучення. З цієї причини літні мешканці покладаються на ліфтів
+      від сусідів.
+    Back: The village lost its only bus connection. For this reason, elderly residents rely on neighbours
+      for lifts.
+    Audio: test-english_f0e9dc24fb89.mp3
+    State: ''
+  tags: []
+- id: 1788731947930
+  fields:
+    Front: Їхнє спілкування обірвалося на місяці. З цієї причини пара остаточно вирішила розлучитися.
+    Back: Their communication had broken down for months. For this reason, the couple finally decided
+      to separate.
+    Audio: test-english_409a49039ddf.mp3
+    State: ''
+  tags: []
+- id: 1788731947955
+  fields:
+    Front: Цукор був пов'язаний з його головними болями. З цієї причини дієтолог посадив його на нову
+      жорстку дієту.
+    Back: Sugar was linked to his headaches. For this reason, the nutritionist put him on a strict new
+      diet.
+    Audio: test-english_35ef7bb5cd47.mp3
+    State: ''
+  tags: []
+- id: 1788731947979
+  fields:
+    Front: Пікнік скасували через раптову грозу.
+    Back: The picnic was cancelled because of the sudden thunderstorm.
+    Audio: test-english_b74a186aa081.mp3
+    State: ''
+  tags: []
+- id: 1788731948003
+  fields:
+    Front: Він пропустив співбесіду через затримку поїзда.
+    Back: He missed the job interview because of a delayed train.
+    Audio: test-english_b8560a6a61e5.mp3
+    State: ''
+  tags: []
+- id: 1788731948029
+  fields:
+    Front: Вона не могла зосередитися на навчанні через постійний шум з сусіднього будівельного майданчика.
+    Back: She couldn't focus on her studies because of constant noise from the construction site next
+      door.
+    Audio: test-english_163862cd5c1e.mp3
+    State: ''
+  tags: []
+- id: 1788731948055
+  fields:
+    Front: Через брак медсестер клініка скоротила години роботи.
+    Back: Due to a shortage of nurses, the clinic reduced its opening hours.
+    Audio: test-english_92d1d42671b6.mp3
+    State: ''
+  tags: []
+- id: 1788731948080
+  fields:
+    Front: Через недавній злом безпеки банк попросив кожного клієнта змінити свій пароль.
+    Back: Due to the recent security breach, the bank asked every customer to change their password.
+    Audio: test-english_f6d5916d5efe.mp3
+    State: ''
+  tags: []
+- id: 1788731948104
+  fields:
+    Front: Концерт перенесли через раптову хворобу співака.
+    Back: The concert was postponed due to the singer's sudden illness.
+    Audio: test-english_f1abb05894c4.mp3
+    State: ''
+  tags: []
+- id: 1788731948129
+  fields:
+    Front: Завдяки своїй приголомшливій береговій лінії місто щоліта приваблює тисячі туристів.
+    Back: Owing to its stunning coastline, the town attracts thousands of tourists every summer.
+    Audio: test-english_3a038f660e92.mp3
+    State: ''
+  tags: []
+- id: 1788731948154
+  fields:
+    Front: Через друкарську помилку першу партію квитків довелося переоформити.
+    Back: Owing to a printing error, the first batch of tickets had to be reissued.
+    Audio: test-english_dc77c96ac883.mp3
+    State: ''
+  tags: []
+- id: 1788731948179
+  fields:
+    Front: З міркувань безпеки глядачів матч проходив за закритими дверима.
+    Back: The match was played behind closed doors owing to crowd safety concerns.
+    Audio: test-english_4c90c5503644.mp3
+    State: ''
+  tags: []
+- id: 1788731948204
+  fields:
+    Front: Ветеран-скелелаз через свій вік вирішив найняти для експедиції молодшого гіда.
+    Back: On account of his age, the veteran climber decided to hire a younger guide for the expedition.
+    Audio: test-english_8f98d9e264d0.mp3
+    State: ''
+  tags: []
+- id: 1788731948229
+  fields:
+    Front: Через сімейний випадок їй довелося покинути конференцію раніше.
+    Back: On account of a family emergency, she had to leave the conference early.
+    Audio: test-english_b3014405e7a3.mp3
+    State: ''
+  tags: []
+- id: 1788731948254
+  fields:
+    Front: Ресторан закрився раніше через приватну подію того вечора.
+    Back: The restaurant closed early on account of a private event that evening.
+    Audio: test-english_2c79ac84cc49.mp3
+    State: ''
+  tags: []
+- id: 1788731948279
+  fields:
+    Front: Оскільки вона ніколи раніше не подорожувала сама, в аеропорту вона нервувала.
+    Back: Since she had never travelled alone before, she felt nervous at the airport.
+    Audio: test-english_ab36ef867608.mp3
+    State: ''
+  tags: []
+- id: 1788731948304
+  fields:
+    Front: Оскільки того дня музей був вільний, черга розтягнулася навколо кварталу.
+    Back: Since the museum was free that day, the queue stretched around the block.
+    Audio: test-english_068bcdd344a7.mp3
+    State: ''
+  tags: []
+- id: 1788731948329
+  fields:
+    Front: Він сів на ранній поїзд, оскільки хотів уникнути вечірньої суєти.
+    Back: He took the earlier train since he wanted to avoid the evening rush.
+    Audio: test-english_45c0660d4103.mp3
+    State: ''
+  tags: []
+- id: 1788731948354
+  fields:
+    Front: Оскільки йшов сильний дощ, весільні фотографії були зроблені в приміщенні.
+    Back: As it was raining heavily, the wedding photos were taken indoors instead.
+    Audio: test-english_f707530c078c.mp3
+    State: ''
+  tags: []
+- id: 1788731948379
+  fields:
+    Front: Оскільки вона вже прочитала книгу, то одразу перейшла до екранізації.
+    Back: As she had already read the book, she skipped straight to the film adaptation.
+    Audio: test-english_04df11d48c41.mp3
+    State: ''
+  tags: []
+- id: 1788731948404
+  fields:
+    Front: Він вивчив базову іспанську мову, щоб спілкуватися зі своїми новими сусідами.
+    Back: He learned basic Spanish in order to communicate with his new neighbours.
+    Audio: test-english_5c427f8a075e.mp3
+    State: ''
+  tags: []
+- id: 1788731948430
+  fields:
+    Front: У той час як деякі студенти віддають перевагу навчанню поодинці, інші краще навчаються в групах.
+    Back: While some students prefer studying alone, others learn better in groups.
+    Audio: test-english_cfa343405e9c.mp3
+    State: ''
+  tags: []
+- id: 1788731948454
+  fields:
+    Front: Незважаючи на мороз, до благодійного забігу долучилися сотні плавців.
+    Back: In spite of the freezing temperatures, hundreds of swimmers joined the charity race.
+    Audio: test-english_aad831d11d64.mp3
+    State: ''
+  tags: []
+- id: 1788731948479
+  fields:
+    Front: Незважаючи на невдалий старт, юний скрипаль виграв конкурс.
+    Back: In spite of a shaky start, the young violinist won the competition.
+    Audio: test-english_685a84e64759.mp3
+    State: ''
+  tags: []
+- id: 1788731948505
+  fields:
+    Front: За ніч ціни на квитки зросли вдвічі. Тому на фінальний матч прийшло менше вболівальників.
+    Back: Ticket prices doubled overnight. Therefore, fewer fans attended the final match.
+    Audio: test-english_0cfc00b600f6.mp3
+    State: ''
+  tags: []
+- id: 1788731948529
+  fields:
+    Front: Минулого року процентні ставки різко зросли. Тому багато сімей відкладали покупку житла.
+    Back: Interest rates rose sharply last year. Therefore, many families postponed buying a house.
+    Audio: test-english_1c9a92e4c8e4.mp3
+    State: ''
+  tags: []
+- id: 1788731948555
+  fields:
+    Front: Оскільки два роки поспіль не було врожаю, фермер перейшов на іншу культуру.
+    Back: As the harvest had failed two years in a row, the farmer switched to a different crop.
+    Audio: test-english_56904a1460b2.mp3
+    State: ''
+  tags: []
+- id: 1788731948580
+  fields:
+    Front: Стартап різко скоротив витрати, щоб пережити свою першу зиму.
+    Back: The startup cut costs sharply in order to survive its first winter.
+    Audio: test-english_05ba2a30b6a7.mp3
+    State: ''
+  tags: []
+- id: 1788731948604
+  fields:
+    Front: Вона прокинулася о п'ятій, щоб побачити схід сонця над горами.
+    Back: She woke up at five in order to catch the sunrise over the mountains.
+    Audio: test-english_1289edfbf0e0.mp3
+    State: ''
+  tags: []
+- id: 1788731948629
+  fields:
+    Front: У той час як її брат любить багатолюдні міста, вона віддає перевагу тихим сільським прогулянкам.
+    Back: Whereas her brother loves crowded cities, she prefers quiet countryside walks.
+    Audio: test-english_23b76a297530.mp3
+    State: ''
+  tags: []
+- id: 1788731948654
+  fields:
+    Front: У той час як північне узбережжя скелясте і дике, південне встеляється піщаними пляжами.
+    Back: Whereas the northern coast is rocky and wild, the south is lined with sandy beaches.
+    Audio: test-english_7b841c64c0cf.mp3
+    State: ''
+  tags: []
+- id: 1788731948680
+  fields:
+    Front: У той час як фаст-фуд дешевий і швидкий, домашні страви зазвичай корисніші.
+    Back: Whereas fast food is cheap and quick, home-cooked meals are usually healthier.
+    Audio: test-english_aaba7d5b3f4a.mp3
+    State: ''
+  tags: []
+- id: 1788731948705
+  fields:
+    Front: У той час як один близнюк став лікарем, інший займався музикою.
+    Back: While one twin became a doctor, the other pursued a career in music.
+    Audio: test-english_8a49a62e5875.mp3
+    State: ''
+  tags: []
+- id: 1788731948729
+  fields:
+    Front: У той час як прогноз передбачав сонячне світло, день видався напрочуд штормовим.
+    Back: While the forecast predicted sunshine, the afternoon turned surprisingly stormy.
+    Audio: test-english_e22c96e8a8fa.mp3
+    State: ''
+  tags: []
+- id: 1788731948755
+  fields:
+    Front: Незважаючи на втрату своїх заощаджень під час аварії, він залишався надзвичайно спокійним.
+    Back: In spite of losing his savings in the crash, he remained remarkably calm.
+    Audio: test-english_897f75cad454.mp3
+    State: ''
+  tags: []
+- id: 1788731948780
+  fields:
+    Front: Хоча він був на межі кинути, він вирішив потерпіти з ситуацією ще трохи.
+    Back: Although he was on the verge of quitting, he decided to bear with the situation a bit longer.
+    Audio: test-english_eb45aa761059.mp3
+    State: ''
+  tags: []
+- id: 1788731948804
+  fields:
+    Front: Незважаючи на обставини, вдалося придбати достатньо приміщення для проведення заходу.
+    Back: In spite of the circumstances, they managed to acquire enough facilities for the event.
+    Audio: test-english_7a0922778abf.mp3
+    State: ''
+  tags: []
+- id: 1788731948829
+  fields:
+    Front: Незважаючи на те, що умови були невідповідними, гості виглядали задоволеними.
+    Back: Despite the fact that the facilities were inadequate, the guests seemed satisfied.
+    Audio: test-english_7f652a662c89.mp3
+    State: ''
+  tags: []
+- id: 1788731948854
+  fields:
+    Front: Поки менеджер намагався забезпечити виконання нової політики, персонал припускав, що вона не
+      триватиме.
+    Back: While the manager tried to enforce the new policy, the staff assumed it wouldn't last.
+    Audio: test-english_9533909333e8.mp3
+    State: ''
+  tags: []
+- id: 1788731948879
+  fields:
+    Front: Він забув зберегти свій твір до того, як ноутбук зламався. Тому йому довелося переписувати
+      його з нуля.
+    Back: He forgot to save his essay before the laptop crashed. Consequently, he had to rewrite it from
+      scratch.
+    Audio: test-english_a53c7a6fd35d.mp3
+    State: ''
+  tags: []
+- id: 1788731948905
+  fields:
+    Front: Під час обстеження лікар не виявив нічого серйозного. Тому їй дозволили подорожувати, як планувалося.
+    Back: The doctor found nothing serious in the scan. Therefore, she was allowed to travel as planned.
+    Audio: test-english_abe25e3fa39d.mp3
+    State: ''
+  tags: []
