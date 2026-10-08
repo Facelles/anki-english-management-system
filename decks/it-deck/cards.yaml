@@ -6427,229 +6427,196 @@
     Front: Відтворити помилку означає повторити її в контрольованих умовах.
     Back: To reproduce a bug means to make it happen again under controlled conditions.
     Audio: it-deck_9d52df20360e.mp3
-    State: ''
   tags: []
 - id: 1787266154123
   fields:
     Front: Чи можете ви відтворити помилку зі свого боку, перш ніж ми її передамо?
     Back: Can you reproduce the bug on your end before we escalate it?
     Audio: it-deck_1c4c37b00a33.mp3
-    State: ''
   tags: []
 - id: 1787266154148
   fields:
     Front: Мені не вдалося відтворити проблему з кроками в квитку.
     Back: I couldn't reproduce the issue with the steps in the ticket.
     Audio: it-deck_3c5e7b557388.mp3
-    State: ''
   tags: []
 - id: 1787266154173
   fields:
     Front: Сьогодні вранці QA відтворила збій на останній збірці.
     Back: QA reproduced the crash on the latest build this morning.
     Audio: it-deck_a046aac625fd.mp3
-    State: ''
   tags: []
 - id: 1787266154197
   fields:
     Front: Будь ласка, відтворіть помилку та додайте знімок екрана до заявки.
     Back: Please reproduce the bug and attach a screenshot to the ticket.
     Audio: it-deck_22a14336f6b1.mp3
-    State: ''
   tags: []
 - id: 1787266154222
   fields:
     Front: Помилка не відтворюється на сцені, лише на виробництві.
     Back: The bug is not reproducible on staging, only on production.
     Audio: it-deck_aeb130d24b0f.mp3
-    State: ''
   tags: []
 - id: 1787266154248
   fields:
     Front: Нам потрібні чіткі кроки для відтворення, перш ніж призначити це розробнику.
     Back: We need clear steps to reproduce before assigning this to a developer.
     Audio: it-deck_4ad3a47c259f.mp3
-    State: ''
   tags: []
 - id: 1787266154272
   fields:
     Front: Чи можете ви підтвердити, що помилка все ще виникає на вашому боці?
     Back: Could you confirm that the bug is still happening on your side?
     Audio: it-deck_f6d219beb106.mp3
-    State: ''
   tags: []
 - id: 1787266154298
   fields:
     Front: Дозвольте мені перевірити це за допомогою QA, перш ніж позначити це як виправлене.
     Back: Let me verify this with QA before I mark it as fixed.
     Audio: it-deck_2b6f0ed411c3.mp3
-    State: ''
   tags: []
 - id: 1787266154323
   fields:
     Front: Чи можете ви підтвердити, що виправлення справді вирішує проблему, а не просто приховує її?
     Back: Can you verify that the fix actually solves the problem, not just hides it?
     Audio: it-deck_1818bc9cc442.mp3
-    State: ''
   tags: []
 - id: 1787266154347
   fields:
     Front: Я ще не підтвердив, чи це також впливає на мобільний додаток.
     Back: I haven't confirmed yet whether this affects the mobile app too.
     Audio: it-deck_91cef9f9f404.mp3
-    State: ''
   tags: []
 - id: 1787266154373
   fields:
     Front: Менеджер попросив нас підтвердити першопричину перед випуском.
     Back: The manager asked us to confirm the root cause before the release.
     Audio: it-deck_36f7aed3e0b9.mp3
-    State: ''
   tags: []
 - id: 1787266154397
   fields:
     Front: Коли QA підтвердить виправлення, ми закриємо запит.
     Back: Once QA confirms the fix, we'll close the ticket.
     Audio: it-deck_f05b4da21dbe.mp3
-    State: ''
   tags: []
 - id: 1787266154422
   fields:
     Front: Це все ще відбувається після останнього розгортання?
     Back: Is this still happening after the last deployment?
     Audio: it-deck_14d97276efc1.mp3
-    State: ''
   tags: []
 - id: 1787266154447
   fields:
     Front: Помилка не зникає навіть після очищення кешу.
     Back: The error still persists even after clearing the cache.
     Audio: it-deck_164fa19e7014.mp3
-    State: ''
   tags: []
 - id: 1787266154473
   fields:
     Front: Повідомте мене, якщо проблема все ще відтворюється на вашій машині.
     Back: Let me know if the issue is still reproducing on your machine.
     Audio: it-deck_002e2192b379.mp3
-    State: ''
   tags: []
 - id: 1787266154498
   fields:
     Front: Згідно з журналами, проблема перестала виникати після вчорашнього патча.
     Back: According to the logs, the problem stopped happening after yesterday's patch.
     Audio: it-deck_4762a0f6ff87.mp3
-    State: ''
   tags: []
 - id: 1787266154523
   fields:
     Front: Якщо це блокує випуск, ми маємо передати його керівнику групи.
     Back: If this blocks the release, we should escalate it to the team lead.
     Audio: it-deck_edf168b68822.mp3
-    State: ''
   tags: []
 - id: 1787266154547
   fields:
     Front: Я посилив квиток, тому що два дні його ніхто не забирав.
     Back: I escalated the ticket because nobody picked it up for two days.
     Audio: it-deck_c00ecbb5e5aa.mp3
-    State: ''
   tags: []
 - id: 1787266154572
   fields:
     Front: Це ще недостатньо терміново для ескалації – давайте спочатку відстежимо це.
     Back: This isn't urgent enough to escalate yet - let's monitor it first.
     Audio: it-deck_6b4bc7e43159.mp3
-    State: ''
   tags: []
 - id: 1787266154598
   fields:
     Front: Чи можете ви передати це команді інфраструктури? Це поза нашими можливостями.
     Back: Could you escalate this to the infrastructure team? It's outside our scope.
     Audio: it-deck_1bcc0bb63820.mp3
-    State: ''
   tags: []
 - id: 1787266154623
   fields:
     Front: Я зв’яжуся з QA, щоб дізнатися, чи зможуть вони це відтворити.
     Back: I'll follow up with QA to see if they can reproduce it.
     Audio: it-deck_35df3799c205.mp3
-    State: ''
   tags: []
 - id: 1787266154647
   fields:
     Front: Чи можете ви зв’язатися з клієнтом і запитати більше деталей?
     Back: Can you follow up with the customer and ask for more details?
     Audio: it-deck_e074230620ab.mp3
-    State: ''
   tags: []
 - id: 1787266154672
   fields:
     Front: Ніхто не перевірив цей квиток після його повторного відкриття.
     Back: Nobody followed up on this ticket after it was reopened.
     Audio: it-deck_2b0d2fc36c1e.mp3
-    State: ''
   tags: []
 - id: 1787266154697
   fields:
     Front: Я просто доповнюю помилку, про яку повідомив учора.
     Back: I'm just following up on the bug I reported yesterday.
     Audio: it-deck_4a4eda217d5c.mp3
-    State: ''
   tags: []
 - id: 1787266154722
   fields:
     Front: Давайте зациклимося на бекенд-команді, оскільки це може бути проблема з базою даних.
     Back: Let's loop in the backend team since this might be a database issue.
     Audio: it-deck_9b6ba2121aef.mp3
-    State: ''
   tags: []
 - id: 1787266154747
   fields:
     Front: Чи не могли б ви запустити менеджера продуктів, перш ніж ми змінимо вимоги?
     Back: Could you loop in the product manager before we change the requirements?
     Audio: it-deck_4ac6c2f0e55f.mp3
-    State: ''
   tags: []
 - id: 1787266154772
   fields:
     Front: Я завчасно запустив QA, щоб вони могли почати тестування паралельно.
     Back: I looped in QA early so they could start testing in parallel.
     Audio: it-deck_7b196469c402.mp3
-    State: ''
   tags: []
 - id: 1787266154797
   fields:
     Front: Ми забули зациклити клієнта, тому вони були здивовані затримкою.
     Back: We forgot to loop in the client, so they were surprised by the delay.
     Audio: it-deck_2945e75124c5.mp3
-    State: ''
   tags: []
 - id: 1787266154822
   fields:
     Front: Я зв’яжуся з вами, коли відтворю проблему локально.
     Back: I'll get back to you once I've reproduced the issue locally.
     Audio: it-deck_ee7a48e58be7.mp3
-    State: ''
   tags: []
 - id: 1787266154848
   fields:
     Front: Чи можете ви зв’язатися зі мною до кінця дня з оновленням?
     Back: Can you get back to me by end of day with an update?
     Audio: it-deck_10d53b5577c9.mp3
-    State: ''
   tags: []
 - id: 1787266154873
   fields:
     Front: Повідомляйте мене, якщо помилка знову з’явиться у виробництві.
     Back: Keep me posted if the bug shows up again in production.
     Audio: it-deck_2396b9b53f92.mp3
-    State: ''
   tags: []
 - id: 1787266154897
   fields:
     Front: Я повідомлю команду, щойно QA підтвердить виправлення.
     Back: I'll keep the team posted as soon as QA confirms the fix.
     Audio: it-deck_0d820e5e24b5.mp3
-    State: ''
   tags: []
